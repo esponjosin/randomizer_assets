@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Abyssal Mask",
+    "image": "./img/Abyssal_Mask.png"
+  },
+  {
+    "name": "Anathema's Chains",
+    "image": "./img/Anathema_s_Chains.png"
+  },
+  {
+    "name": "Archangel's Staff",
+    "image": "./img/Archangel_s_Staff.png"
+  },
+  {
+    "name": "Ardent Censer",
+    "image": "./img/Ardent_Censer.png"
+  },
+  {
+    "name": "Axiom Arc",
+    "image": "./img/Axiom_Arc.png"
+  },
+  {
+    "name": "Banshee's Veil",
+    "image": "./img/Banshee_s_Veil.png"
+  },
+  {
+    "name": "Black Cleaver",
+    "image": "./img/Black_Cleaver.png"
+  },
+  {
+    "name": "Black Mist Scythe",
+    "image": "./img/Black_Mist_Scythe.png"
+  },
+  {
+    "name": "Blade of the Ruined King",
+    "image": "./img/Blade_of_the_Ruined_King.png"
+  },
+  {
+    "name": "Bloodthirster",
+    "image": "./img/Bloodthirster.png"
+  },
+  {
+    "name": "Bulwark of the Mountain",
+    "image": "./img/Bulwark_of_the_Mountain.png"
+  },
+  {
+    "name": "Chempunk Chainsword",
+    "image": "./img/Chempunk_Chainsword.png"
+  },
+  {
+    "name": "Chemtech Putrifier",
+    "image": "./img/Chemtech_Putrifier.png"
+  },
+  {
+    "name": "Cosmic Drive",
+    "image": "./img/Cosmic_Drive.png"
+  },
+  {
+    "name": "Dead Man's Plate",
+    "image": "./img/Dead_Man_s_Plate.png"
+  },
+  {
+    "name": "Death's Dance",
+    "image": "./img/Death_s_Dance.png"
+  },
+  {
+    "name": "Demonic Embrace",
+    "image": "./img/Demonic_Embrace.png"
+  },
+  {
+    "name": "Edge of Night",
+    "image": "./img/Edge_of_Night.png"
+  },
+  {
+    "name": "Essence Reaver",
+    "image": "./img/Essence_Reaver.png"
+  },
+  {
+    "name": "Fimbulwinter",
+    "image": "./img/Fimbulwinter.png"
+  },
+  {
+    "name": "Force of Nature",
+    "image": "./img/Force_of_Nature.png"
+  },
+  {
+    "name": "Frozen Heart",
+    "image": "./img/Frozen_Heart.png"
+  },
+  {
+    "name": "Gargoyle Stoneplate",
+    "image": "./img/Gargoyle_Stoneplate.png"
+  },
+  {
+    "name": "Guardian Angel",
+    "image": "./img/Guardian_Angel.png"
+  },
+  {
+    "name": "Horizon Focus",
+    "image": "./img/Horizon_Focus.png"
+  },
+  {
+    "name": "Hullbreaker",
+    "image": "./img/Hullbreaker.png"
+  },
+  {
+    "name": "Immortal Shieldbow",
+    "image": "./img/Immortal_Shieldbow.png"
+  },
+  {
+    "name": "Imperial Mandate",
+    "image": "./img/Imperial_Mandate.png"
+  },
+  {
+    "name": "Knight's Vow",
+    "image": "./img/Knight_s_Vow.png"
+  },
+  {
+    "name": "Kraken Slayer",
+    "image": "./img/Kraken_Slayer.png"
+  },
+  {
+    "name": "Lich Bane",
+    "image": "./img/Lich_Bane.png"
+  },
+  {
+    "name": "Lord Dominik's Regards",
+    "image": "./img/Lord_Dominik_s_Regards.png"
+  },
+  {
+    "name": "Manamune",
+    "image": "./img/Manamune.png"
+  },
+  {
+    "name": "Maw of Malmortius",
+    "image": "./img/Maw_of_Malmortius.png"
+  },
+  {
+    "name": "Mejai's Soulstealer",
+    "image": "./img/Mejai_s_Soulstealer.png"
+  },
+  {
+    "name": "Mercurial Scimitar",
+    "image": "./img/Mercurial_Scimitar.png"
+  },
+  {
+    "name": "Mikael's Blessing",
+    "image": "./img/Mikael_s_Blessing.png"
+  },
+  {
+    "name": "Morellonomicon",
+    "image": "./img/Morellonomicon.png"
+  },
+  {
+    "name": "Mortal Reminder",
+    "image": "./img/Mortal_Reminder.png"
+  },
+  {
+    "name": "Muramana",
+    "image": "./img/Muramana.png"
+  },
+  {
+    "name": "Nashor's Tooth",
+    "image": "./img/Nashor_s_Tooth.png"
+  },
+  {
+    "name": "Pauldrons of Whiterock",
+    "image": "./img/Pauldrons_of_Whiterock.png"
+  },
+  {
+    "name": "Phantom Dancer",
+    "image": "./img/Phantom_Dancer.png"
+  },
+  {
+    "name": "Prowler's Claw",
+    "image": "./img/Prowler_s_Claw.png"
+  },
+  {
+    "name": "Rabadon's Deathcap",
+    "image": "./img/Rabadon_s_Deathcap.png"
+  },
+  {
+    "name": "Randuin's Omen",
+    "image": "./img/Randuin_s_Omen.png"
+  },
+  {
+    "name": "Rapid Firecannon",
+    "image": "./img/Rapid_Firecannon.png"
+  },
+  {
+    "name": "Ravenous Hydra",
+    "image": "./img/Ravenous_Hydra.png"
+  },
+  {
+    "name": "Redemption",
+    "image": "./img/Redemption.png"
+  },
+  {
+    "name": "Runaan's Hurricane",
+    "image": "./img/Runaan_s_Hurricane.png"
+  },
+  {
+    "name": "Rylai's Crystal Scepter",
+    "image": "./img/Rylai_s_Crystal_Scepter.png"
+  },
+  {
+    "name": "Seraph's Embrace",
+    "image": "./img/Seraph_s_Embrace.png"
+  },
+  {
+    "name": "Serpent's Fang",
+    "image": "./img/Serpent_s_Fang.png"
+  },
+  {
+    "name": "Serylda's Grudge",
+    "image": "./img/Serylda_s_Grudge.png"
+  },
+  {
+    "name": "Shadowflame",
+    "image": "./img/Shadowflame.png"
+  },
+  {
+    "name": "Shard of True Ice",
+    "image": "./img/Shard_of_True_Ice.png"
+  },
+  {
+    "name": "Silvermere Dawn",
+    "image": "./img/Silvermere_Dawn.png"
+  },
+  {
+    "name": "Spear of Shojin",
+    "image": "./img/Spear_of_Shojin.png"
+  },
+  {
+    "name": "Spirit Visage",
+    "image": "./img/Spirit_Visage.png"
+  },
+  {
+    "name": "Staff of Flowing Water",
+    "image": "./img/Staff_of_Flowing_Water.png"
+  },
+  {
+    "name": "Statikk Shiv",
+    "image": "./img/Statikk_Shiv.png"
+  },
+  {
+    "name": "Sterak's Gage",
+    "image": "./img/Sterak_s_Gage.png"
+  },
+  {
+    "name": "Stormrazor",
+    "image": "./img/Stormrazor.png"
+  },
+  {
+    "name": "Sunfire Aegis",
+    "image": "./img/Sunfire_Aegis.png"
+  },
+  {
+    "name": "The Collector",
+    "image": "./img/The_Collector.png"
+  },
+  {
+    "name": "Thornmail",
+    "image": "./img/Thornmail.png"
+  },
+  {
+    "name": "Titanic Hydra",
+    "image": "./img/Titanic_Hydra.png"
+  },
+  {
+    "name": "Turbo Chemtank",
+    "image": "./img/Turbo_Chemtank.png"
+  },
+  {
+    "name": "Umbral Glaive",
+    "image": "./img/Umbral_Glaive.png"
+  },
+  {
+    "name": "Vigilant Wardstone",
+    "image": "./img/Vigilant_Wardstone.png"
+  },
+  {
+    "name": "Void Staff",
+    "image": "./img/Void_Staff.png"
+  },
+  {
+    "name": "Warmog's Armor",
+    "image": "./img/Warmog_s_Armor.png"
+  },
+  {
+    "name": "Winter's Approach",
+    "image": "./img/Winter_s_Approach.png"
+  },
+  {
+    "name": "Wit's End",
+    "image": "./img/Wit_s_End.png"
+  },
+  {
+    "name": "Zeke's Convergence",
+    "image": "./img/Zeke_s_Convergence.png"
+  },
+  {
+    "name": "Zhonya's Hourglass",
+    "image": "./img/Zhonya_s_Hourglass.png"
+  }
+]

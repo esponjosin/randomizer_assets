@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Cull",
+    "image": "./img/Cull.png"
+  },
+  {
+    "name": "Dark Seal",
+    "image": "./img/Dark_Seal.png"
+  },
+  {
+    "name": "Doran's Blade",
+    "image": "./img/Doran_s_Blade.png"
+  },
+  {
+    "name": "Doran's Ring",
+    "image": "./img/Doran_s_Ring.png"
+  },
+  {
+    "name": "Doran's Shield",
+    "image": "./img/Doran_s_Shield.png"
+  },
+  {
+    "name": "Farsight Alteration",
+    "image": "./img/Farsight_Alteration.png"
+  },
+  {
+    "name": "Gustwalker Hatchling",
+    "image": "./img/Gustwalker_Hatchling.png"
+  },
+  {
+    "name": "Mosstomper Seedling",
+    "image": "./img/Mosstomper_Seedling.png"
+  },
+  {
+    "name": "Oracle Lens",
+    "image": "./img/Oracle_Lens.png"
+  },
+  {
+    "name": "Relic Shield",
+    "image": "./img/Relic_Shield.png"
+  },
+  {
+    "name": "Scorchclaw Pup",
+    "image": "./img/Scorchclaw_Pup.png"
+  },
+  {
+    "name": "Spectral Sickle",
+    "image": "./img/Spectral_Sickle.png"
+  },
+  {
+    "name": "Spellthief's Edge",
+    "image": "./img/Spellthief_s_Edge.png"
+  },
+  {
+    "name": "Stealth Ward",
+    "image": "./img/Stealth_Ward.png"
+  },
+  {
+    "name": "Steel Shoulderguards",
+    "image": "./img/Steel_Shoulderguards.png"
+  },
+  {
+    "name": "Tear of the Goddess",
+    "image": "./img/Tear_of_the_Goddess.png"
+  }
+]

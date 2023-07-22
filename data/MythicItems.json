@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Crown of the Shattered Queen",
+    "image": "./img/Crown_of_the_Shattered_Queen.png"
+  },
+  {
+    "name": "Divine Sunderer",
+    "image": "./img/Divine_Sunderer.png"
+  },
+  {
+    "name": "Duskblade of Draktharr",
+    "image": "./img/Duskblade_of_Draktharr.png"
+  },
+  {
+    "name": "Echoes of Helia",
+    "image": "./img/Echoes_of_Helia.png"
+  },
+  {
+    "name": "Eclipse",
+    "image": "./img/Eclipse.png"
+  },
+  {
+    "name": "Evenshroud",
+    "image": "./img/Evenshroud.png"
+  },
+  {
+    "name": "Everfrost",
+    "image": "./img/Everfrost.png"
+  },
+  {
+    "name": "Galeforce",
+    "image": "./img/Galeforce.png"
+  },
+  {
+    "name": "Goredrinker",
+    "image": "./img/Goredrinker.png"
+  },
+  {
+    "name": "Guinsoo's Rageblade",
+    "image": "./img/Guinsoo_s_Rageblade.png"
+  },
+  {
+    "name": "Heartsteel",
+    "image": "./img/Heartsteel.png"
+  },
+  {
+    "name": "Hextech Rocketbelt",
+    "image": "./img/Hextech_Rocketbelt.png"
+  },
+  {
+    "name": "Iceborn Gauntlet",
+    "image": "./img/Iceborn_Gauntlet.png"
+  },
+  {
+    "name": "Infinity Edge",
+    "image": "./img/Infinity_Edge.png"
+  },
+  {
+    "name": "Jak'Sho, The Protean",
+    "image": "./img/Jak_Sho,_The_Protean.png"
+  },
+  {
+    "name": "Liandry's Anguish",
+    "image": "./img/Liandry_s_Anguish.png"
+  },
+  {
+    "name": "Locket of the Iron Solari",
+    "image": "./img/Locket_of_the_Iron_Solari.png"
+  },
+  {
+    "name": "Luden's Tempest",
+    "image": "./img/Luden_s_Tempest.png"
+  },
+  {
+    "name": "Moonstone Renewer",
+    "image": "./img/Moonstone_Renewer.png"
+  },
+  {
+    "name": "Navori Quickblades",
+    "image": "./img/Navori_Quickblades.png"
+  },
+  {
+    "name": "Night Harvester",
+    "image": "./img/Night_Harvester.png"
+  },
+  {
+    "name": "Radiant Virtue",
+    "image": "./img/Radiant_Virtue.png"
+  },
+  {
+    "name": "Riftmaker",
+    "image": "./img/Riftmaker.png"
+  },
+  {
+    "name": "Rod of Ages",
+    "image": "./img/Rod_of_Ages.png"
+  },
+  {
+    "name": "Shurelya's Battlesong",
+    "image": "./img/Shurelya_s_Battlesong.png"
+  },
+  {
+    "name": "Stridebreaker",
+    "image": "./img/Stridebreaker.png"
+  },
+  {
+    "name": "Trinity Force",
+    "image": "./img/Trinity_Force.png"
+  },
+  {
+    "name": "Youmuu's Ghostblade",
+    "image": "./img/Youmuu_s_Ghostblade.png"
+  }
+]
