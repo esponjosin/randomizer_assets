@@ -1,658 +1,986 @@
 [
   {
     "name": "Aatrox",
-    "image": "./img/Aatrox.png"
+    "image": "./img/Aatrox.png",
+    "alias": "The Darkin Blade",
+    "role": "Fighter"
   },
   {
     "name": "Ahri",
-    "image": "./img/Ahri.png"
+    "image": "./img/Ahri.png",
+    "alias": "The Nine-tailed Fox",
+    "role": "Mage"
   },
   {
     "name": "Akali",
-    "image": "./img/Akali.png"
+    "image": "./img/Akali.png",
+    "alias": "The Rogue Assassin",
+    "role": "Assassin"
   },
   {
     "name": "Akshan",
-    "image": "./img/Akshan.png"
+    "image": "./img/Akshan.png",
+    "alias": "The Rogue Sentinel",
+    "role": "Marksman"
   },
   {
     "name": "Alistar",
-    "image": "./img/Alistar.png"
+    "image": "./img/Alistar.png",
+    "alias": "The Minotaur",
+    "role": "Tank"
   },
   {
     "name": "Amumu",
-    "image": "./img/Amumu.png"
+    "image": "./img/Amumu.png",
+    "alias": "The Sad Mummy",
+    "role": "Tank"
   },
   {
     "name": "Anivia",
-    "image": "./img/Anivia.png"
+    "image": "./img/Anivia.png",
+    "alias": "The Cryophoenix",
+    "role": "Mage"
   },
   {
     "name": "Annie",
-    "image": "./img/Annie.png"
+    "image": "./img/Annie.png",
+    "alias": "The Dark Child",
+    "role": "Mage"
   },
   {
     "name": "Aphelios",
-    "image": "./img/Aphelios.png"
+    "image": "./img/Aphelios.png",
+    "alias": "The Weapon Of The Faithful",
+    "role": "Marksman"
   },
   {
     "name": "Ashe",
-    "image": "./img/Ashe.png"
+    "image": "./img/Ashe.png",
+    "alias": "The Frost Archer",
+    "role": "Marksman"
   },
   {
     "name": "Aurelion Sol",
-    "image": "./img/Aurelion_Sol.png"
+    "image": "./img/Aurelion_Sol.png",
+    "alias": "The Star Forger",
+    "role": "Mage"
   },
   {
     "name": "Azir",
-    "image": "./img/Azir.png"
+    "image": "./img/Azir.png",
+    "alias": "The Emperor Of The Sands",
+    "role": "Mage"
   },
   {
     "name": "Bard",
-    "image": "./img/Bard.png"
+    "image": "./img/Bard.png",
+    "alias": "The Wandering Caretaker",
+    "role": "Support"
   },
   {
     "name": "Bel'Veth",
-    "image": "./img/Bel_Veth.png"
+    "image": "./img/Bel_Veth.png",
+    "alias": "The Empress Of The Void",
+    "role": "Fighter"
   },
   {
     "name": "Blitzcrank",
-    "image": "./img/Blitzcrank.png"
+    "image": "./img/Blitzcrank.png",
+    "alias": "The Great Steam Golem",
+    "role": "Tank"
   },
   {
     "name": "Brand",
-    "image": "./img/Brand.png"
+    "image": "./img/Brand.png",
+    "alias": "The Burning Vengeance",
+    "role": "Mage"
   },
   {
     "name": "Braum",
-    "image": "./img/Braum.png"
+    "image": "./img/Braum.png",
+    "alias": "The Heart Of The Freljord",
+    "role": "Support"
   },
   {
     "name": "Caitlyn",
-    "image": "./img/Caitlyn.png"
+    "image": "./img/Caitlyn.png",
+    "alias": "The Sheriff Of Piltover",
+    "role": "Marksman"
   },
   {
     "name": "Camille",
-    "image": "./img/Camille.png"
+    "image": "./img/Camille.png",
+    "alias": "The Steel Shadow",
+    "role": "Fighter"
   },
   {
     "name": "Cassiopeia",
-    "image": "./img/Cassiopeia.png"
+    "image": "./img/Cassiopeia.png",
+    "alias": "The Serpent's Embrace",
+    "role": "Mage"
   },
   {
     "name": "Cho'Gath",
-    "image": "./img/Cho_Gath.png"
+    "image": "./img/Cho_Gath.png",
+    "alias": "The Terror Of The Void",
+    "role": "Tank"
   },
   {
     "name": "Corki",
-    "image": "./img/Corki.png"
+    "image": "./img/Corki.png",
+    "alias": "The Daring Bombardier",
+    "role": "Marksman"
   },
   {
     "name": "Darius",
-    "image": "./img/Darius.png"
+    "image": "./img/Darius.png",
+    "alias": "The Hand Of Noxus",
+    "role": "Fighter"
   },
   {
     "name": "Diana",
-    "image": "./img/Diana.png"
+    "image": "./img/Diana.png",
+    "alias": "Scorn Of The Moon",
+    "role": "Fighter"
   },
   {
     "name": "Dr. Mundo",
-    "image": "./img/Dr._Mundo.png"
+    "image": "./img/Dr._Mundo.png",
+    "alias": "The Madman Of Zaun",
+    "role": "Fighter"
   },
   {
     "name": "Draven",
-    "image": "./img/Draven.png"
+    "image": "./img/Draven.png",
+    "alias": "The Glorious Executioner",
+    "role": "Marksman"
   },
   {
     "name": "Ekko",
-    "image": "./img/Ekko.png"
+    "image": "./img/Ekko.png",
+    "alias": "The Boy Who Shattered Time",
+    "role": "Assassin"
   },
   {
     "name": "Elise",
-    "image": "./img/Elise.png"
+    "image": "./img/Elise.png",
+    "alias": "The Spider Queen",
+    "role": "Mage"
   },
   {
     "name": "Evelynn",
-    "image": "./img/Evelynn.png"
+    "image": "./img/Evelynn.png",
+    "alias": "Agony's Embrace",
+    "role": "Assassin"
   },
   {
     "name": "Ezreal",
-    "image": "./img/Ezreal.png"
+    "image": "./img/Ezreal.png",
+    "alias": "The Prodigal Explorer",
+    "role": "Marksman"
   },
   {
     "name": "Fiddlesticks",
-    "image": "./img/Fiddlesticks.png"
+    "image": "./img/Fiddlesticks.png",
+    "alias": "The Ancient Fear",
+    "role": "Mage"
   },
   {
     "name": "Fiora",
-    "image": "./img/Fiora.png"
+    "image": "./img/Fiora.png",
+    "alias": "The Grand Duelist",
+    "role": "Fighter"
   },
   {
     "name": "Fizz",
-    "image": "./img/Fizz.png"
+    "image": "./img/Fizz.png",
+    "alias": "The Tidal Trickster",
+    "role": "Assassin"
   },
   {
     "name": "Galio",
-    "image": "./img/Galio.png"
+    "image": "./img/Galio.png",
+    "alias": "The Colossus",
+    "role": "Tank"
   },
   {
     "name": "Gangplank",
-    "image": "./img/Gangplank.png"
+    "image": "./img/Gangplank.png",
+    "alias": "The Saltwater Scourge",
+    "role": "Fighter"
   },
   {
     "name": "Garen",
-    "image": "./img/Garen.png"
+    "image": "./img/Garen.png",
+    "alias": "The Might Of Demacia",
+    "role": "Fighter"
   },
   {
     "name": "Gnar",
-    "image": "./img/Gnar.png"
+    "image": "./img/Gnar.png",
+    "alias": "The Missing Link",
+    "role": "Fighter"
   },
   {
     "name": "Gragas",
-    "image": "./img/Gragas.png"
+    "image": "./img/Gragas.png",
+    "alias": "The Rabble Rouser",
+    "role": "Fighter"
   },
   {
     "name": "Graves",
-    "image": "./img/Graves.png"
+    "image": "./img/Graves.png",
+    "alias": "The Outlaw",
+    "role": "Marksman"
   },
   {
     "name": "Gwen",
-    "image": "./img/Gwen.png"
+    "image": "./img/Gwen.png",
+    "alias": "The Hallowed Seamstress",
+    "role": "Fighter"
   },
   {
     "name": "Hecarim",
-    "image": "./img/Hecarim.png"
+    "image": "./img/Hecarim.png",
+    "alias": "The Shadow Of War",
+    "role": "Fighter"
   },
   {
     "name": "Heimerdinger",
-    "image": "./img/Heimerdinger.png"
+    "image": "./img/Heimerdinger.png",
+    "alias": "The Revered Inventor",
+    "role": "Mage"
   },
   {
     "name": "Illaoi",
-    "image": "./img/Illaoi.png"
+    "image": "./img/Illaoi.png",
+    "alias": "The Kraken Priestess",
+    "role": "Fighter"
   },
   {
     "name": "Irelia",
-    "image": "./img/Irelia.png"
+    "image": "./img/Irelia.png",
+    "alias": "The Blade Dancer",
+    "role": "Fighter"
   },
   {
     "name": "Ivern",
-    "image": "./img/Ivern.png"
+    "image": "./img/Ivern.png",
+    "alias": "The Green Father",
+    "role": "Support"
   },
   {
     "name": "Janna",
-    "image": "./img/Janna.png"
+    "image": "./img/Janna.png",
+    "alias": "The Storm's Fury",
+    "role": "Support"
   },
   {
     "name": "Jarvan IV",
-    "image": "./img/Jarvan_IV.png"
+    "image": "./img/Jarvan_IV.png",
+    "alias": "The Exemplar Of Demacia",
+    "role": "Tank"
   },
   {
     "name": "Jax",
-    "image": "./img/Jax.png"
+    "image": "./img/Jax.png",
+    "alias": "Grandmaster At Arms",
+    "role": "Fighter"
   },
   {
     "name": "Jayce",
-    "image": "./img/Jayce.png"
+    "image": "./img/Jayce.png",
+    "alias": "The Defender Of Tomorrow",
+    "role": "Fighter"
   },
   {
     "name": "Jhin",
-    "image": "./img/Jhin.png"
+    "image": "./img/Jhin.png",
+    "alias": "The Virtuoso",
+    "role": "Marksman"
   },
   {
     "name": "Jinx",
-    "image": "./img/Jinx.png"
+    "image": "./img/Jinx.png",
+    "alias": "The Loose Cannon",
+    "role": "Marksman"
   },
   {
     "name": "K'Sante",
-    "image": "./img/K_Sante.png"
+    "image": "./img/K_Sante.png",
+    "alias": "The Pride Of Nazumah",
+    "role": "Tank"
   },
   {
     "name": "Kai'Sa",
-    "image": "./img/Kai_Sa.png"
+    "image": "./img/Kai_Sa.png",
+    "alias": "Daughter Of The Void",
+    "role": "Marksman"
   },
   {
     "name": "Kalista",
-    "image": "./img/Kalista.png"
+    "image": "./img/Kalista.png",
+    "alias": "The Spear Of Vengeance",
+    "role": "Marksman"
   },
   {
     "name": "Karma",
-    "image": "./img/Karma.png"
+    "image": "./img/Karma.png",
+    "alias": "The Enlightened One",
+    "role": "Mage"
   },
   {
     "name": "Karthus",
-    "image": "./img/Karthus.png"
+    "image": "./img/Karthus.png",
+    "alias": "The Deathsinger",
+    "role": "Mage"
   },
   {
     "name": "Kassadin",
-    "image": "./img/Kassadin.png"
+    "image": "./img/Kassadin.png",
+    "alias": "The Void Walker",
+    "role": "Assassin"
   },
   {
     "name": "Katarina",
-    "image": "./img/Katarina.png"
+    "image": "./img/Katarina.png",
+    "alias": "The Sinister Blade",
+    "role": "Assassin"
   },
   {
     "name": "Kayle",
-    "image": "./img/Kayle.png"
+    "image": "./img/Kayle.png",
+    "alias": "The Righteous",
+    "role": "Fighter"
   },
   {
     "name": "Kayn",
-    "image": "./img/Kayn.png"
+    "image": "./img/Kayn.png",
+    "alias": "The Shadow Reaper",
+    "role": "Fighter"
   },
   {
     "name": "Kennen",
-    "image": "./img/Kennen.png"
+    "image": "./img/Kennen.png",
+    "alias": "The Heart Of The Tempest",
+    "role": "Mage"
   },
   {
     "name": "Kha'Zix",
-    "image": "./img/Kha_Zix.png"
+    "image": "./img/Kha_Zix.png",
+    "alias": "The Voidreaver",
+    "role": "Assassin"
   },
   {
     "name": "Kindred",
-    "image": "./img/Kindred.png"
+    "image": "./img/Kindred.png",
+    "alias": "The Eternal Hunters",
+    "role": "Marksman"
   },
   {
     "name": "Kled",
-    "image": "./img/Kled.png"
+    "image": "./img/Kled.png",
+    "alias": "The Cantankerous Cavalier",
+    "role": "Fighter"
   },
   {
     "name": "Kog'Maw",
-    "image": "./img/Kog_Maw.png"
+    "image": "./img/Kog_Maw.png",
+    "alias": "The Mouth Of The Abyss",
+    "role": "Marksman"
   },
   {
     "name": "LeBlanc",
-    "image": "./img/LeBlanc.png"
+    "image": "./img/LeBlanc.png",
+    "alias": "The Deceiver",
+    "role": "Assassin"
   },
   {
     "name": "Lee Sin",
-    "image": "./img/Lee_Sin.png"
+    "image": "./img/Lee_Sin.png",
+    "alias": "The Blind Monk",
+    "role": "Fighter"
   },
   {
     "name": "Leona",
-    "image": "./img/Leona.png"
+    "image": "./img/Leona.png",
+    "alias": "The Radiant Dawn",
+    "role": "Tank"
   },
   {
     "name": "Lillia",
-    "image": "./img/Lillia.png"
+    "image": "./img/Lillia.png",
+    "alias": "The Bashful Bloom",
+    "role": "Fighter"
   },
   {
     "name": "Lissandra",
-    "image": "./img/Lissandra.png"
+    "image": "./img/Lissandra.png",
+    "alias": "The Ice Witch",
+    "role": "Mage"
   },
   {
     "name": "Lucian",
-    "image": "./img/Lucian.png"
+    "image": "./img/Lucian.png",
+    "alias": "The Purifier",
+    "role": "Marksman"
   },
   {
     "name": "Lulu",
-    "image": "./img/Lulu.png"
+    "image": "./img/Lulu.png",
+    "alias": "The Fae Sorceress",
+    "role": "Support"
   },
   {
     "name": "Lux",
-    "image": "./img/Lux.png"
+    "image": "./img/Lux.png",
+    "alias": "The Lady Of Luminosity",
+    "role": "Mage"
   },
   {
     "name": "Malphite",
-    "image": "./img/Malphite.png"
+    "image": "./img/Malphite.png",
+    "alias": "Shard Of The Monolith",
+    "role": "Tank"
   },
   {
     "name": "Malzahar",
-    "image": "./img/Malzahar.png"
+    "image": "./img/Malzahar.png",
+    "alias": "The Prophet Of The Void",
+    "role": "Mage"
   },
   {
     "name": "Maokai",
-    "image": "./img/Maokai.png"
+    "image": "./img/Maokai.png",
+    "alias": "The Twisted Treant",
+    "role": "Tank"
   },
   {
     "name": "Master Yi",
-    "image": "./img/Master_Yi.png"
+    "image": "./img/Master_Yi.png",
+    "alias": "The Wuju Bladesman",
+    "role": "Assassin"
   },
   {
     "name": "Milio",
-    "image": "./img/Milio.png"
+    "image": "./img/Milio.png",
+    "alias": "The Gentle Flame",
+    "role": "Support"
   },
   {
     "name": "Miss Fortune",
-    "image": "./img/Miss_Fortune.png"
+    "image": "./img/Miss_Fortune.png",
+    "alias": "The Bounty Hunter",
+    "role": "Marksman"
   },
   {
     "name": "Mordekaiser",
-    "image": "./img/Mordekaiser.png"
+    "image": "./img/Mordekaiser.png",
+    "alias": "The Iron Revenant",
+    "role": "Fighter"
   },
   {
     "name": "Morgana",
-    "image": "./img/Morgana.png"
+    "image": "./img/Morgana.png",
+    "alias": "The Fallen",
+    "role": "Mage"
   },
   {
     "name": "Naafiri",
-    "image": "./img/Naafiri.png"
+    "image": "./img/Naafiri.png",
+    "alias": "The Hound Of A Hundred Bites",
+    "role": "Assassin"
   },
   {
     "name": "Nami",
-    "image": "./img/Nami.png"
+    "image": "./img/Nami.png",
+    "alias": "The Tidecaller",
+    "role": "Support"
   },
   {
     "name": "Nasus",
-    "image": "./img/Nasus.png"
+    "image": "./img/Nasus.png",
+    "alias": "The Curator Of The Sands",
+    "role": "Fighter"
   },
   {
     "name": "Nautilus",
-    "image": "./img/Nautilus.png"
+    "image": "./img/Nautilus.png",
+    "alias": "The Titan Of The Depths",
+    "role": "Tank"
   },
   {
     "name": "Neeko",
-    "image": "./img/Neeko.png"
+    "image": "./img/Neeko.png",
+    "alias": "The Curious Chameleon",
+    "role": "Mage"
   },
   {
     "name": "Nidalee",
-    "image": "./img/Nidalee.png"
+    "image": "./img/Nidalee.png",
+    "alias": "The Bestial Huntress",
+    "role": "Assassin"
   },
   {
     "name": "Nilah",
-    "image": "./img/Nilah.png"
+    "image": "./img/Nilah.png",
+    "alias": "The Joy Unbound",
+    "role": "Fighter"
   },
   {
     "name": "Nocturne",
-    "image": "./img/Nocturne.png"
+    "image": "./img/Nocturne.png",
+    "alias": "The Eternal Nightmare",
+    "role": "Assassin"
   },
   {
     "name": "Nunu & Willump",
-    "image": "./img/Nunu_&_Willump.png"
+    "image": "./img/Nunu_&_Willump.png",
+    "alias": "The Boy And His Yeti",
+    "role": "Tank"
   },
   {
     "name": "Olaf",
-    "image": "./img/Olaf.png"
+    "image": "./img/Olaf.png",
+    "alias": "The Berserker",
+    "role": "Fighter"
   },
   {
     "name": "Orianna",
-    "image": "./img/Orianna.png"
+    "image": "./img/Orianna.png",
+    "alias": "The Lady Of Clockwork",
+    "role": "Mage"
   },
   {
     "name": "Ornn",
-    "image": "./img/Ornn.png"
+    "image": "./img/Ornn.png",
+    "alias": "The Fire Below The Mountain",
+    "role": "Tank"
   },
   {
     "name": "Pantheon",
-    "image": "./img/Pantheon.png"
+    "image": "./img/Pantheon.png",
+    "alias": "The Unbreakable Spear",
+    "role": "Fighter"
   },
   {
     "name": "Poppy",
-    "image": "./img/Poppy.png"
+    "image": "./img/Poppy.png",
+    "alias": "Keeper Of The Hammer",
+    "role": "Tank"
   },
   {
     "name": "Pyke",
-    "image": "./img/Pyke.png"
+    "image": "./img/Pyke.png",
+    "alias": "The Bloodharbor Ripper",
+    "role": "Support"
   },
   {
     "name": "Qiyana",
-    "image": "./img/Qiyana.png"
+    "image": "./img/Qiyana.png",
+    "alias": "Empress Of The Elements",
+    "role": "Assassin"
   },
   {
     "name": "Quinn",
-    "image": "./img/Quinn.png"
+    "image": "./img/Quinn.png",
+    "alias": "Demacia's Wings",
+    "role": "Marksman"
   },
   {
     "name": "Rakan",
-    "image": "./img/Rakan.png"
+    "image": "./img/Rakan.png",
+    "alias": "The Charmer",
+    "role": "Support"
   },
   {
     "name": "Rammus",
-    "image": "./img/Rammus.png"
+    "image": "./img/Rammus.png",
+    "alias": "The Armordillo",
+    "role": "Tank"
   },
   {
     "name": "Rek'Sai",
-    "image": "./img/Rek_Sai.png"
+    "image": "./img/Rek_Sai.png",
+    "alias": "The Void Burrower",
+    "role": "Fighter"
   },
   {
     "name": "Rell",
-    "image": "./img/Rell.png"
+    "image": "./img/Rell.png",
+    "alias": "The Iron Maiden",
+    "role": "Tank"
   },
   {
     "name": "Renata Glasc",
-    "image": "./img/Renata_Glasc.png"
+    "image": "./img/Renata_Glasc.png",
+    "alias": "The Chem-baroness",
+    "role": "Support"
   },
   {
     "name": "Renekton",
-    "image": "./img/Renekton.png"
+    "image": "./img/Renekton.png",
+    "alias": "The Butcher Of The Sands",
+    "role": "Fighter"
   },
   {
     "name": "Rengar",
-    "image": "./img/Rengar.png"
+    "image": "./img/Rengar.png",
+    "alias": "The Pridestalker",
+    "role": "Assassin"
   },
   {
     "name": "Riven",
-    "image": "./img/Riven.png"
+    "image": "./img/Riven.png",
+    "alias": "The Exile",
+    "role": "Fighter"
   },
   {
     "name": "Rumble",
-    "image": "./img/Rumble.png"
+    "image": "./img/Rumble.png",
+    "alias": "The Mechanized Menace",
+    "role": "Fighter"
   },
   {
     "name": "Ryze",
-    "image": "./img/Ryze.png"
+    "image": "./img/Ryze.png",
+    "alias": "The Rune Mage",
+    "role": "Mage"
   },
   {
     "name": "Samira",
-    "image": "./img/Samira.png"
+    "image": "./img/Samira.png",
+    "alias": "The Desert Rose",
+    "role": "Marksman"
   },
   {
     "name": "Sejuani",
-    "image": "./img/Sejuani.png"
+    "image": "./img/Sejuani.png",
+    "alias": "Fury Of The North",
+    "role": "Tank"
   },
   {
     "name": "Senna",
-    "image": "./img/Senna.png"
+    "image": "./img/Senna.png",
+    "alias": "The Redeemer",
+    "role": "Marksman"
   },
   {
     "name": "Seraphine",
-    "image": "./img/Seraphine.png"
+    "image": "./img/Seraphine.png",
+    "alias": "The Starry-eyed Songstress",
+    "role": "Mage"
   },
   {
     "name": "Sett",
-    "image": "./img/Sett.png"
+    "image": "./img/Sett.png",
+    "alias": "The Boss",
+    "role": "Fighter"
   },
   {
     "name": "Shaco",
-    "image": "./img/Shaco.png"
+    "image": "./img/Shaco.png",
+    "alias": "The Demon Jester",
+    "role": "Assassin"
   },
   {
     "name": "Shen",
-    "image": "./img/Shen.png"
+    "image": "./img/Shen.png",
+    "alias": "The Eye Of Twilight",
+    "role": "Tank"
   },
   {
     "name": "Shyvana",
-    "image": "./img/Shyvana.png"
+    "image": "./img/Shyvana.png",
+    "alias": "The Half-dragon",
+    "role": "Fighter"
   },
   {
     "name": "Singed",
-    "image": "./img/Singed.png"
+    "image": "./img/Singed.png",
+    "alias": "The Mad Chemist",
+    "role": "Tank"
   },
   {
     "name": "Sion",
-    "image": "./img/Sion.png"
+    "image": "./img/Sion.png",
+    "alias": "The Undead Juggernaut",
+    "role": "Tank"
   },
   {
     "name": "Sivir",
-    "image": "./img/Sivir.png"
+    "image": "./img/Sivir.png",
+    "alias": "The Battle Mistress",
+    "role": "Marksman"
   },
   {
     "name": "Skarner",
-    "image": "./img/Skarner.png"
+    "image": "./img/Skarner.png",
+    "alias": "The Crystal Vanguard",
+    "role": "Fighter"
   },
   {
     "name": "Sona",
-    "image": "./img/Sona.png"
+    "image": "./img/Sona.png",
+    "alias": "Maven Of The Strings",
+    "role": "Support"
   },
   {
     "name": "Soraka",
-    "image": "./img/Soraka.png"
+    "image": "./img/Soraka.png",
+    "alias": "The Starchild",
+    "role": "Support"
   },
   {
     "name": "Swain",
-    "image": "./img/Swain.png"
+    "image": "./img/Swain.png",
+    "alias": "The Noxian Grand General",
+    "role": "Mage"
   },
   {
     "name": "Sylas",
-    "image": "./img/Sylas.png"
+    "image": "./img/Sylas.png",
+    "alias": "The Unshackled",
+    "role": "Mage"
   },
   {
     "name": "Syndra",
-    "image": "./img/Syndra.png"
+    "image": "./img/Syndra.png",
+    "alias": "The Dark Sovereign",
+    "role": "Mage"
   },
   {
     "name": "Tahm Kench",
-    "image": "./img/Tahm_Kench.png"
+    "image": "./img/Tahm_Kench.png",
+    "alias": "The River King",
+    "role": "Support"
   },
   {
     "name": "Taliyah",
-    "image": "./img/Taliyah.png"
+    "image": "./img/Taliyah.png",
+    "alias": "The Stoneweaver",
+    "role": "Mage"
   },
   {
     "name": "Talon",
-    "image": "./img/Talon.png"
+    "image": "./img/Talon.png",
+    "alias": "The Blade's Shadow",
+    "role": "Assassin"
   },
   {
     "name": "Taric",
-    "image": "./img/Taric.png"
+    "image": "./img/Taric.png",
+    "alias": "The Shield Of Valoran",
+    "role": "Support"
   },
   {
     "name": "Teemo",
-    "image": "./img/Teemo.png"
+    "image": "./img/Teemo.png",
+    "alias": "The Swift Scout",
+    "role": "Marksman"
   },
   {
     "name": "Thresh",
-    "image": "./img/Thresh.png"
+    "image": "./img/Thresh.png",
+    "alias": "The Chain Warden",
+    "role": "Support"
   },
   {
     "name": "Tristana",
-    "image": "./img/Tristana.png"
+    "image": "./img/Tristana.png",
+    "alias": "The Yordle Gunner",
+    "role": "Marksman"
   },
   {
     "name": "Trundle",
-    "image": "./img/Trundle.png"
+    "image": "./img/Trundle.png",
+    "alias": "The Troll King",
+    "role": "Fighter"
   },
   {
     "name": "Tryndamere",
-    "image": "./img/Tryndamere.png"
+    "image": "./img/Tryndamere.png",
+    "alias": "The Barbarian King",
+    "role": "Fighter"
   },
   {
     "name": "Twisted Fate",
-    "image": "./img/Twisted_Fate.png"
+    "image": "./img/Twisted_Fate.png",
+    "alias": "The Card Master",
+    "role": "Mage"
   },
   {
     "name": "Twitch",
-    "image": "./img/Twitch.png"
+    "image": "./img/Twitch.png",
+    "alias": "The Plague Rat",
+    "role": "Marksman"
   },
   {
     "name": "Udyr",
-    "image": "./img/Udyr.png"
+    "image": "./img/Udyr.png",
+    "alias": "The Spirit Walker",
+    "role": "Fighter"
   },
   {
     "name": "Urgot",
-    "image": "./img/Urgot.png"
+    "image": "./img/Urgot.png",
+    "alias": "The Dreadnought",
+    "role": "Fighter"
   },
   {
     "name": "Varus",
-    "image": "./img/Varus.png"
+    "image": "./img/Varus.png",
+    "alias": "The Arrow Of Retribution",
+    "role": "Marksman"
   },
   {
     "name": "Vayne",
-    "image": "./img/Vayne.png"
+    "image": "./img/Vayne.png",
+    "alias": "The Night Hunter",
+    "role": "Marksman"
   },
   {
     "name": "Veigar",
-    "image": "./img/Veigar.png"
+    "image": "./img/Veigar.png",
+    "alias": "The Tiny Master Of Evil",
+    "role": "Mage"
   },
   {
     "name": "Vel'Koz",
-    "image": "./img/Vel_Koz.png"
+    "image": "./img/Vel_Koz.png",
+    "alias": "The Eye Of The Void",
+    "role": "Mage"
   },
   {
     "name": "Vex",
-    "image": "./img/Vex.png"
+    "image": "./img/Vex.png",
+    "alias": "The Gloomist",
+    "role": "Mage"
   },
   {
     "name": "Vi",
-    "image": "./img/Vi.png"
+    "image": "./img/Vi.png",
+    "alias": "The Piltover Enforcer",
+    "role": "Fighter"
   },
   {
     "name": "Viego",
-    "image": "./img/Viego.png"
+    "image": "./img/Viego.png",
+    "alias": "The Ruined King",
+    "role": "Assassin"
   },
   {
     "name": "Viktor",
-    "image": "./img/Viktor.png"
+    "image": "./img/Viktor.png",
+    "alias": "The Machine Herald",
+    "role": "Mage"
   },
   {
     "name": "Vladimir",
-    "image": "./img/Vladimir.png"
+    "image": "./img/Vladimir.png",
+    "alias": "The Crimson Reaper",
+    "role": "Mage"
   },
   {
     "name": "Volibear",
-    "image": "./img/Volibear.png"
+    "image": "./img/Volibear.png",
+    "alias": "The Relentless Storm",
+    "role": "Fighter"
   },
   {
     "name": "Warwick",
-    "image": "./img/Warwick.png"
+    "image": "./img/Warwick.png",
+    "alias": "The Uncaged Wrath Of Zaun",
+    "role": "Fighter"
   },
   {
     "name": "Wukong",
-    "image": "./img/Wukong.png"
+    "image": "./img/Wukong.png",
+    "alias": "The Monkey King",
+    "role": "Fighter"
   },
   {
     "name": "Xayah",
-    "image": "./img/Xayah.png"
+    "image": "./img/Xayah.png",
+    "alias": "The Rebel",
+    "role": "Marksman"
   },
   {
     "name": "Xerath",
-    "image": "./img/Xerath.png"
+    "image": "./img/Xerath.png",
+    "alias": "The Magus Ascendant",
+    "role": "Mage"
   },
   {
     "name": "Xin Zhao",
-    "image": "./img/Xin_Zhao.png"
+    "image": "./img/Xin_Zhao.png",
+    "alias": "The Seneschal Of Demacia",
+    "role": "Fighter"
   },
   {
     "name": "Yasuo",
-    "image": "./img/Yasuo.png"
+    "image": "./img/Yasuo.png",
+    "alias": "The Unforgiven",
+    "role": "Fighter"
   },
   {
     "name": "Yone",
-    "image": "./img/Yone.png"
+    "image": "./img/Yone.png",
+    "alias": "The Unforgotten",
+    "role": "Assassin"
   },
   {
     "name": "Yorick",
-    "image": "./img/Yorick.png"
+    "image": "./img/Yorick.png",
+    "alias": "Shepherd Of Souls",
+    "role": "Fighter"
   },
   {
     "name": "Yuumi",
-    "image": "./img/Yuumi.png"
+    "image": "./img/Yuumi.png",
+    "alias": "The Magical Cat",
+    "role": "Support"
   },
   {
     "name": "Zac",
-    "image": "./img/Zac.png"
+    "image": "./img/Zac.png",
+    "alias": "The Secret Weapon",
+    "role": "Tank"
   },
   {
     "name": "Zed",
-    "image": "./img/Zed.png"
+    "image": "./img/Zed.png",
+    "alias": "The Master Of Shadows",
+    "role": "Assassin"
   },
   {
     "name": "Zeri",
-    "image": "./img/Zeri.png"
+    "image": "./img/Zeri.png",
+    "alias": "The Spark Of Zaun",
+    "role": "Marksman"
   },
   {
     "name": "Ziggs",
-    "image": "./img/Ziggs.png"
+    "image": "./img/Ziggs.png",
+    "alias": "The Hexplosives Expert",
+    "role": "Mage"
   },
   {
     "name": "Zilean",
-    "image": "./img/Zilean.png"
+    "image": "./img/Zilean.png",
+    "alias": "The Chronokeeper",
+    "role": "Support"
   },
   {
     "name": "Zoe",
-    "image": "./img/Zoe.png"
+    "image": "./img/Zoe.png",
+    "alias": "The Aspect Of Twilight",
+    "role": "Mage"
   },
   {
     "name": "Zyra",
-    "image": "./img/Zyra.png"
+    "image": "./img/Zyra.png",
+    "alias": "Rise Of The Thorns",
+    "role": "Mage"
   }
 ]

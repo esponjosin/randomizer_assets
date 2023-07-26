@@ -37,15 +37,15 @@
     "slot2": [
       {
         "name": "Legend: Alacrity",
-        "image": "./img/Legend:_Alacrity.png"
+        "image": "./img/Legend_Alacrity.png"
       },
       {
         "name": "Legend: Tenacity",
-        "image": "./img/Legend:_Tenacity.png"
+        "image": "./img/Legend_Tenacity.png"
       },
       {
         "name": "Legend: Bloodline",
-        "image": "./img/Legend:_Bloodline.png"
+        "image": "./img/Legend_Bloodline.png"
       }
     ],
     "slot3": [

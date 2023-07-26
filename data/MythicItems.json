@@ -1,114 +1,321 @@
 [
   {
     "name": "Crown of the Shattered Queen",
-    "image": "./img/Crown_of_the_Shattered_Queen.png"
+    "image": "./img/Crown_of_the_Shattered_Queen.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Divine Sunderer",
-    "image": "./img/Divine_Sunderer.png"
+    "image": "./img/Divine_Sunderer.png",
+    "scales": [
+      "Fighter",
+      "Attack Damage",
+      "Armor Penetration",
+      "Magic Penetration",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Life Steal & Vamp"
+    ]
   },
   {
     "name": "Duskblade of Draktharr",
-    "image": "./img/Duskblade_of_Draktharr.png"
+    "image": "./img/Duskblade_of_Draktharr.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Echoes of Helia",
-    "image": "./img/Echoes_of_Helia.png"
+    "image": "./img/Echoes_of_Helia.png",
+    "scales": [
+      "Supporter",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Eclipse",
-    "image": "./img/Eclipse.png"
+    "image": "./img/Eclipse.png",
+    "scales": [
+      "Fighter",
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Evenshroud",
-    "image": "./img/Evenshroud.png"
+    "image": "./img/Evenshroud.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "Health & Regeneration",
+      "Armor",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Everfrost",
-    "image": "./img/Everfrost.png"
+    "image": "./img/Everfrost.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Galeforce",
-    "image": "./img/Galeforce.png"
+    "image": "./img/Galeforce.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Attack Speed",
+      "Movement"
+    ]
   },
   {
     "name": "Goredrinker",
-    "image": "./img/Goredrinker.png"
+    "image": "./img/Goredrinker.png",
+    "scales": [
+      "Fighter",
+      "Attack Damage",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Life Steal & Vamp"
+    ]
   },
   {
     "name": "Guinsoo's Rageblade",
-    "image": "./img/Guinsoo_s_Rageblade.png"
+    "image": "./img/Guinsoo_s_Rageblade.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Attack Damage",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Ability Power"
+    ]
   },
   {
     "name": "Heartsteel",
-    "image": "./img/Heartsteel.png"
+    "image": "./img/Heartsteel.png",
+    "scales": [
+      "Tank",
+      "On-Hit Effects",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Hextech Rocketbelt",
-    "image": "./img/Hextech_Rocketbelt.png"
+    "image": "./img/Hextech_Rocketbelt.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Magic Penetration",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Iceborn Gauntlet",
-    "image": "./img/Iceborn_Gauntlet.png"
+    "image": "./img/Iceborn_Gauntlet.png",
+    "scales": [
+      "Tank",
+      "On-Hit Effects",
+      "Health & Regeneration",
+      "Armor",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Infinity Edge",
-    "image": "./img/Infinity_Edge.png"
+    "image": "./img/Infinity_Edge.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike"
+    ]
   },
   {
     "name": "Jak'Sho, The Protean",
-    "image": "./img/Jak_Sho,_The_Protean.png"
+    "image": "./img/Jak_Sho,_The_Protean.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Armor",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Liandry's Anguish",
-    "image": "./img/Liandry_s_Anguish.png"
+    "image": "./img/Liandry_s_Anguish.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Magic Penetration",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Locket of the Iron Solari",
-    "image": "./img/Locket_of_the_Iron_Solari.png"
+    "image": "./img/Locket_of_the_Iron_Solari.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "Health & Regeneration",
+      "Armor",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Luden's Tempest",
-    "image": "./img/Luden_s_Tempest.png"
+    "image": "./img/Luden_s_Tempest.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Magic Penetration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Moonstone Renewer",
-    "image": "./img/Moonstone_Renewer.png"
+    "image": "./img/Moonstone_Renewer.png",
+    "scales": [
+      "Supporter",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Navori Quickblades",
-    "image": "./img/Navori_Quickblades.png"
+    "image": "./img/Navori_Quickblades.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Night Harvester",
-    "image": "./img/Night_Harvester.png"
+    "image": "./img/Night_Harvester.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Radiant Virtue",
-    "image": "./img/Radiant_Virtue.png"
+    "image": "./img/Radiant_Virtue.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Armor",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
   },
   {
     "name": "Riftmaker",
-    "image": "./img/Riftmaker.png"
+    "image": "./img/Riftmaker.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Magic Penetration",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Life Steal & Vamp"
+    ]
   },
   {
     "name": "Rod of Ages",
-    "image": "./img/Rod_of_Ages.png"
+    "image": "./img/Rod_of_Ages.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Movement"
+    ]
   },
   {
     "name": "Shurelya's Battlesong",
-    "image": "./img/Shurelya_s_Battlesong.png"
+    "image": "./img/Shurelya_s_Battlesong.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Stridebreaker",
-    "image": "./img/Stridebreaker.png"
+    "image": "./img/Stridebreaker.png",
+    "scales": [
+      "Fighter",
+      "Attack Damage",
+      "Attack Speed",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Trinity Force",
-    "image": "./img/Trinity_Force.png"
+    "image": "./img/Trinity_Force.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Attack Damage",
+      "Attack Speed",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
   },
   {
     "name": "Youmuu's Ghostblade",
-    "image": "./img/Youmuu_s_Ghostblade.png"
+    "image": "./img/Youmuu_s_Ghostblade.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Ability Haste",
+      "Movement"
+    ]
   }
 ]
