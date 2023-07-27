@@ -1,7 +1,7 @@
 [
   {
     "name": "Cull",
-    "image": "./img/Cull.png",
+    "image": "/data/img/Cull.png",
     "scales": [
       "Fighter",
       "Marksman",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Dark Seal",
-    "image": "./img/Dark_Seal.png",
+    "image": "/data/img/Dark_Seal.png",
     "scales": [
       "Mage",
       "Ability Power",
@@ -22,7 +22,7 @@
   },
   {
     "name": "Doran's Blade",
-    "image": "./img/Doran_s_Blade.png",
+    "image": "/data/img/Doran_s_Blade.png",
     "scales": [
       "Fighter",
       "Marksman",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Doran's Ring",
-    "image": "./img/Doran_s_Ring.png",
+    "image": "/data/img/Doran_s_Ring.png",
     "scales": [
       "Mage",
       "On-Hit Effects",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Doran's Shield",
-    "image": "./img/Doran_s_Shield.png",
+    "image": "/data/img/Doran_s_Shield.png",
     "scales": [
       "Fighter",
       "Marksman",
@@ -58,7 +58,7 @@
   },
   {
     "name": "Tear of the Goddess",
-    "image": "./img/Tear_of_the_Goddess.png",
+    "image": "/data/img/Tear_of_the_Goddess.png",
     "scales": [
       "Marksman",
       "Mage",

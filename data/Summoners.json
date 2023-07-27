@@ -1,42 +1,42 @@
 [
   {
     "name": "Heal",
-    "image": "./img/Heal.png"
+    "image": "/data/img/Heal.png"
   },
   {
     "name": "Ghost",
-    "image": "./img/Ghost.png"
+    "image": "/data/img/Ghost.png"
   },
   {
     "name": "Barrier",
-    "image": "./img/Barrier.png"
+    "image": "/data/img/Barrier.png"
   },
   {
     "name": "Exhaust",
-    "image": "./img/Exhaust.png"
+    "image": "/data/img/Exhaust.png"
   },
   {
     "name": "Clarity",
-    "image": "./img/Clarity.png"
+    "image": "/data/img/Clarity.png"
   },
   {
     "name": "Flash",
-    "image": "./img/Flash.png"
+    "image": "/data/img/Flash.png"
   },
   {
     "name": "Teleport",
-    "image": "./img/Teleport.png"
+    "image": "/data/img/Teleport.png"
   },
   {
     "name": "Smite",
-    "image": "./img/Smite.png"
+    "image": "/data/img/Smite.png"
   },
   {
     "name": "Cleanse",
-    "image": "./img/Cleanse.png"
+    "image": "/data/img/Cleanse.png"
   },
   {
     "name": "Ignite",
-    "image": "./img/Ignite.png"
+    "image": "/data/img/Ignite.png"
   }
 ]

@@ -1,34 +1,34 @@
 [
   {
     "name": "Berserker's Greaves",
-    "image": "./img/Berserker_s_Greaves.png"
+    "image": "/data/img/Berserker_s_Greaves.png"
   },
   {
     "name": "Boots",
-    "image": "./img/Boots.png"
+    "image": "/data/img/Boots.png"
   },
   {
     "name": "Boots of Swiftness",
-    "image": "./img/Boots_of_Swiftness.png"
+    "image": "/data/img/Boots_of_Swiftness.png"
   },
   {
     "name": "Ionian Boots of Lucidity",
-    "image": "./img/Ionian_Boots_of_Lucidity.png"
+    "image": "/data/img/Ionian_Boots_of_Lucidity.png"
   },
   {
     "name": "Mercury's Treads",
-    "image": "./img/Mercury_s_Treads.png"
+    "image": "/data/img/Mercury_s_Treads.png"
   },
   {
     "name": "Mobility Boots",
-    "image": "./img/Mobility_Boots.png"
+    "image": "/data/img/Mobility_Boots.png"
   },
   {
     "name": "Plated Steelcaps",
-    "image": "./img/Plated_Steelcaps.png"
+    "image": "/data/img/Plated_Steelcaps.png"
   },
   {
     "name": "Sorcerer's Shoes",
-    "image": "./img/Sorcerer_s_Shoes.png"
+    "image": "/data/img/Sorcerer_s_Shoes.png"
   }
 ]
