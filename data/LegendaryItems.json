@@ -1,7 +1,7 @@
 [
   {
     "name": "Abyssal Mask",
-    "image": "/data/img/Abyssal_Mask.png",
+    "image": "/data/img/Abyssal_Mask.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Anathema's Chains",
-    "image": "/data/img/Anathema_s_Chains.png",
+    "image": "/data/img/Anathema_s_Chains.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Ardent Censer",
-    "image": "/data/img/Ardent_Censer.png",
+    "image": "/data/img/Ardent_Censer.webp",
     "scales": [
       "Supporter",
       "Attack Speed",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Axiom Arc",
-    "image": "/data/img/Axiom_Arc.png",
+    "image": "/data/img/Axiom_Arc.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
@@ -43,7 +43,7 @@
   },
   {
     "name": "Banshee's Veil",
-    "image": "/data/img/Banshee_s_Veil.png",
+    "image": "/data/img/Banshee_s_Veil.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Black Cleaver",
-    "image": "/data/img/Black_Cleaver.png",
+    "image": "/data/img/Black_Cleaver.webp",
     "scales": [
       "Fighter",
       "Assassin",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Blade of the Ruined King",
-    "image": "/data/img/Blade_of_the_Ruined_King.png",
+    "image": "/data/img/Blade_of_the_Ruined_King.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Bloodthirster",
-    "image": "/data/img/Bloodthirster.png",
+    "image": "/data/img/Bloodthirster.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Chempunk Chainsword",
-    "image": "/data/img/Chempunk_Chainsword.png",
+    "image": "/data/img/Chempunk_Chainsword.webp",
     "scales": [
       "Fighter",
       "Assassin",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Chemtech Putrifier",
-    "image": "/data/img/Chemtech_Putrifier.png",
+    "image": "/data/img/Chemtech_Putrifier.webp",
     "scales": [
       "Supporter",
       "Ability Power",
@@ -110,7 +110,7 @@
   },
   {
     "name": "Cosmic Drive",
-    "image": "/data/img/Cosmic_Drive.png",
+    "image": "/data/img/Cosmic_Drive.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -120,7 +120,7 @@
   },
   {
     "name": "Dead Man's Plate",
-    "image": "/data/img/Dead_Man_s_Plate.png",
+    "image": "/data/img/Dead_Man_s_Plate.webp",
     "scales": [
       "Tank",
       "On-Hit Effects",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Death's Dance",
-    "image": "/data/img/Death_s_Dance.png",
+    "image": "/data/img/Death_s_Dance.webp",
     "scales": [
       "Fighter",
       "Attack Damage",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Demonic Embrace",
-    "image": "/data/img/Demonic_Embrace.png",
+    "image": "/data/img/Demonic_Embrace.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -150,7 +150,7 @@
   },
   {
     "name": "Edge of Night",
-    "image": "/data/img/Edge_of_Night.png",
+    "image": "/data/img/Edge_of_Night.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
@@ -160,7 +160,7 @@
   },
   {
     "name": "Essence Reaver",
-    "image": "/data/img/Essence_Reaver.png",
+    "image": "/data/img/Essence_Reaver.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Force of Nature",
-    "image": "/data/img/Force_of_Nature.png",
+    "image": "/data/img/Force_of_Nature.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -182,7 +182,7 @@
   },
   {
     "name": "Frozen Heart",
-    "image": "/data/img/Frozen_Heart.png",
+    "image": "/data/img/Frozen_Heart.webp",
     "scales": [
       "Tank",
       "Mana & Regeneration",
@@ -192,7 +192,7 @@
   },
   {
     "name": "Gargoyle Stoneplate",
-    "image": "/data/img/Gargoyle_Stoneplate.png",
+    "image": "/data/img/Gargoyle_Stoneplate.webp",
     "scales": [
       "Tank",
       "Armor",
@@ -202,7 +202,7 @@
   },
   {
     "name": "Guardian Angel",
-    "image": "/data/img/Guardian_Angel.png",
+    "image": "/data/img/Guardian_Angel.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -213,7 +213,7 @@
   },
   {
     "name": "Horizon Focus",
-    "image": "/data/img/Horizon_Focus.png",
+    "image": "/data/img/Horizon_Focus.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -223,7 +223,7 @@
   },
   {
     "name": "Hullbreaker",
-    "image": "/data/img/Hullbreaker.png",
+    "image": "/data/img/Hullbreaker.webp",
     "scales": [
       "Fighter",
       "Attack Damage",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Immortal Shieldbow",
-    "image": "/data/img/Immortal_Shieldbow.png",
+    "image": "/data/img/Immortal_Shieldbow.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Imperial Mandate",
-    "image": "/data/img/Imperial_Mandate.png",
+    "image": "/data/img/Imperial_Mandate.webp",
     "scales": [
       "Supporter",
       "Ability Power",
@@ -255,7 +255,7 @@
   },
   {
     "name": "Knight's Vow",
-    "image": "/data/img/Knight_s_Vow.png",
+    "image": "/data/img/Knight_s_Vow.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -267,7 +267,7 @@
   },
   {
     "name": "Kraken Slayer",
-    "image": "/data/img/Kraken_Slayer.png",
+    "image": "/data/img/Kraken_Slayer.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -278,7 +278,7 @@
   },
   {
     "name": "Lich Bane",
-    "image": "/data/img/Lich_Bane.png",
+    "image": "/data/img/Lich_Bane.webp",
     "scales": [
       "Mage",
       "On-Hit Effects",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Lord Dominik's Regards",
-    "image": "/data/img/Lord_Dominik_s_Regards.png",
+    "image": "/data/img/Lord_Dominik_s_Regards.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -299,7 +299,7 @@
   },
   {
     "name": "Maw of Malmortius",
-    "image": "/data/img/Maw_of_Malmortius.png",
+    "image": "/data/img/Maw_of_Malmortius.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -310,7 +310,7 @@
   },
   {
     "name": "Mejai's Soulstealer",
-    "image": "/data/img/Mejai_s_Soulstealer.png",
+    "image": "/data/img/Mejai_s_Soulstealer.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -320,7 +320,7 @@
   },
   {
     "name": "Mercurial Scimitar",
-    "image": "/data/img/Mercurial_Scimitar.png",
+    "image": "/data/img/Mercurial_Scimitar.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -331,7 +331,7 @@
   },
   {
     "name": "Mikael's Blessing",
-    "image": "/data/img/Mikael_s_Blessing.png",
+    "image": "/data/img/Mikael_s_Blessing.webp",
     "scales": [
       "Supporter",
       "Mana & Regeneration",
@@ -340,7 +340,7 @@
   },
   {
     "name": "Morellonomicon",
-    "image": "/data/img/Morellonomicon.png",
+    "image": "/data/img/Morellonomicon.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -350,7 +350,7 @@
   },
   {
     "name": "Mortal Reminder",
-    "image": "/data/img/Mortal_Reminder.png",
+    "image": "/data/img/Mortal_Reminder.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -360,7 +360,7 @@
   },
   {
     "name": "Muramana",
-    "image": "/data/img/Muramana.png",
+    "image": "/data/img/Muramana.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -373,7 +373,7 @@
   },
   {
     "name": "Nashor's Tooth",
-    "image": "/data/img/Nashor_s_Tooth.png",
+    "image": "/data/img/Nashor_s_Tooth.webp",
     "scales": [
       "Mage",
       "Attack Speed",
@@ -384,7 +384,7 @@
   },
   {
     "name": "Phantom Dancer",
-    "image": "/data/img/Phantom_Dancer.png",
+    "image": "/data/img/Phantom_Dancer.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -395,7 +395,7 @@
   },
   {
     "name": "Prowler's Claw",
-    "image": "/data/img/Prowler_s_Claw.png",
+    "image": "/data/img/Prowler_s_Claw.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Rabadon's Deathcap",
-    "image": "/data/img/Rabadon_s_Deathcap.png",
+    "image": "/data/img/Rabadon_s_Deathcap.webp",
     "scales": [
       "Mage",
       "Ability Power"
@@ -414,7 +414,7 @@
   },
   {
     "name": "Randuin's Omen",
-    "image": "/data/img/Randuin_s_Omen.png",
+    "image": "/data/img/Randuin_s_Omen.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -423,7 +423,7 @@
   },
   {
     "name": "Rapid Firecannon",
-    "image": "/data/img/Rapid_Firecannon.png",
+    "image": "/data/img/Rapid_Firecannon.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -435,7 +435,7 @@
   },
   {
     "name": "Ravenous Hydra",
-    "image": "/data/img/Ravenous_Hydra.png",
+    "image": "/data/img/Ravenous_Hydra.webp",
     "scales": [
       "Fighter",
       "Assassin",
@@ -446,7 +446,7 @@
   },
   {
     "name": "Redemption",
-    "image": "/data/img/Redemption.png",
+    "image": "/data/img/Redemption.webp",
     "scales": [
       "Supporter",
       "Mana & Regeneration",
@@ -455,7 +455,7 @@
   },
   {
     "name": "Runaan's Hurricane",
-    "image": "/data/img/Runaan_s_Hurricane.png",
+    "image": "/data/img/Runaan_s_Hurricane.webp",
     "scales": [
       "Marksman",
       "Critical Strike",
@@ -466,7 +466,7 @@
   },
   {
     "name": "Rylai's Crystal Scepter",
-    "image": "/data/img/Rylai_s_Crystal_Scepter.png",
+    "image": "/data/img/Rylai_s_Crystal_Scepter.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -475,7 +475,7 @@
   },
   {
     "name": "Seraph's Embrace",
-    "image": "/data/img/Seraph_s_Embrace.png",
+    "image": "/data/img/Seraph_s_Embrace.webp",
     "scales": [
       "Ability Power",
       "Mana & Regeneration",
@@ -485,7 +485,7 @@
   },
   {
     "name": "Serpent's Fang",
-    "image": "/data/img/Serpent_s_Fang.png",
+    "image": "/data/img/Serpent_s_Fang.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
@@ -494,7 +494,7 @@
   },
   {
     "name": "Serylda's Grudge",
-    "image": "/data/img/Serylda_s_Grudge.png",
+    "image": "/data/img/Serylda_s_Grudge.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -506,7 +506,7 @@
   },
   {
     "name": "Shadowflame",
-    "image": "/data/img/Shadowflame.png",
+    "image": "/data/img/Shadowflame.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -515,7 +515,7 @@
   },
   {
     "name": "Silvermere Dawn",
-    "image": "/data/img/Silvermere_Dawn.png",
+    "image": "/data/img/Silvermere_Dawn.webp",
     "scales": [
       "Fighter",
       "Assassin",
@@ -526,7 +526,7 @@
   },
   {
     "name": "Spear of Shojin",
-    "image": "/data/img/Spear_of_Shojin.png",
+    "image": "/data/img/Spear_of_Shojin.webp",
     "scales": [
       "Fighter",
       "Assassin",
@@ -538,7 +538,7 @@
   },
   {
     "name": "Spirit Visage",
-    "image": "/data/img/Spirit_Visage.png",
+    "image": "/data/img/Spirit_Visage.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -548,7 +548,7 @@
   },
   {
     "name": "Staff of Flowing Water",
-    "image": "/data/img/Staff_of_Flowing_Water.png",
+    "image": "/data/img/Staff_of_Flowing_Water.webp",
     "scales": [
       "Supporter",
       "Ability Power",
@@ -558,7 +558,7 @@
   },
   {
     "name": "Statikk Shiv",
-    "image": "/data/img/Statikk_Shiv.png",
+    "image": "/data/img/Statikk_Shiv.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -569,7 +569,7 @@
   },
   {
     "name": "Sterak's Gage",
-    "image": "/data/img/Sterak_s_Gage.png",
+    "image": "/data/img/Sterak_s_Gage.webp",
     "scales": [
       "Fighter",
       "Tank",
@@ -578,7 +578,7 @@
   },
   {
     "name": "Stormrazor",
-    "image": "/data/img/Stormrazor.png",
+    "image": "/data/img/Stormrazor.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -589,7 +589,7 @@
   },
   {
     "name": "Sunfire Aegis",
-    "image": "/data/img/Sunfire_Aegis.png",
+    "image": "/data/img/Sunfire_Aegis.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -598,7 +598,7 @@
   },
   {
     "name": "The Collector",
-    "image": "/data/img/The_Collector.png",
+    "image": "/data/img/The_Collector.webp",
     "scales": [
       "Marksman",
       "Assassin",
@@ -609,7 +609,7 @@
   },
   {
     "name": "Thornmail",
-    "image": "/data/img/Thornmail.png",
+    "image": "/data/img/Thornmail.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -618,7 +618,7 @@
   },
   {
     "name": "Titanic Hydra",
-    "image": "/data/img/Titanic_Hydra.png",
+    "image": "/data/img/Titanic_Hydra.webp",
     "scales": [
       "Fighter",
       "Tank",
@@ -629,7 +629,7 @@
   },
   {
     "name": "Turbo Chemtank",
-    "image": "/data/img/Turbo_Chemtank.png",
+    "image": "/data/img/Turbo_Chemtank.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -640,7 +640,7 @@
   },
   {
     "name": "Umbral Glaive",
-    "image": "/data/img/Umbral_Glaive.png",
+    "image": "/data/img/Umbral_Glaive.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Vigilant Wardstone",
-    "image": "/data/img/Vigilant_Wardstone.png",
+    "image": "/data/img/Vigilant_Wardstone.webp",
     "scales": [
       "Supporter",
       "Mana & Regeneration",
@@ -661,7 +661,7 @@
   },
   {
     "name": "Void Staff",
-    "image": "/data/img/Void_Staff.png",
+    "image": "/data/img/Void_Staff.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -670,7 +670,7 @@
   },
   {
     "name": "Warmog's Armor",
-    "image": "/data/img/Warmog_s_Armor.png",
+    "image": "/data/img/Warmog_s_Armor.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -679,7 +679,7 @@
   },
   {
     "name": "Winter's Approach",
-    "image": "/data/img/Winter_s_Approach.png",
+    "image": "/data/img/Winter_s_Approach.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -690,7 +690,7 @@
   },
   {
     "name": "Wit's End",
-    "image": "/data/img/Wit_s_End.png",
+    "image": "/data/img/Wit_s_End.webp",
     "scales": [
       "Fighter",
       "Attack Damage",
@@ -702,7 +702,7 @@
   },
   {
     "name": "Zeke's Convergence",
-    "image": "/data/img/Zeke_s_Convergence.png",
+    "image": "/data/img/Zeke_s_Convergence.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -715,7 +715,7 @@
   },
   {
     "name": "Zhonya's Hourglass",
-    "image": "/data/img/Zhonya_s_Hourglass.png",
+    "image": "/data/img/Zhonya_s_Hourglass.webp",
     "scales": [
       "Mage",
       "Ability Power",

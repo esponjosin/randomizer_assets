@@ -1,7 +1,7 @@
 [
   {
     "name": "Crown of the Shattered Queen",
-    "image": "/data/img/Crown_of_the_Shattered_Queen.png",
+    "image": "/data/img/Crown_of_the_Shattered_Queen.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Divine Sunderer",
-    "image": "/data/img/Divine_Sunderer.png",
+    "image": "/data/img/Divine_Sunderer.webp",
     "scales": [
       "Fighter",
       "Attack Damage",
@@ -26,7 +26,7 @@
   },
   {
     "name": "Duskblade of Draktharr",
-    "image": "/data/img/Duskblade_of_Draktharr.png",
+    "image": "/data/img/Duskblade_of_Draktharr.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Echoes of Helia",
-    "image": "/data/img/Echoes_of_Helia.png",
+    "image": "/data/img/Echoes_of_Helia.webp",
     "scales": [
       "Supporter",
       "Ability Power",
@@ -48,7 +48,7 @@
   },
   {
     "name": "Eclipse",
-    "image": "/data/img/Eclipse.png",
+    "image": "/data/img/Eclipse.webp",
     "scales": [
       "Fighter",
       "Assassin",
@@ -60,7 +60,7 @@
   },
   {
     "name": "Evenshroud",
-    "image": "/data/img/Evenshroud.png",
+    "image": "/data/img/Evenshroud.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -72,7 +72,7 @@
   },
   {
     "name": "Everfrost",
-    "image": "/data/img/Everfrost.png",
+    "image": "/data/img/Everfrost.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -83,7 +83,7 @@
   },
   {
     "name": "Galeforce",
-    "image": "/data/img/Galeforce.png",
+    "image": "/data/img/Galeforce.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -94,7 +94,7 @@
   },
   {
     "name": "Goredrinker",
-    "image": "/data/img/Goredrinker.png",
+    "image": "/data/img/Goredrinker.webp",
     "scales": [
       "Fighter",
       "Attack Damage",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Guinsoo's Rageblade",
-    "image": "/data/img/Guinsoo_s_Rageblade.png",
+    "image": "/data/img/Guinsoo_s_Rageblade.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -117,7 +117,7 @@
   },
   {
     "name": "Heartsteel",
-    "image": "/data/img/Heartsteel.png",
+    "image": "/data/img/Heartsteel.webp",
     "scales": [
       "Tank",
       "On-Hit Effects",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Hextech Rocketbelt",
-    "image": "/data/img/Hextech_Rocketbelt.png",
+    "image": "/data/img/Hextech_Rocketbelt.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Iceborn Gauntlet",
-    "image": "/data/img/Iceborn_Gauntlet.png",
+    "image": "/data/img/Iceborn_Gauntlet.webp",
     "scales": [
       "Tank",
       "On-Hit Effects",
@@ -150,7 +150,7 @@
   },
   {
     "name": "Infinity Edge",
-    "image": "/data/img/Infinity_Edge.png",
+    "image": "/data/img/Infinity_Edge.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -159,7 +159,7 @@
   },
   {
     "name": "Jak'Sho, The Protean",
-    "image": "/data/img/Jak_Sho,_The_Protean.png",
+    "image": "/data/img/Jak_Sho,_The_Protean.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Liandry's Anguish",
-    "image": "/data/img/Liandry_s_Anguish.png",
+    "image": "/data/img/Liandry_s_Anguish.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Locket of the Iron Solari",
-    "image": "/data/img/Locket_of_the_Iron_Solari.png",
+    "image": "/data/img/Locket_of_the_Iron_Solari.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Luden's Tempest",
-    "image": "/data/img/Luden_s_Tempest.png",
+    "image": "/data/img/Luden_s_Tempest.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Moonstone Renewer",
-    "image": "/data/img/Moonstone_Renewer.png",
+    "image": "/data/img/Moonstone_Renewer.webp",
     "scales": [
       "Supporter",
       "Ability Power",
@@ -216,7 +216,7 @@
   },
   {
     "name": "Navori Quickblades",
-    "image": "/data/img/Navori_Quickblades.png",
+    "image": "/data/img/Navori_Quickblades.webp",
     "scales": [
       "Marksman",
       "Attack Damage",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Night Harvester",
-    "image": "/data/img/Night_Harvester.png",
+    "image": "/data/img/Night_Harvester.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Radiant Virtue",
-    "image": "/data/img/Radiant_Virtue.png",
+    "image": "/data/img/Radiant_Virtue.webp",
     "scales": [
       "Tank",
       "Health & Regeneration",
@@ -248,7 +248,7 @@
   },
   {
     "name": "Riftmaker",
-    "image": "/data/img/Riftmaker.png",
+    "image": "/data/img/Riftmaker.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -260,7 +260,7 @@
   },
   {
     "name": "Rod of Ages",
-    "image": "/data/img/Rod_of_Ages.png",
+    "image": "/data/img/Rod_of_Ages.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Shurelya's Battlesong",
-    "image": "/data/img/Shurelya_s_Battlesong.png",
+    "image": "/data/img/Shurelya_s_Battlesong.webp",
     "scales": [
       "Tank",
       "Supporter",
@@ -284,7 +284,7 @@
   },
   {
     "name": "Stridebreaker",
-    "image": "/data/img/Stridebreaker.png",
+    "image": "/data/img/Stridebreaker.webp",
     "scales": [
       "Fighter",
       "Attack Damage",
@@ -296,7 +296,7 @@
   },
   {
     "name": "Trinity Force",
-    "image": "/data/img/Trinity_Force.png",
+    "image": "/data/img/Trinity_Force.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -309,7 +309,7 @@
   },
   {
     "name": "Youmuu's Ghostblade",
-    "image": "/data/img/Youmuu_s_Ghostblade.png",
+    "image": "/data/img/Youmuu_s_Ghostblade.webp",
     "scales": [
       "Assassin",
       "Attack Damage",
