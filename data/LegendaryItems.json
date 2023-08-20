@@ -20,17 +20,6 @@
     ]
   },
   {
-    "name": "Archangel's Staff",
-    "image": "/data/img/Archangel_s_Staff.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
     "name": "Ardent Censer",
     "image": "/data/img/Ardent_Censer.png",
     "scales": [
@@ -182,17 +171,6 @@
     ]
   },
   {
-    "name": "Fimbulwinter",
-    "image": "/data/img/Fimbulwinter.png",
-    "scales": [
-      "Tank",
-      "Supporter",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
     "name": "Force of Nature",
     "image": "/data/img/Force_of_Nature.png",
     "scales": [
@@ -317,19 +295,6 @@
       "Attack Damage",
       "Critical Strike",
       "Armor Penetration"
-    ]
-  },
-  {
-    "name": "Manamune",
-    "image": "/data/img/Manamune.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Assassin",
-      "Attack Damage",
-      "On-Hit Effects",
-      "Mana & Regeneration",
-      "Ability Haste"
     ]
   },
   {
