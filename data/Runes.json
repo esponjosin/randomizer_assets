@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Precision",
+    "image": "/data/img/Precision.webp",
+    "keystones": [
+      {
+        "name": "Press the Attack",
+        "image": "/data/img/Press_the_Attack.png"
+      },
+      {
+        "name": "Lethal Tempo",
+        "image": "/data/img/Lethal_Tempo.png"
+      },
+      {
+        "name": "Fleet Footwork",
+        "image": "/data/img/Fleet_Footwork.png"
+      },
+      {
+        "name": "Conqueror",
+        "image": "/data/img/Conqueror.png"
+      }
+    ],
+    "slot1": [
+      {
+        "name": "Overheal",
+        "image": "/data/img/Overheal.png"
+      },
+      {
+        "name": "Triumph",
+        "image": "/data/img/Triumph.png"
+      },
+      {
+        "name": "Presence of Mind",
+        "image": "/data/img/Presence_of_Mind.png"
+      }
+    ],
+    "slot2": [
+      {
+        "name": "Legend: Alacrity",
+        "image": "/data/img/Legend_Alacrity.png"
+      },
+      {
+        "name": "Legend: Tenacity",
+        "image": "/data/img/Legend_Tenacity.png"
+      },
+      {
+        "name": "Legend: Bloodline",
+        "image": "/data/img/Legend_Bloodline.png"
+      }
+    ],
+    "slot3": [
+      {
+        "name": "Coup de Grace",
+        "image": "/data/img/Coup_de_Grace.png"
+      },
+      {
+        "name": "Cut Down",
+        "image": "/data/img/Cut_Down.png"
+      },
+      {
+        "name": "Last Stand",
+        "image": "/data/img/Last_Stand.png"
+      }
+    ]
+  },
+  {
+    "name": "Domination",
+    "image": "/data/img/Domination.webp",
+    "keystones": [
+      {
+        "name": "Electrocute",
+        "image": "/data/img/Electrocute.png"
+      },
+      {
+        "name": "Predator",
+        "image": "/data/img/Predator.png"
+      },
+      {
+        "name": "Dark Harvest",
+        "image": "/data/img/Dark_Harvest.png"
+      },
+      {
+        "name": "Hail of Blades",
+        "image": "/data/img/Hail_of_Blades.png"
+      }
+    ],
+    "slot1": [
+      {
+        "name": "Cheap Shot",
+        "image": "/data/img/Cheap_Shot.png"
+      },
+      {
+        "name": "Taste of Blood",
+        "image": "/data/img/Taste_of_Blood.png"
+      },
+      {
+        "name": "Sudden Impact",
+        "image": "/data/img/Sudden_Impact.png"
+      }
+    ],
+    "slot2": [
+      {
+        "name": "Zombie Ward",
+        "image": "/data/img/Zombie_Ward.png"
+      },
+      {
+        "name": "Ghost Poro",
+        "image": "/data/img/Ghost_Poro.png"
+      },
+      {
+        "name": "Eyeball Collection",
+        "image": "/data/img/Eyeball_Collection.png"
+      }
+    ],
+    "slot3": [
+      {
+        "name": "Treasure Hunter",
+        "image": "/data/img/Treasure_Hunter.png"
+      },
+      {
+        "name": "Ingenious Hunter",
+        "image": "/data/img/Ingenious_Hunter.png"
+      },
+      {
+        "name": "Relentless Hunter",
+        "image": "/data/img/Relentless_Hunter.png"
+      },
+      {
+        "name": "Ultimate Hunter",
+        "image": "/data/img/Ultimate_Hunter.png"
+      }
+    ]
+  },
+  {
+    "name": "Sorcery",
+    "image": "/data/img/Sorcery.webp",
+    "keystones": [
+      {
+        "name": "Summon Aery",
+        "image": "/data/img/Summon_Aery.png"
+      },
+      {
+        "name": "Arcane Comet",
+        "image": "/data/img/Arcane_Comet.png"
+      },
+      {
+        "name": "Phase Rush",
+        "image": "/data/img/Phase_Rush.png"
+      }
+    ],
+    "slot1": [
+      {
+        "name": "Nullifying Orb",
+        "image": "/data/img/Nullifying_Orb.png"
+      },
+      {
+        "name": "Manaflow Band",
+        "image": "/data/img/Manaflow_Band.png"
+      },
+      {
+        "name": "Nimbus Cloak",
+        "image": "/data/img/Nimbus_Cloak.png"
+      }
+    ],
+    "slot2": [
+      {
+        "name": "Transcendence",
+        "image": "/data/img/Transcendence.png"
+      },
+      {
+        "name": "Celerity",
+        "image": "/data/img/Celerity.png"
+      },
+      {
+        "name": "Absolute Focus",
+        "image": "/data/img/Absolute_Focus.png"
+      }
+    ],
+    "slot3": [
+      {
+        "name": "Scorch",
+        "image": "/data/img/Scorch.png"
+      },
+      {
+        "name": "Waterwalking",
+        "image": "/data/img/Waterwalking.png"
+      },
+      {
+        "name": "Gathering Storm",
+        "image": "/data/img/Gathering_Storm.png"
+      }
+    ]
+  },
+  {
+    "name": "Resolve",
+    "image": "/data/img/Resolve.webp",
+    "keystones": [
+      {
+        "name": "Grasp of the Undying",
+        "image": "/data/img/Grasp_of_the_Undying.png"
+      },
+      {
+        "name": "Aftershock",
+        "image": "/data/img/Aftershock.png"
+      },
+      {
+        "name": "Guardian",
+        "image": "/data/img/Guardian.png"
+      }
+    ],
+    "slot1": [
+      {
+        "name": "Demolish",
+        "image": "/data/img/Demolish.png"
+      },
+      {
+        "name": "Font of Life",
+        "image": "/data/img/Font_of_Life.png"
+      },
+      {
+        "name": "Shield Bash",
+        "image": "/data/img/Shield_Bash.png"
+      }
+    ],
+    "slot2": [
+      {
+        "name": "Conditioning",
+        "image": "/data/img/Conditioning.png"
+      },
+      {
+        "name": "Second Wind",
+        "image": "/data/img/Second_Wind.png"
+      },
+      {
+        "name": "Bone Plating",
+        "image": "/data/img/Bone_Plating.png"
+      }
+    ],
+    "slot3": [
+      {
+        "name": "Overgrowth",
+        "image": "/data/img/Overgrowth.png"
+      },
+      {
+        "name": "Revitalize",
+        "image": "/data/img/Revitalize.png"
+      },
+      {
+        "name": "Unflinching",
+        "image": "/data/img/Unflinching.png"
+      }
+    ]
+  },
+  {
+    "name": "Inspiration",
+    "image": "/data/img/Inspiration.webp",
+    "keystones": [
+      {
+        "name": "Glacial Augment",
+        "image": "/data/img/Glacial_Augment.png"
+      },
+      {
+        "name": "Unsealed Spellbook",
+        "image": "/data/img/Unsealed_Spellbook.png"
+      },
+      {
+        "name": "First Strike",
+        "image": "/data/img/First_Strike.png"
+      }
+    ],
+    "slot1": [
+      {
+        "name": "Hextech Flashtraption",
+        "image": "/data/img/Hextech_Flashtraption.png"
+      },
+      {
+        "name": "Magical Footwear",
+        "image": "/data/img/Magical_Footwear.png"
+      },
+      {
+        "name": "Perfect Timing",
+        "image": "/data/img/Perfect_Timing.png"
+      }
+    ],
+    "slot2": [
+      {
+        "name": "Future's Market",
+        "image": "/data/img/Future_s_Market.png"
+      },
+      {
+        "name": "Minion Dematerializer",
+        "image": "/data/img/Minion_Dematerializer.png"
+      },
+      {
+        "name": "Biscuit Delivery",
+        "image": "/data/img/Biscuit_Delivery.png"
+      }
+    ],
+    "slot3": [
+      {
+        "name": "Cosmic Insight",
+        "image": "/data/img/Cosmic_Insight.png"
+      },
+      {
+        "name": "Approach Velocity",
+        "image": "/data/img/Approach_Velocity.png"
+      },
+      {
+        "name": "Time Warp Tonic",
+        "image": "/data/img/Time_Warp_Tonic.png"
+      }
+    ]
+  }
+]

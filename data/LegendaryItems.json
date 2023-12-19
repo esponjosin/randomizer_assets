@@ -1,0 +1,726 @@
+[
+  {
+    "name": "Abyssal Mask",
+    "image": "/data/img/Abyssal_Mask.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Anathema's Chains",
+    "image": "/data/img/Anathema_s_Chains.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Ardent Censer",
+    "image": "/data/img/Ardent_Censer.png",
+    "scales": [
+      "Supporter",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Axiom Arc",
+    "image": "/data/img/Axiom_Arc.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Banshee's Veil",
+    "image": "/data/img/Banshee_s_Veil.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Black Cleaver",
+    "image": "/data/img/Black_Cleaver.png",
+    "scales": [
+      "Fighter",
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Blade of the Ruined King",
+    "image": "/data/img/Blade_of_the_Ruined_King.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Attack Damage",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Movement",
+      "Life Steal & Vamp"
+    ]
+  },
+  {
+    "name": "Bloodthirster",
+    "image": "/data/img/Bloodthirster.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Life Steal & Vamp"
+    ]
+  },
+  {
+    "name": "Chempunk Chainsword",
+    "image": "/data/img/Chempunk_Chainsword.png",
+    "scales": [
+      "Fighter",
+      "Assassin",
+      "Attack Damage",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Chemtech Putrifier",
+    "image": "/data/img/Chemtech_Putrifier.png",
+    "scales": [
+      "Supporter",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Cosmic Drive",
+    "image": "/data/img/Cosmic_Drive.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Dead Man's Plate",
+    "image": "/data/img/Dead_Man_s_Plate.png",
+    "scales": [
+      "Tank",
+      "On-Hit Effects",
+      "Health & Regeneration",
+      "Armor",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Death's Dance",
+    "image": "/data/img/Death_s_Dance.png",
+    "scales": [
+      "Fighter",
+      "Attack Damage",
+      "Armor",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Demonic Embrace",
+    "image": "/data/img/Demonic_Embrace.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Edge of Night",
+    "image": "/data/img/Edge_of_Night.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Essence Reaver",
+    "image": "/data/img/Essence_Reaver.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "On-Hit Effects",
+      "Mana & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Force of Nature",
+    "image": "/data/img/Force_of_Nature.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Magic Resistance",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Frozen Heart",
+    "image": "/data/img/Frozen_Heart.png",
+    "scales": [
+      "Tank",
+      "Mana & Regeneration",
+      "Armor",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Gargoyle Stoneplate",
+    "image": "/data/img/Gargoyle_Stoneplate.png",
+    "scales": [
+      "Tank",
+      "Armor",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Guardian Angel",
+    "image": "/data/img/Guardian_Angel.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "Armor"
+    ]
+  },
+  {
+    "name": "Horizon Focus",
+    "image": "/data/img/Horizon_Focus.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Hullbreaker",
+    "image": "/data/img/Hullbreaker.png",
+    "scales": [
+      "Fighter",
+      "Attack Damage",
+      "Health & Regeneration",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Immortal Shieldbow",
+    "image": "/data/img/Immortal_Shieldbow.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Health & Regeneration",
+      "Life Steal & Vamp"
+    ]
+  },
+  {
+    "name": "Imperial Mandate",
+    "image": "/data/img/Imperial_Mandate.png",
+    "scales": [
+      "Supporter",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Knight's Vow",
+    "image": "/data/img/Knight_s_Vow.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "Health & Regeneration",
+      "Armor",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Kraken Slayer",
+    "image": "/data/img/Kraken_Slayer.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Attack Speed",
+      "Armor Penetration"
+    ]
+  },
+  {
+    "name": "Lich Bane",
+    "image": "/data/img/Lich_Bane.png",
+    "scales": [
+      "Mage",
+      "On-Hit Effects",
+      "Ability Power",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Lord Dominik's Regards",
+    "image": "/data/img/Lord_Dominik_s_Regards.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Armor Penetration"
+    ]
+  },
+  {
+    "name": "Maw of Malmortius",
+    "image": "/data/img/Maw_of_Malmortius.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "Magic Resistance"
+    ]
+  },
+  {
+    "name": "Mejai's Soulstealer",
+    "image": "/data/img/Mejai_s_Soulstealer.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Mercurial Scimitar",
+    "image": "/data/img/Mercurial_Scimitar.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Magic Resistance",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Mikael's Blessing",
+    "image": "/data/img/Mikael_s_Blessing.png",
+    "scales": [
+      "Supporter",
+      "Mana & Regeneration",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Morellonomicon",
+    "image": "/data/img/Morellonomicon.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Magic Penetration",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Mortal Reminder",
+    "image": "/data/img/Mortal_Reminder.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Armor Penetration"
+    ]
+  },
+  {
+    "name": "Muramana",
+    "image": "/data/img/Muramana.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "On-Hit Effects",
+      "Mana & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Nashor's Tooth",
+    "image": "/data/img/Nashor_s_Tooth.png",
+    "scales": [
+      "Mage",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Ability Power",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Phantom Dancer",
+    "image": "/data/img/Phantom_Dancer.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Attack Speed",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Prowler's Claw",
+    "image": "/data/img/Prowler_s_Claw.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Rabadon's Deathcap",
+    "image": "/data/img/Rabadon_s_Deathcap.png",
+    "scales": [
+      "Mage",
+      "Ability Power"
+    ]
+  },
+  {
+    "name": "Randuin's Omen",
+    "image": "/data/img/Randuin_s_Omen.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Armor"
+    ]
+  },
+  {
+    "name": "Rapid Firecannon",
+    "image": "/data/img/Rapid_Firecannon.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Ravenous Hydra",
+    "image": "/data/img/Ravenous_Hydra.png",
+    "scales": [
+      "Fighter",
+      "Assassin",
+      "Attack Damage",
+      "Ability Haste",
+      "Life Steal & Vamp"
+    ]
+  },
+  {
+    "name": "Redemption",
+    "image": "/data/img/Redemption.png",
+    "scales": [
+      "Supporter",
+      "Mana & Regeneration",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Runaan's Hurricane",
+    "image": "/data/img/Runaan_s_Hurricane.png",
+    "scales": [
+      "Marksman",
+      "Critical Strike",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Rylai's Crystal Scepter",
+    "image": "/data/img/Rylai_s_Crystal_Scepter.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Seraph's Embrace",
+    "image": "/data/img/Seraph_s_Embrace.png",
+    "scales": [
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Serpent's Fang",
+    "image": "/data/img/Serpent_s_Fang.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration"
+    ]
+  },
+  {
+    "name": "Serylda's Grudge",
+    "image": "/data/img/Serylda_s_Grudge.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "Armor Penetration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Shadowflame",
+    "image": "/data/img/Shadowflame.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Silvermere Dawn",
+    "image": "/data/img/Silvermere_Dawn.png",
+    "scales": [
+      "Fighter",
+      "Assassin",
+      "Attack Damage",
+      "Health & Regeneration",
+      "Magic Resistance"
+    ]
+  },
+  {
+    "name": "Spear of Shojin",
+    "image": "/data/img/Spear_of_Shojin.png",
+    "scales": [
+      "Fighter",
+      "Assassin",
+      "Attack Damage",
+      "Health & Regeneration",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Spirit Visage",
+    "image": "/data/img/Spirit_Visage.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Magic Resistance",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Staff of Flowing Water",
+    "image": "/data/img/Staff_of_Flowing_Water.png",
+    "scales": [
+      "Supporter",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Statikk Shiv",
+    "image": "/data/img/Statikk_Shiv.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Attack Speed",
+      "On-Hit Effects"
+    ]
+  },
+  {
+    "name": "Sterak's Gage",
+    "image": "/data/img/Sterak_s_Gage.png",
+    "scales": [
+      "Fighter",
+      "Tank",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Stormrazor",
+    "image": "/data/img/Stormrazor.png",
+    "scales": [
+      "Marksman",
+      "Attack Damage",
+      "Critical Strike",
+      "Attack Speed",
+      "On-Hit Effects"
+    ]
+  },
+  {
+    "name": "Sunfire Aegis",
+    "image": "/data/img/Sunfire_Aegis.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Armor"
+    ]
+  },
+  {
+    "name": "The Collector",
+    "image": "/data/img/The_Collector.png",
+    "scales": [
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "Critical Strike",
+      "Armor Penetration"
+    ]
+  },
+  {
+    "name": "Thornmail",
+    "image": "/data/img/Thornmail.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Armor"
+    ]
+  },
+  {
+    "name": "Titanic Hydra",
+    "image": "/data/img/Titanic_Hydra.png",
+    "scales": [
+      "Fighter",
+      "Tank",
+      "Attack Damage",
+      "On-Hit Effects",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Turbo Chemtank",
+    "image": "/data/img/Turbo_Chemtank.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Magic Resistance",
+      "Ability Haste",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Umbral Glaive",
+    "image": "/data/img/Umbral_Glaive.png",
+    "scales": [
+      "Assassin",
+      "Attack Damage",
+      "On-Hit Effects",
+      "Armor Penetration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Vigilant Wardstone",
+    "image": "/data/img/Vigilant_Wardstone.png",
+    "scales": [
+      "Supporter",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Void Staff",
+    "image": "/data/img/Void_Staff.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Magic Penetration"
+    ]
+  },
+  {
+    "name": "Warmog's Armor",
+    "image": "/data/img/Warmog_s_Armor.png",
+    "scales": [
+      "Tank",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Winter's Approach",
+    "image": "/data/img/Winter_s_Approach.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Wit's End",
+    "image": "/data/img/Wit_s_End.png",
+    "scales": [
+      "Fighter",
+      "Attack Damage",
+      "Attack Speed",
+      "On-Hit Effects",
+      "Magic Resistance",
+      "Movement"
+    ]
+  },
+  {
+    "name": "Zeke's Convergence",
+    "image": "/data/img/Zeke_s_Convergence.png",
+    "scales": [
+      "Tank",
+      "Supporter",
+      "On-Hit Effects",
+      "Mana & Regeneration",
+      "Health & Regeneration",
+      "Armor",
+      "Ability Haste"
+    ]
+  },
+  {
+    "name": "Zhonya's Hourglass",
+    "image": "/data/img/Zhonya_s_Hourglass.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Armor",
+      "Ability Haste"
+    ]
+  }
+]

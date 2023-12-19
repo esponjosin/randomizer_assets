@@ -1,0 +1,44 @@
+{
+  "Offense": [
+    {
+      "name": "Adaptive Force",
+      "image": "/data/img/Adaptive_Force.webp"
+    },
+    {
+      "name": "Attack Speed",
+      "image": "/data/img/Attack_Speed.webp"
+    },
+    {
+      "name": "Cooldown Reduction",
+      "image": "/data/img/Cooldown_Reduction.webp"
+    }
+  ],
+  "Flex": [
+    {
+      "name": "Adaptive Force",
+      "image": "/data/img/Adaptive_Force.webp"
+    },
+    {
+      "name": "Armor",
+      "image": "/data/img/Armor.webp"
+    },
+    {
+      "name": "Magic Resistance",
+      "image": "/data/img/Magic_Resistance.webp"
+    }
+  ],
+  "Defense": [
+    {
+      "name": "Health",
+      "image": "/data/img/Health.webp"
+    },
+    {
+      "name": "Armor",
+      "image": "/data/img/Armor.webp"
+    },
+    {
+      "name": "Magic Resistance",
+      "image": "/data/img/Magic_Resistance.webp"
+    }
+  ]
+}

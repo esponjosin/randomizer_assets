@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Cull",
+    "image": "/data/img/Cull.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "On-Hit Effects",
+      "Life Steal & Vamp"
+    ]
+  },
+  {
+    "name": "Dark Seal",
+    "image": "/data/img/Dark_Seal.png",
+    "scales": [
+      "Mage",
+      "Ability Power",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Doran's Blade",
+    "image": "/data/img/Doran_s_Blade.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Attack Damage",
+      "Health & Regeneration",
+      "Life Steal & Vamp"
+    ]
+  },
+  {
+    "name": "Doran's Ring",
+    "image": "/data/img/Doran_s_Ring.png",
+    "scales": [
+      "Mage",
+      "On-Hit Effects",
+      "Ability Power",
+      "Mana & Regeneration",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Doran's Shield",
+    "image": "/data/img/Doran_s_Shield.png",
+    "scales": [
+      "Fighter",
+      "Marksman",
+      "Assassin",
+      "Mage",
+      "Tank",
+      "On-Hit Effects",
+      "Health & Regeneration"
+    ]
+  },
+  {
+    "name": "Tear of the Goddess",
+    "image": "/data/img/Tear_of_the_Goddess.png",
+    "scales": [
+      "Marksman",
+      "Mage",
+      "Mana & Regeneration"
+    ]
+  }
+]
