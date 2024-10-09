@@ -5,20 +5,20 @@
     "tags": [
       "Fighter"
     ],
-    "image": "/data/img/Aatrox.png",
+    "image": "/data/img/Aatrox.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Aatrox_Q.png",
+        "image": "/data/img/Aatrox_Q.webp",
         "name": "Aatrox_Q",
         "alias": "Focused Resolve"
       },
       "W": {
-        "image": "/data/img/Aatrox_W.png",
+        "image": "/data/img/Aatrox_W.webp",
         "name": "Aatrox_W",
         "alias": "Wild Rush"
       },
       "E": {
-        "image": "/data/img/Aatrox_E.png",
+        "image": "/data/img/Aatrox_E.webp",
         "name": "Aatrox_E",
         "alias": "Umbral Dash"
       }
@@ -29,21 +29,21 @@
           "primary": [
             {
               "name": "Precision",
-              "image": "/data/img/Precision.png"
+              "image": "/data/img/Precision.webp"
             },
             {
               "name": "Sorcery",
-              "image": "/data/img/Sorcery.png"
+              "image": "/data/img/Sorcery.webp"
             },
             {
               "name": "Resolve",
-              "image": "/data/img/Resolve.png"
+              "image": "/data/img/Resolve.webp"
             }
           ],
           "secondary": [
             {
               "name": "Domination",
-              "image": "/data/img/Domination.png"
+              "image": "/data/img/Domination.webp"
             },
             {
               "name": "Resolve",
@@ -83,7 +83,7 @@
             },
             {
               "name": "Inspiration",
-              "image": "/data/img/Inspiration.png"
+              "image": "/data/img/Inspiration.webp"
             }
           ]
         }
@@ -215,20 +215,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Samira.png",
+    "image": "/data/img/Samira.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Samira_Q.png",
+        "image": "/data/img/Samira_Q.webp",
         "name": "Samira_Q",
         "alias": "Infernal Chains"
       },
       "W": {
-        "image": "/data/img/Samira_W.png",
+        "image": "/data/img/Samira_W.webp",
         "name": "Samira_W",
         "alias": "Inspire"
       },
       "E": {
-        "image": "/data/img/Samira_E.png",
+        "image": "/data/img/Samira_E.webp",
         "name": "Samira_E",
         "alias": "Umbral Dash"
       }
@@ -363,20 +363,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Karma.png",
+    "image": "/data/img/Karma.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Karma_Q.png",
+        "image": "/data/img/Karma_Q.webp",
         "name": "Karma_Q",
         "alias": "Inner Flame"
       },
       "W": {
-        "image": "/data/img/Karma_W.png",
+        "image": "/data/img/Karma_W.webp",
         "name": "Karma_W",
         "alias": "Blade Whirl"
       },
       "E": {
-        "image": "/data/img/Karma_E.png",
+        "image": "/data/img/Karma_E.webp",
         "name": "Karma_E",
         "alias": "Umbral Dash"
       }
@@ -585,20 +585,20 @@
       "Mage",
       "Assassin"
     ],
-    "image": "/data/img/Ahri.png",
+    "image": "/data/img/Ahri.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ahri_Q.png",
+        "image": "/data/img/Ahri_Q.webp",
         "name": "Ahri_Q",
         "alias": "Orb of Deception"
       },
       "W": {
-        "image": "/data/img/Ahri_W.png",
+        "image": "/data/img/Ahri_W.webp",
         "name": "Ahri_W",
         "alias": "Fox-Fire"
       },
       "E": {
-        "image": "/data/img/Ahri_E.png",
+        "image": "/data/img/Ahri_E.webp",
         "name": "Ahri_E",
         "alias": "Charm"
       }
@@ -818,20 +818,20 @@
     "tags": [
       "Tank"
     ],
-    "image": "/data/img/Sejuani.png",
+    "image": "/data/img/Sejuani.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Sejuani_Q.png",
+        "image": "/data/img/Sejuani_Q.webp",
         "name": "Sejuani_Q",
         "alias": "Arctic Assault"
       },
       "W": {
-        "image": "/data/img/Sejuani_W.png",
+        "image": "/data/img/Sejuani_W.webp",
         "name": "Sejuani_W",
         "alias": "Lay Waste"
       },
       "E": {
-        "image": "/data/img/Sejuani_E.png",
+        "image": "/data/img/Sejuani_E.webp",
         "name": "Sejuani_E",
         "alias": "Wall of Pain"
       }
@@ -1027,20 +1027,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Karthus.png",
+    "image": "/data/img/Karthus.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Karthus_Q.png",
+        "image": "/data/img/Karthus_Q.webp",
         "name": "Karthus_Q",
         "alias": "Permafrost"
       },
       "W": {
-        "image": "/data/img/Karthus_W.png",
+        "image": "/data/img/Karthus_W.webp",
         "name": "Karthus_W",
         "alias": "Wall of Pain"
       },
       "E": {
-        "image": "/data/img/Karthus_E.png",
+        "image": "/data/img/Karthus_E.webp",
         "name": "Karthus_E",
         "alias": "Defile"
       }
@@ -1220,20 +1220,20 @@
     "tags": [
       "Assassin"
     ],
-    "image": "/data/img/Akali.png",
+    "image": "/data/img/Akali.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Akali_Q.png",
+        "image": "/data/img/Akali_Q.webp",
         "name": "Akali_Q",
         "alias": "Five Point Strike"
       },
       "W": {
-        "image": "/data/img/Akali_W.png",
+        "image": "/data/img/Akali_W.webp",
         "name": "Akali_W",
         "alias": "Twilight Shroud"
       },
       "E": {
-        "image": "/data/img/Akali_E.png",
+        "image": "/data/img/Akali_E.webp",
         "name": "Akali_E",
         "alias": "Shuriken Flip"
       }
@@ -1418,20 +1418,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Kassadin.png",
+    "image": "/data/img/Kassadin.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kassadin_Q.png",
+        "image": "/data/img/Kassadin_Q.webp",
         "name": "Kassadin_Q",
         "alias": "Null Sphere"
       },
       "W": {
-        "image": "/data/img/Kassadin_W.png",
+        "image": "/data/img/Kassadin_W.webp",
         "name": "Kassadin_W",
         "alias": "Nether Blade"
       },
       "E": {
-        "image": "/data/img/Kassadin_E.png",
+        "image": "/data/img/Kassadin_E.webp",
         "name": "Kassadin_E",
         "alias": "Force Pulse"
       }
@@ -1634,20 +1634,20 @@
       "Support",
       "Marksman"
     ],
-    "image": "/data/img/Senna.png",
+    "image": "/data/img/Senna.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Senna_Q.png",
+        "image": "/data/img/Senna_Q.webp",
         "name": "Senna_Q",
         "alias": "Piercing Darkness"
       },
       "W": {
-        "image": "/data/img/Senna_W.png",
+        "image": "/data/img/Senna_W.webp",
         "name": "Senna_W",
         "alias": "Last Embrace"
       },
       "E": {
-        "image": "/data/img/Senna_E.png",
+        "image": "/data/img/Senna_E.webp",
         "name": "Senna_E",
         "alias": "Curse of the Black Mist"
       }
@@ -1888,20 +1888,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Akshan.png",
+    "image": "/data/img/Akshan.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Akshan_Q.png",
+        "image": "/data/img/Akshan_Q.webp",
         "name": "Akshan_Q",
         "alias": "Avengerang"
       },
       "W": {
-        "image": "/data/img/Akshan_W.png",
+        "image": "/data/img/Akshan_W.webp",
         "name": "Akshan_W",
         "alias": "Going Rogue"
       },
       "E": {
-        "image": "/data/img/Akshan_E.png",
+        "image": "/data/img/Akshan_E.webp",
         "name": "Akshan_E",
         "alias": "Heroic Swing"
       }
@@ -2034,20 +2034,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Katarina.png",
+    "image": "/data/img/Katarina.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Katarina_Q.png",
+        "image": "/data/img/Katarina_Q.webp",
         "name": "Katarina_Q",
         "alias": "Bouncing Blade"
       },
       "W": {
-        "image": "/data/img/Katarina_W.png",
+        "image": "/data/img/Katarina_W.webp",
         "name": "Katarina_W",
         "alias": "Preparation"
       },
       "E": {
-        "image": "/data/img/Katarina_E.png",
+        "image": "/data/img/Katarina_E.webp",
         "name": "Katarina_E",
         "alias": "Shunpo"
       }
@@ -2260,20 +2260,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Seraphine.png",
+    "image": "/data/img/Seraphine.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Seraphine_Q.png",
+        "image": "/data/img/Seraphine_Q.webp",
         "name": "Seraphine_Q",
         "alias": "High Note"
       },
       "W": {
-        "image": "/data/img/Seraphine_W.png",
+        "image": "/data/img/Seraphine_W.webp",
         "name": "Seraphine_W",
         "alias": "Surround Sound"
       },
       "E": {
-        "image": "/data/img/Seraphine_E.png",
+        "image": "/data/img/Seraphine_E.webp",
         "name": "Seraphine_E",
         "alias": "Beat Drop"
       }
@@ -2506,20 +2506,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Alistar.png",
+    "image": "/data/img/Alistar.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Alistar_Q.png",
+        "image": "/data/img/Alistar_Q.webp",
         "name": "Alistar_Q",
         "alias": "Pulverize"
       },
       "W": {
-        "image": "/data/img/Alistar_W.png",
+        "image": "/data/img/Alistar_W.webp",
         "name": "Alistar_W",
         "alias": "Headbutt"
       },
       "E": {
-        "image": "/data/img/Alistar_E.png",
+        "image": "/data/img/Alistar_E.webp",
         "name": "Alistar_E",
         "alias": "Trample"
       }
@@ -2718,20 +2718,20 @@
       "Mage",
       "Marksman"
     ],
-    "image": "/data/img/Kayle.png",
+    "image": "/data/img/Kayle.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kayle_Q.png",
+        "image": "/data/img/Kayle_Q.webp",
         "name": "Kayle_Q",
         "alias": "Radiant Blast"
       },
       "W": {
-        "image": "/data/img/Kayle_W.png",
+        "image": "/data/img/Kayle_W.webp",
         "name": "Kayle_W",
         "alias": "Celestial Blessing"
       },
       "E": {
-        "image": "/data/img/Kayle_E.png",
+        "image": "/data/img/Kayle_E.webp",
         "name": "Kayle_E",
         "alias": "Starfire Spellblade"
       }
@@ -2920,20 +2920,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Sett.png",
+    "image": "/data/img/Sett.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Sett_Q.png",
+        "image": "/data/img/Sett_Q.webp",
         "name": "Sett_Q",
         "alias": "Knuckle Down"
       },
       "W": {
-        "image": "/data/img/Sett_W.png",
+        "image": "/data/img/Sett_W.webp",
         "name": "Sett_W",
         "alias": "Haymaker"
       },
       "E": {
-        "image": "/data/img/Sett_E.png",
+        "image": "/data/img/Sett_E.webp",
         "name": "Sett_E",
         "alias": "Facebreaker"
       }
@@ -3126,20 +3126,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Amumu.png",
+    "image": "/data/img/Amumu.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Amumu_Q.png",
+        "image": "/data/img/Amumu_Q.webp",
         "name": "Amumu_Q",
         "alias": "Bandage Toss"
       },
       "W": {
-        "image": "/data/img/Amumu_W.png",
+        "image": "/data/img/Amumu_W.webp",
         "name": "Amumu_W",
         "alias": "Despair"
       },
       "E": {
-        "image": "/data/img/Amumu_E.png",
+        "image": "/data/img/Amumu_E.webp",
         "name": "Amumu_E",
         "alias": "Tantrum"
       }
@@ -3360,20 +3360,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Kayn.png",
+    "image": "/data/img/Kayn.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kayn_Q.png",
+        "image": "/data/img/Kayn_Q.webp",
         "name": "Kayn_Q",
         "alias": "Reaping Slash"
       },
       "W": {
-        "image": "/data/img/Kayn_W.png",
+        "image": "/data/img/Kayn_W.webp",
         "name": "Kayn_W",
         "alias": "Blade's Reach"
       },
       "E": {
-        "image": "/data/img/Kayn_E.png",
+        "image": "/data/img/Kayn_E.webp",
         "name": "Kayn_E",
         "alias": "Shadow Step"
       }
@@ -3601,20 +3601,20 @@
     "tags": [
       "Assassin"
     ],
-    "image": "/data/img/Shaco.png",
+    "image": "/data/img/Shaco.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Shaco_Q.png",
+        "image": "/data/img/Shaco_Q.webp",
         "name": "Shaco_Q",
         "alias": "Deceive"
       },
       "W": {
-        "image": "/data/img/Shaco_W.png",
+        "image": "/data/img/Shaco_W.webp",
         "name": "Shaco_W",
         "alias": "Jack In The Box"
       },
       "E": {
-        "image": "/data/img/Shaco_E.png",
+        "image": "/data/img/Shaco_E.webp",
         "name": "Shaco_E",
         "alias": "Flash Frost"
       }
@@ -3798,20 +3798,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Anivia.png",
+    "image": "/data/img/Anivia.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Anivia_Q.png",
+        "image": "/data/img/Anivia_Q.webp",
         "name": "Anivia_Q",
         "alias": "Flash Frost"
       },
       "W": {
-        "image": "/data/img/Anivia_W.png",
+        "image": "/data/img/Anivia_W.webp",
         "name": "Anivia_W",
         "alias": "Crystallize"
       },
       "E": {
-        "image": "/data/img/Anivia_E.png",
+        "image": "/data/img/Anivia_E.webp",
         "name": "Anivia_E",
         "alias": "Frostbite"
       }
@@ -4019,20 +4019,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Kennen.png",
+    "image": "/data/img/Kennen.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kennen_Q.png",
+        "image": "/data/img/Kennen_Q.webp",
         "name": "Kennen_Q",
         "alias": "Thundering Shuriken"
       },
       "W": {
-        "image": "/data/img/Kennen_W.png",
+        "image": "/data/img/Kennen_W.webp",
         "name": "Kennen_W",
         "alias": "Electrical Surge"
       },
       "E": {
-        "image": "/data/img/Kennen_E.png",
+        "image": "/data/img/Kennen_E.webp",
         "name": "Kennen_E",
         "alias": "Lightning Rush"
       }
@@ -4272,20 +4272,20 @@
     "tags": [
       "Tank"
     ],
-    "image": "/data/img/Shen.png",
+    "image": "/data/img/Shen.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Shen_Q.png",
+        "image": "/data/img/Shen_Q.webp",
         "name": "Shen_Q",
         "alias": "Twilight Assault"
       },
       "W": {
-        "image": "/data/img/Shen_W.png",
+        "image": "/data/img/Shen_W.webp",
         "name": "Shen_W",
         "alias": "Disintegrate"
       },
       "E": {
-        "image": "/data/img/Shen_E.png",
+        "image": "/data/img/Shen_E.webp",
         "name": "Shen_E",
         "alias": "Shadow Dash"
       }
@@ -4414,20 +4414,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Annie.png",
+    "image": "/data/img/Annie.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Annie_Q.png",
+        "image": "/data/img/Annie_Q.webp",
         "name": "Annie_Q",
         "alias": "Shadow Dash"
       },
       "W": {
-        "image": "/data/img/Annie_W.png",
+        "image": "/data/img/Annie_W.webp",
         "name": "Annie_W",
         "alias": "Incinerate"
       },
       "E": {
-        "image": "/data/img/Annie_E.png",
+        "image": "/data/img/Annie_E.webp",
         "name": "Annie_E",
         "alias": "Molten Shield"
       }
@@ -4647,20 +4647,20 @@
     "tags": [
       "Assassin"
     ],
-    "image": "/data/img/Kha_zix.png",
+    "image": "/data/img/Kha_zix.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Khazix_Q.png",
+        "image": "/data/img/Khazix_Q.webp",
         "name": "Khazix_Q",
         "alias": "Taste Their Fear"
       },
       "W": {
-        "image": "/data/img/Khazix_W.png",
+        "image": "/data/img/Khazix_W.webp",
         "name": "Khazix_W",
         "alias": "Void Spike"
       },
       "E": {
-        "image": "/data/img/Khazix_E.png",
+        "image": "/data/img/Khazix_E.webp",
         "name": "Khazix_E",
         "alias": "Leap"
       }
@@ -4880,20 +4880,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Aphelios.png",
+    "image": "/data/img/Aphelios.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Aphelios_Q.png",
+        "image": "/data/img/Aphelios_Q.webp",
         "name": "Aphelios_Q",
         "alias": "Weapon Abilites"
       },
       "W": {
-        "image": "/data/img/Aphelios_W.png",
+        "image": "/data/img/Aphelios_W.webp",
         "name": "Aphelios_W",
         "alias": "Phase"
       },
       "E": {
-        "image": "/data/img/Aphelios_E.png",
+        "image": "/data/img/Aphelios_E.webp",
         "name": "Aphelios_E",
         "alias": "Weapon Queue System"
       }
@@ -5074,20 +5074,20 @@
       "Fighter",
       "Mage"
     ],
-    "image": "/data/img/Shyvana.png",
+    "image": "/data/img/Shyvana.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Shyvana_Q.png",
+        "image": "/data/img/Shyvana_Q.webp",
         "name": "Shyvana_Q",
         "alias": "Twin Bite"
       },
       "W": {
-        "image": "/data/img/Shyvana_W.png",
+        "image": "/data/img/Shyvana_W.webp",
         "name": "Shyvana_W",
         "alias": "Burnout"
       },
       "E": {
-        "image": "/data/img/Shyvana_E.png",
+        "image": "/data/img/Shyvana_E.webp",
         "name": "Shyvana_E",
         "alias": "Flame Breath"
       }
@@ -5303,20 +5303,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Kindred.png",
+    "image": "/data/img/Kindred.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kindred_Q.png",
+        "image": "/data/img/Kindred_Q.webp",
         "name": "Kindred_Q",
         "alias": "Dance of Arrows"
       },
       "W": {
-        "image": "/data/img/Kindred_W.png",
+        "image": "/data/img/Kindred_W.webp",
         "name": "Kindred_W",
         "alias": "Wolf's Frenzy"
       },
       "E": {
-        "image": "/data/img/Kindred_E.png",
+        "image": "/data/img/Kindred_E.webp",
         "name": "Kindred_E",
         "alias": "Mounting Dread"
       }
@@ -5493,20 +5493,20 @@
       "Marksman",
       "Support"
     ],
-    "image": "/data/img/Ashe.png",
+    "image": "/data/img/Ashe.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ashe_Q.png",
+        "image": "/data/img/Ashe_Q.webp",
         "name": "Ashe_Q",
         "alias": "Ranger's Focus"
       },
       "W": {
-        "image": "/data/img/Ashe_W.png",
+        "image": "/data/img/Ashe_W.webp",
         "name": "Ashe_W",
         "alias": "Volley"
       },
       "E": {
-        "image": "/data/img/Ashe_E.png",
+        "image": "/data/img/Ashe_E.webp",
         "name": "Ashe_E",
         "alias": "Hawkshot"
       }
@@ -5685,20 +5685,20 @@
       "Tank",
       "Mage"
     ],
-    "image": "/data/img/Singed.png",
+    "image": "/data/img/Singed.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Singed_Q.png",
+        "image": "/data/img/Singed_Q.webp",
         "name": "Singed_Q",
         "alias": "Poison Trail"
       },
       "W": {
-        "image": "/data/img/Singed_W.png",
+        "image": "/data/img/Singed_W.webp",
         "name": "Singed_W",
         "alias": "Mega Adhesive"
       },
       "E": {
-        "image": "/data/img/Singed_E.png",
+        "image": "/data/img/Singed_E.webp",
         "name": "Singed_E",
         "alias": "Fling"
       }
@@ -5900,20 +5900,20 @@
     "tags": [
       "Fighter"
     ],
-    "image": "/data/img/Kled.png",
+    "image": "/data/img/Kled.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kled_Q.png",
+        "image": "/data/img/Kled_Q.webp",
         "name": "Kled_Q",
         "alias": "Bear Trap on a Rope"
       },
       "W": {
-        "image": "/data/img/Kled_W.png",
+        "image": "/data/img/Kled_W.webp",
         "name": "Kled_W",
         "alias": "Violent Tendencies"
       },
       "E": {
-        "image": "/data/img/Kled_E.png",
+        "image": "/data/img/Kled_E.webp",
         "name": "Kled_E",
         "alias": "Jousting"
       }
@@ -6114,20 +6114,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Kog_maw.png",
+    "image": "/data/img/Kog_maw.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/KogMaw_Q.png",
+        "image": "/data/img/KogMaw_Q.webp",
         "name": "KogMaw_Q",
         "alias": "Caustic Spittle"
       },
       "W": {
-        "image": "/data/img/KogMaw_W.png",
+        "image": "/data/img/KogMaw_W.webp",
         "name": "KogMaw_W",
         "alias": "Bio-Arcane Barrage"
       },
       "E": {
-        "image": "/data/img/KogMaw_E.png",
+        "image": "/data/img/KogMaw_E.webp",
         "name": "KogMaw_E",
         "alias": "Void Ooze"
       }
@@ -6310,20 +6310,20 @@
       "Tank",
       "Fighter"
     ],
-    "image": "/data/img/Sion.png",
+    "image": "/data/img/Sion.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Sion_Q.png",
+        "image": "/data/img/Sion_Q.webp",
         "name": "Sion_Q",
         "alias": "Decimating Smash"
       },
       "W": {
-        "image": "/data/img/Sion_W.png",
+        "image": "/data/img/Sion_W.webp",
         "name": "Sion_W",
         "alias": "Soul Furnace"
       },
       "E": {
-        "image": "/data/img/Sion_E.png",
+        "image": "/data/img/Sion_E.webp",
         "name": "Sion_E",
         "alias": "Roar of the Slayer"
       }
@@ -6547,20 +6547,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Aurelion_Sol.png",
+    "image": "/data/img/Aurelion_Sol.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/AurelionSol_Q.png",
+        "image": "/data/img/AurelionSol_Q.webp",
         "name": "AurelionSol_Q",
         "alias": "Breath of Light"
       },
       "W": {
-        "image": "/data/img/AurelionSol_W.png",
+        "image": "/data/img/AurelionSol_W.webp",
         "name": "AurelionSol_W",
         "alias": "Astral Flight"
       },
       "E": {
-        "image": "/data/img/AurelionSol_E.png",
+        "image": "/data/img/AurelionSol_E.webp",
         "name": "AurelionSol_E",
         "alias": "Decimating Smash"
       }
@@ -6776,20 +6776,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Sivir.png",
+    "image": "/data/img/Sivir.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Sivir_Q.png",
+        "image": "/data/img/Sivir_Q.webp",
         "name": "Sivir_Q",
         "alias": "Ntofo Strikes"
       },
       "W": {
-        "image": "/data/img/Sivir_W.png",
+        "image": "/data/img/Sivir_W.webp",
         "name": "Sivir_W",
         "alias": "Twofold Hex"
       },
       "E": {
-        "image": "/data/img/Sivir_E.png",
+        "image": "/data/img/Sivir_E.webp",
         "name": "Sivir_E",
         "alias": "Across the Veil"
       }
@@ -6938,20 +6938,20 @@
       "Tank",
       "Fighter"
     ],
-    "image": "/data/img/K_sante.png",
+    "image": "/data/img/K_sante.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/KSante_Q.png",
+        "image": "/data/img/KSante_Q.webp",
         "name": "KSante_Q",
         "alias": "Ricochet"
       },
       "W": {
-        "image": "/data/img/KSante_W.png",
+        "image": "/data/img/KSante_W.webp",
         "name": "KSante_W",
         "alias": "Spell Shield"
       },
       "E": {
-        "image": "/data/img/KSante_E.png",
+        "image": "/data/img/KSante_E.webp",
         "name": "KSante_E",
         "alias": "Across the Veil"
       }
@@ -7160,20 +7160,20 @@
       "Mage",
       "Assassin"
     ],
-    "image": "/data/img/Aurora.png",
+    "image": "/data/img/Aurora.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Aurora_Q.png",
+        "image": "/data/img/Aurora_Q.webp",
         "name": "Aurora_Q",
         "alias": "Footwork"
       },
       "W": {
-        "image": "/data/img/Aurora_W.png",
+        "image": "/data/img/Aurora_W.webp",
         "name": "Aurora_W",
         "alias": "Across the Veil"
       },
       "E": {
-        "image": "/data/img/Aurora_E.png",
+        "image": "/data/img/Aurora_E.webp",
         "name": "Aurora_E",
         "alias": "The Weirding"
       }
@@ -7394,20 +7394,20 @@
       "Tank",
       "Fighter"
     ],
-    "image": "/data/img/Skarner.png",
+    "image": "/data/img/Skarner.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Skarner_Q.png",
+        "image": "/data/img/Skarner_Q.webp",
         "name": "Skarner_Q",
         "alias": "Shattered Earth / Upheaval"
       },
       "W": {
-        "image": "/data/img/Skarner_W.png",
+        "image": "/data/img/Skarner_W.webp",
         "name": "Skarner_W",
         "alias": "Seismic Bastion"
       },
       "E": {
-        "image": "/data/img/Skarner_E.png",
+        "image": "/data/img/Skarner_E.webp",
         "name": "Skarner_E",
         "alias": "Ixtal's Impact"
       }
@@ -7600,20 +7600,20 @@
       "Mage",
       "Marksman"
     ],
-    "image": "/data/img/Azir.png",
+    "image": "/data/img/Azir.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Azir_Q.png",
+        "image": "/data/img/Azir_Q.webp",
         "name": "Azir_Q",
         "alias": "Conquering Sands"
       },
       "W": {
-        "image": "/data/img/Azir_W.png",
+        "image": "/data/img/Azir_W.webp",
         "name": "Azir_W",
         "alias": "Arise!"
       },
       "E": {
-        "image": "/data/img/Azir_E.png",
+        "image": "/data/img/Azir_E.webp",
         "name": "Azir_E",
         "alias": "Shifting Sands"
       }
@@ -7846,20 +7846,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Leblanc.png",
+    "image": "/data/img/Leblanc.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Leblanc_Q.png",
+        "image": "/data/img/Leblanc_Q.webp",
         "name": "Leblanc_Q",
         "alias": "Sigil of Malice"
       },
       "W": {
-        "image": "/data/img/Leblanc_W.png",
+        "image": "/data/img/Leblanc_W.webp",
         "name": "Leblanc_W",
         "alias": "Distortion"
       },
       "E": {
-        "image": "/data/img/Leblanc_E.png",
+        "image": "/data/img/Leblanc_E.webp",
         "name": "Leblanc_E",
         "alias": "Ethereal Chains"
       }
@@ -8016,20 +8016,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Bard.png",
+    "image": "/data/img/Bard.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Bard_Q.png",
+        "image": "/data/img/Bard_Q.webp",
         "name": "Bard_Q",
         "alias": "Sonic Wave / Resonating Strike"
       },
       "W": {
-        "image": "/data/img/Bard_W.png",
+        "image": "/data/img/Bard_W.webp",
         "name": "Bard_W",
         "alias": "Safeguard / Iron Will"
       },
       "E": {
-        "image": "/data/img/Bard_E.png",
+        "image": "/data/img/Bard_E.webp",
         "name": "Bard_E",
         "alias": "Tempest / Cripple"
       }
@@ -8270,20 +8270,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Smolder.png",
+    "image": "/data/img/Smolder.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Smolder_Q.png",
+        "image": "/data/img/Smolder_Q.webp",
         "name": "Smolder_Q",
         "alias": "Super Scorcher Breath"
       },
       "W": {
-        "image": "/data/img/Smolder_W.png",
+        "image": "/data/img/Smolder_W.webp",
         "name": "Smolder_W",
         "alias": "Achooo!"
       },
       "E": {
-        "image": "/data/img/Smolder_E.png",
+        "image": "/data/img/Smolder_E.webp",
         "name": "Smolder_E",
         "alias": "Flap, Flap, Flap"
       }
@@ -8500,20 +8500,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Lee_Sin.png",
+    "image": "/data/img/Lee_Sin.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/LeeSin_Q.png",
+        "image": "/data/img/LeeSin_Q.webp",
         "name": "LeeSin_Q",
         "alias": "Caretaker's Shrine"
       },
       "W": {
-        "image": "/data/img/LeeSin_W.png",
+        "image": "/data/img/LeeSin_W.webp",
         "name": "LeeSin_W",
         "alias": "Magical Journey"
       },
       "E": {
-        "image": "/data/img/LeeSin_E.png",
+        "image": "/data/img/LeeSin_E.webp",
         "name": "LeeSin_E",
         "alias": "Tempest / Cripple"
       }
@@ -8701,20 +8701,20 @@
     "tags": [
       "Fighter"
     ],
-    "image": "/data/img/Bel_veth.png",
+    "image": "/data/img/Bel_veth.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Belveth_Q.png",
+        "image": "/data/img/Belveth_Q.webp",
         "name": "Belveth_Q",
         "alias": "Void Surge"
       },
       "W": {
-        "image": "/data/img/Belveth_W.png",
+        "image": "/data/img/Belveth_W.webp",
         "name": "Belveth_W",
         "alias": "Above and Below"
       },
       "E": {
-        "image": "/data/img/Belveth_E.png",
+        "image": "/data/img/Belveth_E.webp",
         "name": "Belveth_E",
         "alias": "Royal Maelstrom"
       }
@@ -8869,20 +8869,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Sona.png",
+    "image": "/data/img/Sona.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Sona_Q.png",
+        "image": "/data/img/Sona_Q.webp",
         "name": "Sona_Q",
         "alias": "Hymn of Valor"
       },
       "W": {
-        "image": "/data/img/Sona_W.png",
+        "image": "/data/img/Sona_W.webp",
         "name": "Sona_W",
         "alias": "Aria of Perseverance"
       },
       "E": {
-        "image": "/data/img/Sona_E.png",
+        "image": "/data/img/Sona_E.webp",
         "name": "Sona_E",
         "alias": "Shield of Daybreak"
       }
@@ -9107,20 +9107,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Leona.png",
+    "image": "/data/img/Leona.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Leona_Q.png",
+        "image": "/data/img/Leona_Q.webp",
         "name": "Leona_Q",
         "alias": "Shield of Daybreak"
       },
       "W": {
-        "image": "/data/img/Leona_W.png",
+        "image": "/data/img/Leona_W.webp",
         "name": "Leona_W",
         "alias": "Eclipse"
       },
       "E": {
-        "image": "/data/img/Leona_E.png",
+        "image": "/data/img/Leona_E.webp",
         "name": "Leona_E",
         "alias": "Zenith Blade"
       }
@@ -9333,20 +9333,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Blitzcrank.png",
+    "image": "/data/img/Blitzcrank.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Blitzcrank_Q.png",
+        "image": "/data/img/Blitzcrank_Q.webp",
         "name": "Blitzcrank_Q",
         "alias": "Rocket Grab"
       },
       "W": {
-        "image": "/data/img/Blitzcrank_W.png",
+        "image": "/data/img/Blitzcrank_W.webp",
         "name": "Blitzcrank_W",
         "alias": "Overdrive"
       },
       "E": {
-        "image": "/data/img/Blitzcrank_E.png",
+        "image": "/data/img/Blitzcrank_E.webp",
         "name": "Blitzcrank_E",
         "alias": "Power Fist"
       }
@@ -9571,20 +9571,20 @@
       "Fighter",
       "Mage"
     ],
-    "image": "/data/img/Lillia.png",
+    "image": "/data/img/Lillia.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Lillia_Q.png",
+        "image": "/data/img/Lillia_Q.webp",
         "name": "Lillia_Q",
         "alias": "Astral Infusion"
       },
       "W": {
-        "image": "/data/img/Lillia_W.png",
+        "image": "/data/img/Lillia_W.webp",
         "name": "Lillia_W",
         "alias": "Equinox"
       },
       "E": {
-        "image": "/data/img/Lillia_E.png",
+        "image": "/data/img/Lillia_E.webp",
         "name": "Lillia_E",
         "alias": "Swirlseed"
       }
@@ -9769,20 +9769,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Soraka.png",
+    "image": "/data/img/Soraka.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Soraka_Q.png",
+        "image": "/data/img/Soraka_Q.webp",
         "name": "Soraka_Q",
         "alias": "Blooming Blows"
       },
       "W": {
-        "image": "/data/img/Soraka_W.png",
+        "image": "/data/img/Soraka_W.webp",
         "name": "Soraka_W",
         "alias": "Watch Out! Eep!"
       },
       "E": {
-        "image": "/data/img/Soraka_E.png",
+        "image": "/data/img/Soraka_E.webp",
         "name": "Soraka_E",
         "alias": "Swirlseed"
       }
@@ -9999,20 +9999,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Brand.png",
+    "image": "/data/img/Brand.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Brand_Q.png",
+        "image": "/data/img/Brand_Q.webp",
         "name": "Brand_Q",
         "alias": "Sear"
       },
       "W": {
-        "image": "/data/img/Brand_W.png",
+        "image": "/data/img/Brand_W.webp",
         "name": "Brand_W",
         "alias": "Pillar of Flame"
       },
       "E": {
-        "image": "/data/img/Brand_E.png",
+        "image": "/data/img/Brand_E.webp",
         "name": "Brand_E",
         "alias": "Conflagration"
       }
@@ -10204,20 +10204,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Lissandra.png",
+    "image": "/data/img/Lissandra.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Lissandra_Q.png",
+        "image": "/data/img/Lissandra_Q.webp",
         "name": "Lissandra_Q",
         "alias": "Ice Shard"
       },
       "W": {
-        "image": "/data/img/Lissandra_W.png",
+        "image": "/data/img/Lissandra_W.webp",
         "name": "Lissandra_W",
         "alias": "Ring of Frost"
       },
       "E": {
-        "image": "/data/img/Lissandra_E.png",
+        "image": "/data/img/Lissandra_E.webp",
         "name": "Lissandra_E",
         "alias": "Vision of Empire"
       }
@@ -10430,20 +10430,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Swain.png",
+    "image": "/data/img/Swain.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Swain_Q.png",
+        "image": "/data/img/Swain_Q.webp",
         "name": "Swain_Q",
         "alias": "Death's Hand"
       },
       "W": {
-        "image": "/data/img/Swain_W.png",
+        "image": "/data/img/Swain_W.webp",
         "name": "Swain_W",
         "alias": "Vision of Empire"
       },
       "E": {
-        "image": "/data/img/Swain_E.png",
+        "image": "/data/img/Swain_E.webp",
         "name": "Swain_E",
         "alias": "Nevermove"
       }
@@ -10654,20 +10654,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Braum.png",
+    "image": "/data/img/Braum.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Braum_Q.png",
+        "image": "/data/img/Braum_Q.webp",
         "name": "Braum_Q",
         "alias": "Winter's Bite"
       },
       "W": {
-        "image": "/data/img/Braum_W.png",
+        "image": "/data/img/Braum_W.webp",
         "name": "Braum_W",
         "alias": "Stand Behind Me"
       },
       "E": {
-        "image": "/data/img/Braum_E.png",
+        "image": "/data/img/Braum_E.webp",
         "name": "Braum_E",
         "alias": "Unbreakable"
       }
@@ -10852,20 +10852,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Lucian.png",
+    "image": "/data/img/Lucian.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Lucian_Q.png",
+        "image": "/data/img/Lucian_Q.webp",
         "name": "Lucian_Q",
         "alias": "Piercing Light"
       },
       "W": {
-        "image": "/data/img/Lucian_W.png",
+        "image": "/data/img/Lucian_W.webp",
         "name": "Lucian_W",
         "alias": "Ardent Blaze"
       },
       "E": {
-        "image": "/data/img/Lucian_E.png",
+        "image": "/data/img/Lucian_E.webp",
         "name": "Lucian_E",
         "alias": "Relentless Pursuit"
       }
@@ -11070,20 +11070,20 @@
       "Mage",
       "Assassin"
     ],
-    "image": "/data/img/Sylas.png",
+    "image": "/data/img/Sylas.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Sylas_Q.png",
+        "image": "/data/img/Sylas_Q.webp",
         "name": "Sylas_Q",
         "alias": "Chain Lash"
       },
       "W": {
-        "image": "/data/img/Sylas_W.png",
+        "image": "/data/img/Sylas_W.webp",
         "name": "Sylas_W",
         "alias": "Kingslayer"
       },
       "E": {
-        "image": "/data/img/Sylas_E.png",
+        "image": "/data/img/Sylas_E.webp",
         "name": "Sylas_E",
         "alias": "Abscond / Abduct"
       }
@@ -11224,20 +11224,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Briar.png",
+    "image": "/data/img/Briar.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Briar_Q.png",
+        "image": "/data/img/Briar_Q.webp",
         "name": "Briar_Q",
         "alias": "Head Rush"
       },
       "W": {
-        "image": "/data/img/Briar_W.png",
+        "image": "/data/img/Briar_W.webp",
         "name": "Briar_W",
         "alias": "Blood Frenzy / Snack Attack"
       },
       "E": {
-        "image": "/data/img/Briar_E.png",
+        "image": "/data/img/Briar_E.webp",
         "name": "Briar_E",
         "alias": "Chilling Scream"
       }
@@ -11438,20 +11438,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Lulu.png",
+    "image": "/data/img/Lulu.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Lulu_Q.png",
+        "image": "/data/img/Lulu_Q.webp",
         "name": "Lulu_Q",
         "alias": "Glitterlance"
       },
       "W": {
-        "image": "/data/img/Lulu_W.png",
+        "image": "/data/img/Lulu_W.webp",
         "name": "Lulu_W",
         "alias": "Whimsy"
       },
       "E": {
-        "image": "/data/img/Lulu_E.png",
+        "image": "/data/img/Lulu_E.webp",
         "name": "Lulu_E",
         "alias": "Help, Pix!"
       }
@@ -11637,20 +11637,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Syndra.png",
+    "image": "/data/img/Syndra.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Syndra_Q.png",
+        "image": "/data/img/Syndra_Q.webp",
         "name": "Syndra_Q",
         "alias": "Dark Sphere"
       },
       "W": {
-        "image": "/data/img/Syndra_W.png",
+        "image": "/data/img/Syndra_W.webp",
         "name": "Syndra_W",
         "alias": "Force of Will"
       },
       "E": {
-        "image": "/data/img/Syndra_E.png",
+        "image": "/data/img/Syndra_E.webp",
         "name": "Syndra_E",
         "alias": "Scatter the Weak"
       }
@@ -11812,20 +11812,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Caitlyn.png",
+    "image": "/data/img/Caitlyn.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Caitlyn_Q.png",
+        "image": "/data/img/Caitlyn_Q.webp",
         "name": "Caitlyn_Q",
         "alias": "Piltover Peacemaker"
       },
       "W": {
-        "image": "/data/img/Caitlyn_W.png",
+        "image": "/data/img/Caitlyn_W.webp",
         "name": "Caitlyn_W",
         "alias": "Yordle Snap Trap"
       },
       "E": {
-        "image": "/data/img/Caitlyn_E.png",
+        "image": "/data/img/Caitlyn_E.webp",
         "name": "Caitlyn_E",
         "alias": "90 Caliber Net"
       }
@@ -12038,20 +12038,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Lux.png",
+    "image": "/data/img/Lux.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Lux_Q.png",
+        "image": "/data/img/Lux_Q.webp",
         "name": "Lux_Q",
         "alias": "Light Binding"
       },
       "W": {
-        "image": "/data/img/Lux_W.png",
+        "image": "/data/img/Lux_W.webp",
         "name": "Lux_W",
         "alias": "Prismatic Barrier"
       },
       "E": {
-        "image": "/data/img/Lux_E.png",
+        "image": "/data/img/Lux_E.webp",
         "name": "Lux_E",
         "alias": "Lucent Singularity"
       }
@@ -12252,20 +12252,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Tahm_Kench.png",
+    "image": "/data/img/Tahm_Kench.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/TahmKench_Q.png",
+        "image": "/data/img/TahmKench_Q.webp",
         "name": "TahmKench_Q",
         "alias": "Tongue Lash"
       },
       "W": {
-        "image": "/data/img/TahmKench_W.png",
+        "image": "/data/img/TahmKench_W.webp",
         "name": "TahmKench_W",
         "alias": "Abyssal Dive"
       },
       "E": {
-        "image": "/data/img/TahmKench_E.png",
+        "image": "/data/img/TahmKench_E.webp",
         "name": "TahmKench_E",
         "alias": "Thick Skin"
       }
@@ -12426,20 +12426,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Camille.png",
+    "image": "/data/img/Camille.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Camille_Q.png",
+        "image": "/data/img/Camille_Q.webp",
         "name": "Camille_Q",
         "alias": "Precision Protocol"
       },
       "W": {
-        "image": "/data/img/Camille_W.png",
+        "image": "/data/img/Camille_W.webp",
         "name": "Camille_W",
         "alias": "Tactical Sweep"
       },
       "E": {
-        "image": "/data/img/Camille_E.png",
+        "image": "/data/img/Camille_E.webp",
         "name": "Camille_E",
         "alias": "Hookshot"
       }
@@ -12636,20 +12636,20 @@
       "Tank",
       "Mage"
     ],
-    "image": "/data/img/Malphite.png",
+    "image": "/data/img/Malphite.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Malphite_Q.png",
+        "image": "/data/img/Malphite_Q.webp",
         "name": "Malphite_Q",
         "alias": "Seismic Shard"
       },
       "W": {
-        "image": "/data/img/Malphite_W.png",
+        "image": "/data/img/Malphite_W.webp",
         "name": "Malphite_W",
         "alias": "Threaded Volley"
       },
       "E": {
-        "image": "/data/img/Malphite_E.png",
+        "image": "/data/img/Malphite_E.webp",
         "name": "Malphite_E",
         "alias": "Seismic Shove"
       }
@@ -12844,20 +12844,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Taliyah.png",
+    "image": "/data/img/Taliyah.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Taliyah_Q.png",
+        "image": "/data/img/Taliyah_Q.webp",
         "name": "Taliyah_Q",
         "alias": "Ground Slam"
       },
       "W": {
-        "image": "/data/img/Taliyah_W.png",
+        "image": "/data/img/Taliyah_W.webp",
         "name": "Taliyah_W",
         "alias": "Seismic Shove"
       },
       "E": {
-        "image": "/data/img/Taliyah_E.png",
+        "image": "/data/img/Taliyah_E.webp",
         "name": "Taliyah_E",
         "alias": "Unraveled Earth"
       }
@@ -13057,20 +13057,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Cassiopeia.png",
+    "image": "/data/img/Cassiopeia.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Cassiopeia_Q.png",
+        "image": "/data/img/Cassiopeia_Q.webp",
         "name": "Cassiopeia_Q",
         "alias": "Noxious Blast"
       },
       "W": {
-        "image": "/data/img/Cassiopeia_W.png",
+        "image": "/data/img/Cassiopeia_W.webp",
         "name": "Cassiopeia_W",
         "alias": "Miasma"
       },
       "E": {
-        "image": "/data/img/Cassiopeia_E.png",
+        "image": "/data/img/Cassiopeia_E.webp",
         "name": "Cassiopeia_E",
         "alias": "Twin Fang"
       }
@@ -13202,20 +13202,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Malzahar.png",
+    "image": "/data/img/Malzahar.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Malzahar_Q.png",
+        "image": "/data/img/Malzahar_Q.webp",
         "name": "Malzahar_Q",
         "alias": "Call of the Void"
       },
       "W": {
-        "image": "/data/img/Malzahar_W.png",
+        "image": "/data/img/Malzahar_W.webp",
         "name": "Malzahar_W",
         "alias": "Void Swarm"
       },
       "E": {
-        "image": "/data/img/Malzahar_E.png",
+        "image": "/data/img/Malzahar_E.webp",
         "name": "Malzahar_E",
         "alias": "Malefic Visions"
       }
@@ -13359,20 +13359,20 @@
     "tags": [
       "Assassin"
     ],
-    "image": "/data/img/Talon.png",
+    "image": "/data/img/Talon.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Talon_Q.png",
+        "image": "/data/img/Talon_Q.webp",
         "name": "Talon_Q",
         "alias": "Noxian Diplomacy"
       },
       "W": {
-        "image": "/data/img/Talon_W.png",
+        "image": "/data/img/Talon_W.webp",
         "name": "Talon_W",
         "alias": "Rake"
       },
       "E": {
-        "image": "/data/img/Talon_E.png",
+        "image": "/data/img/Talon_E.webp",
         "name": "Talon_E",
         "alias": "Assassin's Path"
       }
@@ -13593,20 +13593,20 @@
       "Tank",
       "Mage"
     ],
-    "image": "/data/img/Cho_gath.png",
+    "image": "/data/img/Cho_gath.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Chogath_Q.png",
+        "image": "/data/img/Chogath_Q.webp",
         "name": "Chogath_Q",
         "alias": "Rupture"
       },
       "W": {
-        "image": "/data/img/Chogath_W.png",
+        "image": "/data/img/Chogath_W.webp",
         "name": "Chogath_W",
         "alias": "Feral Scream"
       },
       "E": {
-        "image": "/data/img/Chogath_E.png",
+        "image": "/data/img/Chogath_E.webp",
         "name": "Chogath_E",
         "alias": "Vorpal Spikes"
       }
@@ -13801,20 +13801,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Maokai.png",
+    "image": "/data/img/Maokai.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Maokai_Q.png",
+        "image": "/data/img/Maokai_Q.webp",
         "name": "Maokai_Q",
         "alias": "Bramble Smash"
       },
       "W": {
-        "image": "/data/img/Maokai_W.png",
+        "image": "/data/img/Maokai_W.webp",
         "name": "Maokai_W",
         "alias": "Twisted Advance"
       },
       "E": {
-        "image": "/data/img/Maokai_E.png",
+        "image": "/data/img/Maokai_E.webp",
         "name": "Maokai_E",
         "alias": "Sapling Toss"
       }
@@ -14019,20 +14019,20 @@
       "Support",
       "Tank"
     ],
-    "image": "/data/img/Taric.png",
+    "image": "/data/img/Taric.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Taric_Q.png",
+        "image": "/data/img/Taric_Q.webp",
         "name": "Taric_Q",
         "alias": "Starlight's Touch"
       },
       "W": {
-        "image": "/data/img/Taric_W.png",
+        "image": "/data/img/Taric_W.webp",
         "name": "Taric_W",
         "alias": "Bastion"
       },
       "E": {
-        "image": "/data/img/Taric_E.png",
+        "image": "/data/img/Taric_E.webp",
         "name": "Taric_E",
         "alias": "Dazzle"
       }
@@ -14253,20 +14253,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Corki.png",
+    "image": "/data/img/Corki.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Corki_Q.png",
+        "image": "/data/img/Corki_Q.webp",
         "name": "Corki_Q",
         "alias": "Phosphorus Bomb"
       },
       "W": {
-        "image": "/data/img/Corki_W.png",
+        "image": "/data/img/Corki_W.webp",
         "name": "Corki_W",
         "alias": "Valkyrie"
       },
       "E": {
-        "image": "/data/img/Corki_E.png",
+        "image": "/data/img/Corki_E.webp",
         "name": "Corki_E",
         "alias": "Gatling Gun"
       }
@@ -14511,20 +14511,20 @@
       "Assassin",
       "Fighter"
     ],
-    "image": "/data/img/Master_Yi.png",
+    "image": "/data/img/Master_Yi.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/MasterYi_Q.png",
+        "image": "/data/img/MasterYi_Q.webp",
         "name": "MasterYi_Q",
         "alias": "Alpha Strike"
       },
       "W": {
-        "image": "/data/img/MasterYi_W.png",
+        "image": "/data/img/MasterYi_W.webp",
         "name": "MasterYi_W",
         "alias": "Meditate"
       },
       "E": {
-        "image": "/data/img/MasterYi_E.png",
+        "image": "/data/img/MasterYi_E.webp",
         "name": "MasterYi_E",
         "alias": "Wuju Style"
       }
@@ -14717,20 +14717,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Teemo.png",
+    "image": "/data/img/Teemo.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Teemo_Q.png",
+        "image": "/data/img/Teemo_Q.webp",
         "name": "Teemo_Q",
         "alias": "Blinding Dart"
       },
       "W": {
-        "image": "/data/img/Teemo_W.png",
+        "image": "/data/img/Teemo_W.webp",
         "name": "Teemo_W",
         "alias": "Move Quick"
       },
       "E": {
-        "image": "/data/img/Teemo_E.png",
+        "image": "/data/img/Teemo_E.webp",
         "name": "Teemo_E",
         "alias": "Toxic Shot"
       }
@@ -14959,20 +14959,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Darius.png",
+    "image": "/data/img/Darius.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Darius_Q.png",
+        "image": "/data/img/Darius_Q.webp",
         "name": "Darius_Q",
         "alias": "Decimate"
       },
       "W": {
-        "image": "/data/img/Darius_W.png",
+        "image": "/data/img/Darius_W.webp",
         "name": "Darius_W",
         "alias": "Crippling Strike"
       },
       "E": {
-        "image": "/data/img/Darius_E.png",
+        "image": "/data/img/Darius_E.webp",
         "name": "Darius_E",
         "alias": "Apprehend"
       }
@@ -15165,20 +15165,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Milio.png",
+    "image": "/data/img/Milio.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Milio_Q.png",
+        "image": "/data/img/Milio_Q.webp",
         "name": "Milio_Q",
         "alias": "Ultra Mega Fire Kick"
       },
       "W": {
-        "image": "/data/img/Milio_W.png",
+        "image": "/data/img/Milio_W.webp",
         "name": "Milio_W",
         "alias": "Cozy Campfire"
       },
       "E": {
-        "image": "/data/img/Milio_E.png",
+        "image": "/data/img/Milio_E.webp",
         "name": "Milio_E",
         "alias": "Warm Hugs"
       }
@@ -15399,20 +15399,20 @@
       "Support",
       "Tank"
     ],
-    "image": "/data/img/Thresh.png",
+    "image": "/data/img/Thresh.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Thresh_Q.png",
+        "image": "/data/img/Thresh_Q.webp",
         "name": "Thresh_Q",
         "alias": "Death Sentence"
       },
       "W": {
-        "image": "/data/img/Thresh_W.png",
+        "image": "/data/img/Thresh_W.webp",
         "name": "Thresh_W",
         "alias": "Crescent Strike"
       },
       "E": {
-        "image": "/data/img/Thresh_E.png",
+        "image": "/data/img/Thresh_E.webp",
         "name": "Thresh_E",
         "alias": "Lunar Rush"
       }
@@ -15625,20 +15625,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Diana.png",
+    "image": "/data/img/Diana.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Diana_Q.png",
+        "image": "/data/img/Diana_Q.webp",
         "name": "Diana_Q",
         "alias": "Flay"
       },
       "W": {
-        "image": "/data/img/Diana_W.png",
+        "image": "/data/img/Diana_W.webp",
         "name": "Diana_W",
         "alias": "Pale Cascade"
       },
       "E": {
-        "image": "/data/img/Diana_E.png",
+        "image": "/data/img/Diana_E.webp",
         "name": "Diana_E",
         "alias": "Lunar Rush"
       }
@@ -15863,20 +15863,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Miss_Fortune.png",
+    "image": "/data/img/Miss_Fortune.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/MissFortune_Q.png",
+        "image": "/data/img/MissFortune_Q.webp",
         "name": "MissFortune_Q",
         "alias": "Double Up"
       },
       "W": {
-        "image": "/data/img/MissFortune_W.png",
+        "image": "/data/img/MissFortune_W.webp",
         "name": "MissFortune_W",
         "alias": "Strut"
       },
       "E": {
-        "image": "/data/img/MissFortune_E.png",
+        "image": "/data/img/MissFortune_E.webp",
         "name": "MissFortune_E",
         "alias": "Make It Rain"
       }
@@ -16105,20 +16105,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Tristana.png",
+    "image": "/data/img/Tristana.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Tristana_Q.png",
+        "image": "/data/img/Tristana_Q.webp",
         "name": "Tristana_Q",
         "alias": "Rapid Fire"
       },
       "W": {
-        "image": "/data/img/Tristana_W.png",
+        "image": "/data/img/Tristana_W.webp",
         "name": "Tristana_W",
         "alias": "Rocket Jump"
       },
       "E": {
-        "image": "/data/img/Tristana_E.png",
+        "image": "/data/img/Tristana_E.webp",
         "name": "Tristana_E",
         "alias": "Explosive Charge"
       }
@@ -16326,20 +16326,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Draven.png",
+    "image": "/data/img/Draven.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Draven_Q.png",
+        "image": "/data/img/Draven_Q.webp",
         "name": "Draven_Q",
         "alias": "Spinning Axe"
       },
       "W": {
-        "image": "/data/img/Draven_W.png",
+        "image": "/data/img/Draven_W.webp",
         "name": "Draven_W",
         "alias": "Blood Rush"
       },
       "E": {
-        "image": "/data/img/Draven_E.png",
+        "image": "/data/img/Draven_E.webp",
         "name": "Draven_E",
         "alias": "Stand Aside"
       }
@@ -16540,20 +16540,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Wukong.png",
+    "image": "/data/img/Wukong.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/MonkeyKing_Q.png",
+        "image": "/data/img/MonkeyKing_Q.webp",
         "name": "MonkeyKing_Q",
         "alias": "Crushing Blow"
       },
       "W": {
-        "image": "/data/img/MonkeyKing_W.png",
+        "image": "/data/img/MonkeyKing_W.webp",
         "name": "MonkeyKing_W",
         "alias": "Warrior Trickster"
       },
       "E": {
-        "image": "/data/img/MonkeyKing_E.png",
+        "image": "/data/img/MonkeyKing_E.webp",
         "name": "MonkeyKing_E",
         "alias": "Nimbus Strike"
       }
@@ -16710,20 +16710,20 @@
       "Tank",
       "Fighter"
     ],
-    "image": "/data/img/Dr._Mundo.png",
+    "image": "/data/img/Dr._Mundo.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/DrMundo_Q.png",
+        "image": "/data/img/DrMundo_Q.webp",
         "name": "DrMundo_Q",
         "alias": "Frozen Domain"
       },
       "W": {
-        "image": "/data/img/DrMundo_W.png",
+        "image": "/data/img/DrMundo_W.webp",
         "name": "DrMundo_W",
         "alias": "Pillar of Ice"
       },
       "E": {
-        "image": "/data/img/DrMundo_E.png",
+        "image": "/data/img/DrMundo_E.webp",
         "name": "DrMundo_E",
         "alias": "Blunt Force Trauma"
       }
@@ -16908,20 +16908,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Trundle.png",
+    "image": "/data/img/Trundle.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Trundle_Q.png",
+        "image": "/data/img/Trundle_Q.webp",
         "name": "Trundle_Q",
         "alias": "Infected Bonesaw"
       },
       "W": {
-        "image": "/data/img/Trundle_W.png",
+        "image": "/data/img/Trundle_W.webp",
         "name": "Trundle_W",
         "alias": "Heart Zapper"
       },
       "E": {
-        "image": "/data/img/Trundle_E.png",
+        "image": "/data/img/Trundle_E.webp",
         "name": "Trundle_E",
         "alias": "Blunt Force Trauma"
       }
@@ -17068,20 +17068,20 @@
       "Fighter",
       "Mage"
     ],
-    "image": "/data/img/Mordekaiser.png",
+    "image": "/data/img/Mordekaiser.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Mordekaiser_Q.png",
+        "image": "/data/img/Mordekaiser_Q.webp",
         "name": "Mordekaiser_Q",
         "alias": "Obliterate"
       },
       "W": {
-        "image": "/data/img/Mordekaiser_W.png",
+        "image": "/data/img/Mordekaiser_W.webp",
         "name": "Mordekaiser_W",
         "alias": "Indestructible"
       },
       "E": {
-        "image": "/data/img/Mordekaiser_E.png",
+        "image": "/data/img/Mordekaiser_E.webp",
         "name": "Mordekaiser_E",
         "alias": "Death's Grasp"
       }
@@ -17250,20 +17250,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Tryndamere.png",
+    "image": "/data/img/Tryndamere.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Tryndamere_Q.png",
+        "image": "/data/img/Tryndamere_Q.webp",
         "name": "Tryndamere_Q",
         "alias": "Bloodlust"
       },
       "W": {
-        "image": "/data/img/Tryndamere_W.png",
+        "image": "/data/img/Tryndamere_W.webp",
         "name": "Tryndamere_W",
         "alias": "Mocking Shout"
       },
       "E": {
-        "image": "/data/img/Tryndamere_E.png",
+        "image": "/data/img/Tryndamere_E.webp",
         "name": "Tryndamere_E",
         "alias": "Spinning Slash"
       }
@@ -17492,20 +17492,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Ekko.png",
+    "image": "/data/img/Ekko.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ekko_Q.png",
+        "image": "/data/img/Ekko_Q.webp",
         "name": "Ekko_Q",
         "alias": "Timewinder"
       },
       "W": {
-        "image": "/data/img/Ekko_W.png",
+        "image": "/data/img/Ekko_W.webp",
         "name": "Ekko_W",
         "alias": "Parallel Convergence"
       },
       "E": {
-        "image": "/data/img/Ekko_E.png",
+        "image": "/data/img/Ekko_E.webp",
         "name": "Ekko_E",
         "alias": "Bloodlust"
       }
@@ -17718,20 +17718,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Morgana.png",
+    "image": "/data/img/Morgana.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Morgana_Q.png",
+        "image": "/data/img/Morgana_Q.webp",
         "name": "Morgana_Q",
         "alias": "Dark Binding"
       },
       "W": {
-        "image": "/data/img/Morgana_W.png",
+        "image": "/data/img/Morgana_W.webp",
         "name": "Morgana_W",
         "alias": "Tormented Shadow"
       },
       "E": {
-        "image": "/data/img/Morgana_E.png",
+        "image": "/data/img/Morgana_E.webp",
         "name": "Morgana_E",
         "alias": "Black Shield"
       }
@@ -17876,20 +17876,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Elise.png",
+    "image": "/data/img/Elise.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Elise_Q.png",
+        "image": "/data/img/Elise_Q.webp",
         "name": "Elise_Q",
         "alias": "Neurotoxin / Venomous Bite"
       },
       "W": {
-        "image": "/data/img/Elise_W.png",
+        "image": "/data/img/Elise_W.webp",
         "name": "Elise_W",
         "alias": "Volatile Spiderling / Skittering Frenzy"
       },
       "E": {
-        "image": "/data/img/Elise_E.png",
+        "image": "/data/img/Elise_E.webp",
         "name": "Elise_E",
         "alias": "Cocoon / Rappel"
       }
@@ -18106,20 +18106,20 @@
       "Mage",
       "Marksman"
     ],
-    "image": "/data/img/Twisted_Fate.png",
+    "image": "/data/img/Twisted_Fate.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/TwistedFate_Q.png",
+        "image": "/data/img/TwistedFate_Q.webp",
         "name": "TwistedFate_Q",
         "alias": "Wild Cards"
       },
       "W": {
-        "image": "/data/img/TwistedFate_W.png",
+        "image": "/data/img/TwistedFate_W.webp",
         "name": "TwistedFate_W",
         "alias": "Pick a Card"
       },
       "E": {
-        "image": "/data/img/TwistedFate_E.png",
+        "image": "/data/img/TwistedFate_E.webp",
         "name": "TwistedFate_E",
         "alias": "Neurotoxin / Venomous Bite"
       }
@@ -18322,20 +18322,20 @@
       "Assassin",
       "Fighter"
     ],
-    "image": "/data/img/Naafiri.png",
+    "image": "/data/img/Naafiri.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Naafiri_Q.png",
+        "image": "/data/img/Naafiri_Q.webp",
         "name": "Naafiri_Q",
         "alias": "Darkin Daggers"
       },
       "W": {
-        "image": "/data/img/Naafiri_W.png",
+        "image": "/data/img/Naafiri_W.webp",
         "name": "Naafiri_W",
         "alias": "Hounds' Pursuit"
       },
       "E": {
-        "image": "/data/img/Naafiri_E.png",
+        "image": "/data/img/Naafiri_E.webp",
         "name": "Naafiri_E",
         "alias": "Eviscerate"
       }
@@ -18568,20 +18568,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Evelynn.png",
+    "image": "/data/img/Evelynn.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Evelynn_Q.png",
+        "image": "/data/img/Evelynn_Q.webp",
         "name": "Evelynn_Q",
         "alias": "Ambush"
       },
       "W": {
-        "image": "/data/img/Evelynn_W.png",
+        "image": "/data/img/Evelynn_W.webp",
         "name": "Evelynn_W",
         "alias": "Venom Cask"
       },
       "E": {
-        "image": "/data/img/Evelynn_E.png",
+        "image": "/data/img/Evelynn_E.webp",
         "name": "Evelynn_E",
         "alias": "Contaminate"
       }
@@ -18782,20 +18782,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Twitch.png",
+    "image": "/data/img/Twitch.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Twitch_Q.png",
+        "image": "/data/img/Twitch_Q.webp",
         "name": "Twitch_Q",
         "alias": "Allure"
       },
       "W": {
-        "image": "/data/img/Twitch_W.png",
+        "image": "/data/img/Twitch_W.webp",
         "name": "Twitch_W",
         "alias": "Whiplash"
       },
       "E": {
-        "image": "/data/img/Twitch_E.png",
+        "image": "/data/img/Twitch_E.webp",
         "name": "Twitch_E",
         "alias": "Contaminate"
       }
@@ -18978,20 +18978,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Nami.png",
+    "image": "/data/img/Nami.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nami_Q.png",
+        "image": "/data/img/Nami_Q.webp",
         "name": "Nami_Q",
         "alias": "Aqua Prison"
       },
       "W": {
-        "image": "/data/img/Nami_W.png",
+        "image": "/data/img/Nami_W.webp",
         "name": "Nami_W",
         "alias": "Ebb and Flow"
       },
       "E": {
-        "image": "/data/img/Nami_E.png",
+        "image": "/data/img/Nami_E.webp",
         "name": "Nami_E",
         "alias": "Tidecaller's Blessing"
       }
@@ -19204,20 +19204,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Ezreal.png",
+    "image": "/data/img/Ezreal.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ezreal_Q.png",
+        "image": "/data/img/Ezreal_Q.webp",
         "name": "Ezreal_Q",
         "alias": "Mystic Shot"
       },
       "W": {
-        "image": "/data/img/Ezreal_W.png",
+        "image": "/data/img/Ezreal_W.webp",
         "name": "Ezreal_W",
         "alias": "Essence Flux"
       },
       "E": {
-        "image": "/data/img/Ezreal_E.png",
+        "image": "/data/img/Ezreal_E.webp",
         "name": "Ezreal_E",
         "alias": "Arcane Shift"
       }
@@ -19414,20 +19414,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Udyr.png",
+    "image": "/data/img/Udyr.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Udyr_Q.png",
+        "image": "/data/img/Udyr_Q.webp",
         "name": "Udyr_Q",
         "alias": "Wilding Claw"
       },
       "W": {
-        "image": "/data/img/Udyr_W.png",
+        "image": "/data/img/Udyr_W.webp",
         "name": "Udyr_W",
         "alias": "Iron Mantle"
       },
       "E": {
-        "image": "/data/img/Udyr_E.png",
+        "image": "/data/img/Udyr_E.webp",
         "name": "Udyr_E",
         "alias": "Blazing Stampede"
       }
@@ -19572,20 +19572,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Nasus.png",
+    "image": "/data/img/Nasus.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nasus_Q.png",
+        "image": "/data/img/Nasus_Q.webp",
         "name": "Nasus_Q",
         "alias": "Siphoning Strike"
       },
       "W": {
-        "image": "/data/img/Nasus_W.png",
+        "image": "/data/img/Nasus_W.webp",
         "name": "Nasus_W",
         "alias": "Wither"
       },
       "E": {
-        "image": "/data/img/Nasus_E.png",
+        "image": "/data/img/Nasus_E.webp",
         "name": "Nasus_E",
         "alias": "Spirit Fire"
       }
@@ -19806,20 +19806,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Fiddlesticks.png",
+    "image": "/data/img/Fiddlesticks.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Fiddlesticks_Q.png",
+        "image": "/data/img/Fiddlesticks_Q.webp",
         "name": "Fiddlesticks_Q",
         "alias": "Terrify"
       },
       "W": {
-        "image": "/data/img/Fiddlesticks_W.png",
+        "image": "/data/img/Fiddlesticks_W.webp",
         "name": "Fiddlesticks_W",
         "alias": "Bountiful Harvest"
       },
       "E": {
-        "image": "/data/img/Fiddlesticks_E.png",
+        "image": "/data/img/Fiddlesticks_E.webp",
         "name": "Fiddlesticks_E",
         "alias": "Reap"
       }
@@ -20032,20 +20032,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Urgot.png",
+    "image": "/data/img/Urgot.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Urgot_Q.png",
+        "image": "/data/img/Urgot_Q.webp",
         "name": "Urgot_Q",
         "alias": "Corrosive Charge"
       },
       "W": {
-        "image": "/data/img/Urgot_W.png",
+        "image": "/data/img/Urgot_W.webp",
         "name": "Urgot_W",
         "alias": "Purge"
       },
       "E": {
-        "image": "/data/img/Urgot_E.png",
+        "image": "/data/img/Urgot_E.webp",
         "name": "Urgot_E",
         "alias": "Disdain"
       }
@@ -20258,20 +20258,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Nautilus.png",
+    "image": "/data/img/Nautilus.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nautilus_Q.png",
+        "image": "/data/img/Nautilus_Q.webp",
         "name": "Nautilus_Q",
         "alias": "Dredge Line"
       },
       "W": {
-        "image": "/data/img/Nautilus_W.png",
+        "image": "/data/img/Nautilus_W.webp",
         "name": "Nautilus_W",
         "alias": "Titan's Wrath"
       },
       "E": {
-        "image": "/data/img/Nautilus_E.png",
+        "image": "/data/img/Nautilus_E.webp",
         "name": "Nautilus_E",
         "alias": "Riptide"
       }
@@ -20408,20 +20408,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Fiora.png",
+    "image": "/data/img/Fiora.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Fiora_Q.png",
+        "image": "/data/img/Fiora_Q.webp",
         "name": "Fiora_Q",
         "alias": "Lunge"
       },
       "W": {
-        "image": "/data/img/Fiora_W.png",
+        "image": "/data/img/Fiora_W.webp",
         "name": "Fiora_W",
         "alias": "Riposte"
       },
       "E": {
-        "image": "/data/img/Fiora_E.png",
+        "image": "/data/img/Fiora_E.webp",
         "name": "Fiora_E",
         "alias": "Bladework"
       }
@@ -20562,20 +20562,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Varus.png",
+    "image": "/data/img/Varus.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Varus_Q.png",
+        "image": "/data/img/Varus_Q.webp",
         "name": "Varus_Q",
         "alias": "Piercing Arrow"
       },
       "W": {
-        "image": "/data/img/Varus_W.png",
+        "image": "/data/img/Varus_W.webp",
         "name": "Varus_W",
         "alias": "Blighted Quiver"
       },
       "E": {
-        "image": "/data/img/Varus_E.png",
+        "image": "/data/img/Varus_E.webp",
         "name": "Varus_E",
         "alias": "Hail of Arrows"
       }
@@ -20804,20 +20804,20 @@
       "Assassin",
       "Fighter"
     ],
-    "image": "/data/img/Fizz.png",
+    "image": "/data/img/Fizz.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Fizz_Q.png",
+        "image": "/data/img/Fizz_Q.webp",
         "name": "Fizz_Q",
         "alias": "Urchin Strike"
       },
       "W": {
-        "image": "/data/img/Fizz_W.png",
+        "image": "/data/img/Fizz_W.webp",
         "name": "Fizz_W",
         "alias": "Seastone Trident"
       },
       "E": {
-        "image": "/data/img/Fizz_E.png",
+        "image": "/data/img/Fizz_E.webp",
         "name": "Fizz_E",
         "alias": "Playful / Trickster"
       }
@@ -20942,20 +20942,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Neeko.png",
+    "image": "/data/img/Neeko.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Neeko_Q.png",
+        "image": "/data/img/Neeko_Q.webp",
         "name": "Neeko_Q",
         "alias": "Blooming Burst"
       },
       "W": {
-        "image": "/data/img/Neeko_W.png",
+        "image": "/data/img/Neeko_W.webp",
         "name": "Neeko_W",
         "alias": "Shapesplitter"
       },
       "E": {
-        "image": "/data/img/Neeko_E.png",
+        "image": "/data/img/Neeko_E.webp",
         "name": "Neeko_E",
         "alias": "Tangle-Barbs"
       }
@@ -21156,20 +21156,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Vayne.png",
+    "image": "/data/img/Vayne.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Vayne_Q.png",
+        "image": "/data/img/Vayne_Q.webp",
         "name": "Vayne_Q",
         "alias": "Tumble"
       },
       "W": {
-        "image": "/data/img/Vayne_W.png",
+        "image": "/data/img/Vayne_W.webp",
         "name": "Vayne_W",
         "alias": "Silver Bolts"
       },
       "E": {
-        "image": "/data/img/Vayne_E.png",
+        "image": "/data/img/Vayne_E.webp",
         "name": "Vayne_E",
         "alias": "Condemn"
       }
@@ -21354,20 +21354,20 @@
       "Assassin",
       "Mage"
     ],
-    "image": "/data/img/Nidalee.png",
+    "image": "/data/img/Nidalee.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nidalee_Q.png",
+        "image": "/data/img/Nidalee_Q.webp",
         "name": "Nidalee_Q",
         "alias": "Justice Punch"
       },
       "W": {
-        "image": "/data/img/Nidalee_W.png",
+        "image": "/data/img/Nidalee_W.webp",
         "name": "Nidalee_W",
         "alias": "Bushwhack / Pounce"
       },
       "E": {
-        "image": "/data/img/Nidalee_E.png",
+        "image": "/data/img/Nidalee_E.webp",
         "name": "Nidalee_E",
         "alias": "Primal Surge / Swipe"
       }
@@ -21554,20 +21554,20 @@
       "Tank",
       "Mage"
     ],
-    "image": "/data/img/Galio.png",
+    "image": "/data/img/Galio.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Galio_Q.png",
+        "image": "/data/img/Galio_Q.webp",
         "name": "Galio_Q",
         "alias": "Winds of War"
       },
       "W": {
-        "image": "/data/img/Galio_W.png",
+        "image": "/data/img/Galio_W.webp",
         "name": "Galio_W",
         "alias": "Javelin Toss / Takedown"
       },
       "E": {
-        "image": "/data/img/Galio_E.png",
+        "image": "/data/img/Galio_E.webp",
         "name": "Galio_E",
         "alias": "Bushwhack / Pounce"
       }
@@ -21787,20 +21787,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Veigar.png",
+    "image": "/data/img/Veigar.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Veigar_Q.png",
+        "image": "/data/img/Veigar_Q.webp",
         "name": "Veigar_Q",
         "alias": "Baleful Strike"
       },
       "W": {
-        "image": "/data/img/Veigar_W.png",
+        "image": "/data/img/Veigar_W.webp",
         "name": "Veigar_W",
         "alias": "Dark Matter"
       },
       "E": {
-        "image": "/data/img/Veigar_E.png",
+        "image": "/data/img/Veigar_E.webp",
         "name": "Veigar_E",
         "alias": "Event Horizon"
       }
@@ -22033,20 +22033,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Nilah.png",
+    "image": "/data/img/Nilah.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nilah_Q.png",
+        "image": "/data/img/Nilah_Q.webp",
         "name": "Nilah_Q",
         "alias": "Formless Blade"
       },
       "W": {
-        "image": "/data/img/Nilah_W.png",
+        "image": "/data/img/Nilah_W.webp",
         "name": "Nilah_W",
         "alias": "Parrrley"
       },
       "E": {
-        "image": "/data/img/Nilah_E.png",
+        "image": "/data/img/Nilah_E.webp",
         "name": "Nilah_E",
         "alias": "Remove Scurvy"
       }
@@ -22180,20 +22180,20 @@
     "tags": [
       "Fighter"
     ],
-    "image": "/data/img/Gangplank.png",
+    "image": "/data/img/Gangplank.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Gangplank_Q.png",
+        "image": "/data/img/Gangplank_Q.webp",
         "name": "Gangplank_Q",
         "alias": "Slipstream"
       },
       "W": {
-        "image": "/data/img/Gangplank_W.png",
+        "image": "/data/img/Gangplank_W.webp",
         "name": "Gangplank_W",
         "alias": "Remove Scurvy"
       },
       "E": {
-        "image": "/data/img/Gangplank_E.png",
+        "image": "/data/img/Gangplank_E.webp",
         "name": "Gangplank_E",
         "alias": "Powder Keg"
       }
@@ -22434,20 +22434,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Vel_koz.png",
+    "image": "/data/img/Vel_koz.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Velkoz_Q.png",
+        "image": "/data/img/Velkoz_Q.webp",
         "name": "Velkoz_Q",
         "alias": "Plasma Fission"
       },
       "W": {
-        "image": "/data/img/Velkoz_W.png",
+        "image": "/data/img/Velkoz_W.webp",
         "name": "Velkoz_W",
         "alias": "Void Rift"
       },
       "E": {
-        "image": "/data/img/Velkoz_E.png",
+        "image": "/data/img/Velkoz_E.webp",
         "name": "Velkoz_E",
         "alias": "Tectonic Disruption"
       }
@@ -22652,20 +22652,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Nocturne.png",
+    "image": "/data/img/Nocturne.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nocturne_Q.png",
+        "image": "/data/img/Nocturne_Q.webp",
         "name": "Nocturne_Q",
         "alias": "Duskbringer"
       },
       "W": {
-        "image": "/data/img/Nocturne_W.png",
+        "image": "/data/img/Nocturne_W.webp",
         "name": "Nocturne_W",
         "alias": "Shroud of Darkness"
       },
       "E": {
-        "image": "/data/img/Nocturne_E.png",
+        "image": "/data/img/Nocturne_E.webp",
         "name": "Nocturne_E",
         "alias": "Unspeakable Horror"
       }
@@ -22824,20 +22824,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Garen.png",
+    "image": "/data/img/Garen.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Garen_Q.png",
+        "image": "/data/img/Garen_Q.webp",
         "name": "Garen_Q",
         "alias": "Decisive Strike"
       },
       "W": {
-        "image": "/data/img/Garen_W.png",
+        "image": "/data/img/Garen_W.webp",
         "name": "Garen_W",
         "alias": "Courage"
       },
       "E": {
-        "image": "/data/img/Garen_E.png",
+        "image": "/data/img/Garen_E.webp",
         "name": "Garen_E",
         "alias": "Judgment"
       }
@@ -23041,20 +23041,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Vex.png",
+    "image": "/data/img/Vex.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Vex_Q.png",
+        "image": "/data/img/Vex_Q.webp",
         "name": "Vex_Q",
         "alias": "Snowball Barrage"
       },
       "W": {
-        "image": "/data/img/Vex_W.png",
+        "image": "/data/img/Vex_W.webp",
         "name": "Vex_W",
         "alias": "Personal Space"
       },
       "E": {
-        "image": "/data/img/Vex_E.png",
+        "image": "/data/img/Vex_E.webp",
         "name": "Vex_E",
         "alias": "Looming Darkness"
       }
@@ -23247,20 +23247,20 @@
       "Tank",
       "Mage"
     ],
-    "image": "/data/img/Nunu_&_Willump.png",
+    "image": "/data/img/Nunu_&_Willump.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Nunu_Q.png",
+        "image": "/data/img/Nunu_Q.webp",
         "name": "Nunu_Q",
         "alias": "Consume"
       },
       "W": {
-        "image": "/data/img/Nunu_W.png",
+        "image": "/data/img/Nunu_W.webp",
         "name": "Nunu_W",
         "alias": "Mistral Bolt"
       },
       "E": {
-        "image": "/data/img/Nunu_E.png",
+        "image": "/data/img/Nunu_E.webp",
         "name": "Nunu_E",
         "alias": "Personal Space"
       }
@@ -23421,20 +23421,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Gnar.png",
+    "image": "/data/img/Gnar.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Gnar_Q.png",
+        "image": "/data/img/Gnar_Q.webp",
         "name": "Gnar_Q",
         "alias": "Boomerang Throw / Boulder Toss"
       },
       "W": {
-        "image": "/data/img/Gnar_W.png",
+        "image": "/data/img/Gnar_W.webp",
         "name": "Gnar_W",
         "alias": "Hyper / Wallop"
       },
       "E": {
-        "image": "/data/img/Gnar_E.png",
+        "image": "/data/img/Gnar_E.webp",
         "name": "Gnar_E",
         "alias": "Hop / Crunch"
       }
@@ -23567,20 +23567,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Vi.png",
+    "image": "/data/img/Vi.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Vi_Q.png",
+        "image": "/data/img/Vi_Q.webp",
         "name": "Vi_Q",
         "alias": "Vault Breaker"
       },
       "W": {
-        "image": "/data/img/Vi_W.png",
+        "image": "/data/img/Vi_W.webp",
         "name": "Vi_W",
         "alias": "Denting Blows"
       },
       "E": {
-        "image": "/data/img/Vi_E.png",
+        "image": "/data/img/Vi_E.webp",
         "name": "Vi_E",
         "alias": "Relentless Force"
       }
@@ -23793,20 +23793,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Olaf.png",
+    "image": "/data/img/Olaf.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Olaf_Q.png",
+        "image": "/data/img/Olaf_Q.webp",
         "name": "Olaf_Q",
         "alias": "Undertow"
       },
       "W": {
-        "image": "/data/img/Olaf_W.png",
+        "image": "/data/img/Olaf_W.webp",
         "name": "Olaf_W",
         "alias": "Tough It Out"
       },
       "E": {
-        "image": "/data/img/Olaf_E.png",
+        "image": "/data/img/Olaf_E.webp",
         "name": "Olaf_E",
         "alias": "Reckless Swing"
       }
@@ -23975,20 +23975,20 @@
       "Fighter",
       "Mage"
     ],
-    "image": "/data/img/Gragas.png",
+    "image": "/data/img/Gragas.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Gragas_Q.png",
+        "image": "/data/img/Gragas_Q.webp",
         "name": "Gragas_Q",
         "alias": "Barrel Roll"
       },
       "W": {
-        "image": "/data/img/Gragas_W.png",
+        "image": "/data/img/Gragas_W.webp",
         "name": "Gragas_W",
         "alias": "Drunken Rage"
       },
       "E": {
-        "image": "/data/img/Gragas_E.png",
+        "image": "/data/img/Gragas_E.webp",
         "name": "Gragas_E",
         "alias": "Body Slam"
       }
@@ -24193,20 +24193,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Viego.png",
+    "image": "/data/img/Viego.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Viego_Q.png",
+        "image": "/data/img/Viego_Q.webp",
         "name": "Viego_Q",
         "alias": "Blade of the Ruined King"
       },
       "W": {
-        "image": "/data/img/Viego_W.png",
+        "image": "/data/img/Viego_W.webp",
         "name": "Viego_W",
         "alias": "Spectral Maw"
       },
       "E": {
-        "image": "/data/img/Viego_E.png",
+        "image": "/data/img/Viego_E.webp",
         "name": "Viego_E",
         "alias": "Harrowed Path"
       }
@@ -24379,20 +24379,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Orianna.png",
+    "image": "/data/img/Orianna.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Orianna_Q.png",
+        "image": "/data/img/Orianna_Q.webp",
         "name": "Orianna_Q",
         "alias": "Command: Attack"
       },
       "W": {
-        "image": "/data/img/Orianna_W.png",
+        "image": "/data/img/Orianna_W.webp",
         "name": "Orianna_W",
         "alias": "Command: Dissonance"
       },
       "E": {
-        "image": "/data/img/Orianna_E.png",
+        "image": "/data/img/Orianna_E.webp",
         "name": "Orianna_E",
         "alias": "Command: Protect"
       }
@@ -24612,20 +24612,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Graves.png",
+    "image": "/data/img/Graves.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Graves_Q.png",
+        "image": "/data/img/Graves_Q.webp",
         "name": "Graves_Q",
         "alias": "End of the Line"
       },
       "W": {
-        "image": "/data/img/Graves_W.png",
+        "image": "/data/img/Graves_W.webp",
         "name": "Graves_W",
         "alias": "Smoke Screen"
       },
       "E": {
-        "image": "/data/img/Graves_E.png",
+        "image": "/data/img/Graves_E.webp",
         "name": "Graves_E",
         "alias": "Quickdraw"
       }
@@ -24779,20 +24779,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Viktor.png",
+    "image": "/data/img/Viktor.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Viktor_Q.png",
+        "image": "/data/img/Viktor_Q.webp",
         "name": "Viktor_Q",
         "alias": "Siphon Power"
       },
       "W": {
-        "image": "/data/img/Viktor_W.png",
+        "image": "/data/img/Viktor_W.webp",
         "name": "Viktor_W",
         "alias": "Gravity Field"
       },
       "E": {
-        "image": "/data/img/Viktor_E.png",
+        "image": "/data/img/Viktor_E.webp",
         "name": "Viktor_E",
         "alias": "Death Ray"
       }
@@ -25020,20 +25020,20 @@
     "tags": [
       "Tank"
     ],
-    "image": "/data/img/Ornn.png",
+    "image": "/data/img/Ornn.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ornn_Q.png",
+        "image": "/data/img/Ornn_Q.webp",
         "name": "Ornn_Q",
         "alias": "Volcanic Rupture"
       },
       "W": {
-        "image": "/data/img/Ornn_W.png",
+        "image": "/data/img/Ornn_W.webp",
         "name": "Ornn_W",
         "alias": "Bellows Breath"
       },
       "E": {
-        "image": "/data/img/Ornn_E.png",
+        "image": "/data/img/Ornn_E.webp",
         "name": "Ornn_E",
         "alias": "Searing Charge"
       }
@@ -25237,20 +25237,20 @@
     "tags": [
       "Fighter"
     ],
-    "image": "/data/img/Gwen.png",
+    "image": "/data/img/Gwen.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Gwen_Q.png",
+        "image": "/data/img/Gwen_Q.webp",
         "name": "Gwen_Q",
         "alias": "Snip Snip!"
       },
       "W": {
-        "image": "/data/img/Gwen_W.png",
+        "image": "/data/img/Gwen_W.webp",
         "name": "Gwen_W",
         "alias": "Hallowed Mist"
       },
       "E": {
-        "image": "/data/img/Gwen_E.png",
+        "image": "/data/img/Gwen_E.webp",
         "name": "Gwen_E",
         "alias": "Skip 'n Slash"
       }
@@ -25427,20 +25427,20 @@
       "Mage",
       "Fighter"
     ],
-    "image": "/data/img/Vladimir.png",
+    "image": "/data/img/Vladimir.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Vladimir_Q.png",
+        "image": "/data/img/Vladimir_Q.webp",
         "name": "Vladimir_Q",
         "alias": "Transfusion"
       },
       "W": {
-        "image": "/data/img/Vladimir_W.png",
+        "image": "/data/img/Vladimir_W.webp",
         "name": "Vladimir_W",
         "alias": "Sanguine Pool"
       },
       "E": {
-        "image": "/data/img/Vladimir_E.png",
+        "image": "/data/img/Vladimir_E.webp",
         "name": "Vladimir_E",
         "alias": "Tides of Blood"
       }
@@ -25661,20 +25661,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Hecarim.png",
+    "image": "/data/img/Hecarim.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Hecarim_Q.png",
+        "image": "/data/img/Hecarim_Q.webp",
         "name": "Hecarim_Q",
         "alias": "Rampage"
       },
       "W": {
-        "image": "/data/img/Hecarim_W.png",
+        "image": "/data/img/Hecarim_W.webp",
         "name": "Hecarim_W",
         "alias": "Spirit of Dread"
       },
       "E": {
-        "image": "/data/img/Hecarim_E.png",
+        "image": "/data/img/Hecarim_E.webp",
         "name": "Hecarim_E",
         "alias": "Devastating Charge"
       }
@@ -25891,20 +25891,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Pantheon.png",
+    "image": "/data/img/Pantheon.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Pantheon_Q.png",
+        "image": "/data/img/Pantheon_Q.webp",
         "name": "Pantheon_Q",
         "alias": "Comet Spear"
       },
       "W": {
-        "image": "/data/img/Pantheon_W.png",
+        "image": "/data/img/Pantheon_W.webp",
         "name": "Pantheon_W",
         "alias": "Shield Vault"
       },
       "E": {
-        "image": "/data/img/Pantheon_E.png",
+        "image": "/data/img/Pantheon_E.webp",
         "name": "Pantheon_E",
         "alias": "Aegis Assault"
       }
@@ -26097,20 +26097,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Volibear.png",
+    "image": "/data/img/Volibear.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Volibear_Q.png",
+        "image": "/data/img/Volibear_Q.webp",
         "name": "Volibear_Q",
         "alias": "Thundering Smash"
       },
       "W": {
-        "image": "/data/img/Volibear_W.png",
+        "image": "/data/img/Volibear_W.webp",
         "name": "Volibear_W",
         "alias": "Frenzied Maul"
       },
       "E": {
-        "image": "/data/img/Volibear_E.png",
+        "image": "/data/img/Volibear_E.webp",
         "name": "Volibear_E",
         "alias": "Sky Splitter"
       }
@@ -26311,20 +26311,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Heimerdinger.png",
+    "image": "/data/img/Heimerdinger.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Heimerdinger_Q.png",
+        "image": "/data/img/Heimerdinger_Q.webp",
         "name": "Heimerdinger_Q",
         "alias": "H-28 G Evolution Turret"
       },
       "W": {
-        "image": "/data/img/Heimerdinger_W.png",
+        "image": "/data/img/Heimerdinger_W.webp",
         "name": "Heimerdinger_W",
         "alias": "Hammer Shock"
       },
       "E": {
-        "image": "/data/img/Heimerdinger_E.png",
+        "image": "/data/img/Heimerdinger_E.webp",
         "name": "Heimerdinger_E",
         "alias": "Steadfast Presence"
       }
@@ -26561,20 +26561,20 @@
       "Tank",
       "Fighter"
     ],
-    "image": "/data/img/Poppy.png",
+    "image": "/data/img/Poppy.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Poppy_Q.png",
+        "image": "/data/img/Poppy_Q.webp",
         "name": "Poppy_Q",
         "alias": "CH-2 Electron Storm Grenade"
       },
       "W": {
-        "image": "/data/img/Poppy_W.png",
+        "image": "/data/img/Poppy_W.webp",
         "name": "Poppy_W",
         "alias": "Steadfast Presence"
       },
       "E": {
-        "image": "/data/img/Poppy_E.png",
+        "image": "/data/img/Poppy_E.webp",
         "name": "Poppy_E",
         "alias": "Heroic Charge"
       }
@@ -26715,20 +26715,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Warwick.png",
+    "image": "/data/img/Warwick.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Warwick_Q.png",
+        "image": "/data/img/Warwick_Q.webp",
         "name": "Warwick_Q",
         "alias": "Jaws of the Beast"
       },
       "W": {
-        "image": "/data/img/Warwick_W.png",
+        "image": "/data/img/Warwick_W.webp",
         "name": "Warwick_W",
         "alias": "Blood Hunt"
       },
       "E": {
-        "image": "/data/img/Warwick_E.png",
+        "image": "/data/img/Warwick_E.webp",
         "name": "Warwick_E",
         "alias": "Primal Howl"
       }
@@ -26913,20 +26913,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Hwei.png",
+    "image": "/data/img/Hwei.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Hwei_Q.png",
+        "image": "/data/img/Hwei_Q.webp",
         "name": "Hwei_Q",
         "alias": "Subject: Disaster"
       },
       "W": {
-        "image": "/data/img/Hwei_W.png",
+        "image": "/data/img/Hwei_W.webp",
         "name": "Hwei_W",
         "alias": "Subject: Serenity"
       },
       "E": {
-        "image": "/data/img/Hwei_E.png",
+        "image": "/data/img/Hwei_E.webp",
         "name": "Hwei_E",
         "alias": "Subject: Torment"
       }
@@ -27071,20 +27071,20 @@
       "Support",
       "Assassin"
     ],
-    "image": "/data/img/Pyke.png",
+    "image": "/data/img/Pyke.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Pyke_Q.png",
+        "image": "/data/img/Pyke_Q.webp",
         "name": "Pyke_Q",
         "alias": "Bone Skewer"
       },
       "W": {
-        "image": "/data/img/Pyke_W.png",
+        "image": "/data/img/Pyke_W.webp",
         "name": "Pyke_W",
         "alias": "Ghostwater Dive"
       },
       "E": {
-        "image": "/data/img/Pyke_E.png",
+        "image": "/data/img/Pyke_E.webp",
         "name": "Pyke_E",
         "alias": "Phantom Undertow"
       }
@@ -27264,20 +27264,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Xayah.png",
+    "image": "/data/img/Xayah.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Xayah_Q.png",
+        "image": "/data/img/Xayah_Q.webp",
         "name": "Xayah_Q",
         "alias": "Double Daggers"
       },
       "W": {
-        "image": "/data/img/Xayah_W.png",
+        "image": "/data/img/Xayah_W.webp",
         "name": "Xayah_W",
         "alias": "Deadly Plumage"
       },
       "E": {
-        "image": "/data/img/Xayah_E.png",
+        "image": "/data/img/Xayah_E.webp",
         "name": "Xayah_E",
         "alias": "Bladecaller"
       }
@@ -27458,20 +27458,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Illaoi.png",
+    "image": "/data/img/Illaoi.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Illaoi_Q.png",
+        "image": "/data/img/Illaoi_Q.webp",
         "name": "Illaoi_Q",
         "alias": "Tentacle Smash"
       },
       "W": {
-        "image": "/data/img/Illaoi_W.png",
+        "image": "/data/img/Illaoi_W.webp",
         "name": "Illaoi_W",
         "alias": "Harsh Lesson"
       },
       "E": {
-        "image": "/data/img/Illaoi_E.png",
+        "image": "/data/img/Illaoi_E.webp",
         "name": "Illaoi_E",
         "alias": "Test of Spirit"
       }
@@ -27607,20 +27607,20 @@
     "tags": [
       "Assassin"
     ],
-    "image": "/data/img/Qiyana.png",
+    "image": "/data/img/Qiyana.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Qiyana_Q.png",
+        "image": "/data/img/Qiyana_Q.webp",
         "name": "Qiyana_Q",
         "alias": "Elemental Wrath / Edge of Ixtal"
       },
       "W": {
-        "image": "/data/img/Qiyana_W.png",
+        "image": "/data/img/Qiyana_W.webp",
         "name": "Qiyana_W",
         "alias": "Terrashape"
       },
       "E": {
-        "image": "/data/img/Qiyana_E.png",
+        "image": "/data/img/Qiyana_E.webp",
         "name": "Qiyana_E",
         "alias": "Audacity"
       }
@@ -27799,20 +27799,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Xerath.png",
+    "image": "/data/img/Xerath.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Xerath_Q.png",
+        "image": "/data/img/Xerath_Q.webp",
         "name": "Xerath_Q",
         "alias": "Arcanopulse"
       },
       "W": {
-        "image": "/data/img/Xerath_W.png",
+        "image": "/data/img/Xerath_W.webp",
         "name": "Xerath_W",
         "alias": "Eye of Destruction"
       },
       "E": {
-        "image": "/data/img/Xerath_E.png",
+        "image": "/data/img/Xerath_E.webp",
         "name": "Xerath_E",
         "alias": "Shocking Orb"
       }
@@ -28017,20 +28017,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Irelia.png",
+    "image": "/data/img/Irelia.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Irelia_Q.png",
+        "image": "/data/img/Irelia_Q.webp",
         "name": "Irelia_Q",
         "alias": "Bladesurge"
       },
       "W": {
-        "image": "/data/img/Irelia_W.png",
+        "image": "/data/img/Irelia_W.webp",
         "name": "Irelia_W",
         "alias": "Defiant Dance"
       },
       "E": {
-        "image": "/data/img/Irelia_E.png",
+        "image": "/data/img/Irelia_E.webp",
         "name": "Irelia_E",
         "alias": "Flawless Duet"
       }
@@ -28153,20 +28153,20 @@
       "Marksman",
       "Assassin"
     ],
-    "image": "/data/img/Quinn.png",
+    "image": "/data/img/Quinn.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Quinn_Q.png",
+        "image": "/data/img/Quinn_Q.webp",
         "name": "Quinn_Q",
         "alias": "Blinding Assault"
       },
       "W": {
-        "image": "/data/img/Quinn_W.png",
+        "image": "/data/img/Quinn_W.webp",
         "name": "Quinn_W",
         "alias": "Heightened Senses"
       },
       "E": {
-        "image": "/data/img/Quinn_E.png",
+        "image": "/data/img/Quinn_E.webp",
         "name": "Quinn_E",
         "alias": "Vault"
       }
@@ -28367,20 +28367,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Ivern.png",
+    "image": "/data/img/Ivern.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ivern_Q.png",
+        "image": "/data/img/Ivern_Q.webp",
         "name": "Ivern_Q",
         "alias": "Rootcaller"
       },
       "W": {
-        "image": "/data/img/Ivern_W.png",
+        "image": "/data/img/Ivern_W.webp",
         "name": "Ivern_W",
         "alias": "Brushmaker"
       },
       "E": {
-        "image": "/data/img/Ivern_E.png",
+        "image": "/data/img/Ivern_E.webp",
         "name": "Ivern_E",
         "alias": "Triggerseed"
       }
@@ -28617,20 +28617,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Xin_Zhao.png",
+    "image": "/data/img/Xin_Zhao.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/XinZhao_Q.png",
+        "image": "/data/img/XinZhao_Q.webp",
         "name": "XinZhao_Q",
         "alias": "Three Talon Strike"
       },
       "W": {
-        "image": "/data/img/XinZhao_W.png",
+        "image": "/data/img/XinZhao_W.webp",
         "name": "XinZhao_W",
         "alias": "Wind Becomes Lightning"
       },
       "E": {
-        "image": "/data/img/XinZhao_E.png",
+        "image": "/data/img/XinZhao_E.webp",
         "name": "XinZhao_E",
         "alias": "Rootcaller"
       }
@@ -28818,20 +28818,20 @@
     "tags": [
       "Support"
     ],
-    "image": "/data/img/Rakan.png",
+    "image": "/data/img/Rakan.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Rakan_Q.png",
+        "image": "/data/img/Rakan_Q.webp",
         "name": "Rakan_Q",
         "alias": "Gleaming Quill"
       },
       "W": {
-        "image": "/data/img/Rakan_W.png",
+        "image": "/data/img/Rakan_W.webp",
         "name": "Rakan_W",
         "alias": "Grand Entrance"
       },
       "E": {
-        "image": "/data/img/Rakan_E.png",
+        "image": "/data/img/Rakan_E.webp",
         "name": "Rakan_E",
         "alias": "Battle Dance"
       }
@@ -29004,20 +29004,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Janna.png",
+    "image": "/data/img/Janna.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Janna_Q.png",
+        "image": "/data/img/Janna_Q.webp",
         "name": "Janna_Q",
         "alias": "Steel Tempest"
       },
       "W": {
-        "image": "/data/img/Janna_W.png",
+        "image": "/data/img/Janna_W.webp",
         "name": "Janna_W",
         "alias": "Wind Wall"
       },
       "E": {
-        "image": "/data/img/Janna_E.png",
+        "image": "/data/img/Janna_E.webp",
         "name": "Janna_E",
         "alias": "Sweeping Blade"
       }
@@ -29230,20 +29230,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Yasuo.png",
+    "image": "/data/img/Yasuo.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Yasuo_Q.png",
+        "image": "/data/img/Yasuo_Q.webp",
         "name": "Yasuo_Q",
         "alias": "Zephyr"
       },
       "W": {
-        "image": "/data/img/Yasuo_W.png",
+        "image": "/data/img/Yasuo_W.webp",
         "name": "Yasuo_W",
         "alias": "Eye Of The Storm"
       },
       "E": {
-        "image": "/data/img/Yasuo_E.png",
+        "image": "/data/img/Yasuo_E.webp",
         "name": "Yasuo_E",
         "alias": "Sweeping Blade"
       }
@@ -29371,20 +29371,20 @@
     "tags": [
       "Tank"
     ],
-    "image": "/data/img/Rammus.png",
+    "image": "/data/img/Rammus.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Rammus_Q.png",
+        "image": "/data/img/Rammus_Q.webp",
         "name": "Rammus_Q",
         "alias": "Powerball"
       },
       "W": {
-        "image": "/data/img/Rammus_W.png",
+        "image": "/data/img/Rammus_W.webp",
         "name": "Rammus_W",
         "alias": "Defensive Ball Curl"
       },
       "E": {
-        "image": "/data/img/Rammus_E.png",
+        "image": "/data/img/Rammus_E.webp",
         "name": "Rammus_E",
         "alias": "Frenzying Taunt"
       }
@@ -29537,20 +29537,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Jarvan_Iv.png",
+    "image": "/data/img/Jarvan_Iv.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/JarvanIV_Q.png",
+        "image": "/data/img/JarvanIV_Q.webp",
         "name": "JarvanIV_Q",
         "alias": "Dragon Strike"
       },
       "W": {
-        "image": "/data/img/JarvanIV_W.png",
+        "image": "/data/img/JarvanIV_W.webp",
         "name": "JarvanIV_W",
         "alias": "Golden Aegis"
       },
       "E": {
-        "image": "/data/img/JarvanIV_E.png",
+        "image": "/data/img/JarvanIV_E.webp",
         "name": "JarvanIV_E",
         "alias": "Demacian Standard"
       }
@@ -29763,20 +29763,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Yone.png",
+    "image": "/data/img/Yone.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Yone_Q.png",
+        "image": "/data/img/Yone_Q.webp",
         "name": "Yone_Q",
         "alias": "Mortal Steel"
       },
       "W": {
-        "image": "/data/img/Yone_W.png",
+        "image": "/data/img/Yone_W.webp",
         "name": "Yone_W",
         "alias": "Spirit Cleave"
       },
       "E": {
-        "image": "/data/img/Yone_E.png",
+        "image": "/data/img/Yone_E.webp",
         "name": "Yone_E",
         "alias": "Soul Unbound"
       }
@@ -29933,20 +29933,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Rek_sai.png",
+    "image": "/data/img/Rek_sai.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/RekSai_Q.png",
+        "image": "/data/img/RekSai_Q.webp",
         "name": "RekSai_Q",
         "alias": "Queen's Wrath / Prey Seeker"
       },
       "W": {
-        "image": "/data/img/RekSai_W.png",
+        "image": "/data/img/RekSai_W.webp",
         "name": "RekSai_W",
         "alias": "Burrow / Un-burrow"
       },
       "E": {
-        "image": "/data/img/RekSai_E.png",
+        "image": "/data/img/RekSai_E.webp",
         "name": "RekSai_E",
         "alias": "Furious Bite / Tunnel"
       }
@@ -30162,20 +30162,20 @@
     "tags": [
       "Fighter"
     ],
-    "image": "/data/img/Jax.png",
+    "image": "/data/img/Jax.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Jax_Q.png",
+        "image": "/data/img/Jax_Q.webp",
         "name": "Jax_Q",
         "alias": "Leap Strike"
       },
       "W": {
-        "image": "/data/img/Jax_W.png",
+        "image": "/data/img/Jax_W.webp",
         "name": "Jax_W",
         "alias": "Empower"
       },
       "E": {
-        "image": "/data/img/Jax_E.png",
+        "image": "/data/img/Jax_E.webp",
         "name": "Jax_E",
         "alias": "Counter Strike"
       }
@@ -30388,20 +30388,20 @@
       "Tank",
       "Support"
     ],
-    "image": "/data/img/Rell.png",
+    "image": "/data/img/Rell.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Rell_Q.png",
+        "image": "/data/img/Rell_Q.webp",
         "name": "Rell_Q",
         "alias": "Shattering Strike"
       },
       "W": {
-        "image": "/data/img/Rell_W.png",
+        "image": "/data/img/Rell_W.webp",
         "name": "Rell_W",
         "alias": "Dark Procession"
       },
       "E": {
-        "image": "/data/img/Rell_E.png",
+        "image": "/data/img/Rell_E.webp",
         "name": "Rell_E",
         "alias": "Mourning Mist"
       }
@@ -30610,20 +30610,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Yorick.png",
+    "image": "/data/img/Yorick.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Yorick_Q.png",
+        "image": "/data/img/Yorick_Q.webp",
         "name": "Yorick_Q",
         "alias": "Ferromancy: Crash Down"
       },
       "W": {
-        "image": "/data/img/Yorick_W.png",
+        "image": "/data/img/Yorick_W.webp",
         "name": "Yorick_W",
         "alias": "Full Tilt"
       },
       "E": {
-        "image": "/data/img/Yorick_E.png",
+        "image": "/data/img/Yorick_E.webp",
         "name": "Yorick_E",
         "alias": "Mourning Mist"
       }
@@ -30856,20 +30856,20 @@
       "Marksman",
       "Fighter"
     ],
-    "image": "/data/img/Jayce.png",
+    "image": "/data/img/Jayce.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Jayce_Q.png",
+        "image": "/data/img/Jayce_Q.webp",
         "name": "Jayce_Q",
         "alias": "To the Skies! / Shock Blast"
       },
       "W": {
-        "image": "/data/img/Jayce_W.png",
+        "image": "/data/img/Jayce_W.webp",
         "name": "Jayce_W",
         "alias": "Lightning Field / Hyper Charge"
       },
       "E": {
-        "image": "/data/img/Jayce_E.png",
+        "image": "/data/img/Jayce_E.webp",
         "name": "Jayce_E",
         "alias": "Thundering Blow / Acceleration Gate"
       }
@@ -31030,20 +31030,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Renata_Glasc.png",
+    "image": "/data/img/Renata_Glasc.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Renata_Q.png",
+        "image": "/data/img/Renata_Q.webp",
         "name": "Renata_Q",
         "alias": "Handshake"
       },
       "W": {
-        "image": "/data/img/Renata_W.png",
+        "image": "/data/img/Renata_W.webp",
         "name": "Renata_W",
         "alias": "Bailout"
       },
       "E": {
-        "image": "/data/img/Renata_E.png",
+        "image": "/data/img/Renata_E.webp",
         "name": "Renata_E",
         "alias": "Loyalty Program"
       }
@@ -31268,20 +31268,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Yuumi.png",
+    "image": "/data/img/Yuumi.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Yuumi_Q.png",
+        "image": "/data/img/Yuumi_Q.webp",
         "name": "Yuumi_Q",
         "alias": "Prowling Projectile"
       },
       "W": {
-        "image": "/data/img/Yuumi_W.png",
+        "image": "/data/img/Yuumi_W.webp",
         "name": "Yuumi_W",
         "alias": "You and Me!"
       },
       "E": {
-        "image": "/data/img/Yuumi_E.png",
+        "image": "/data/img/Yuumi_E.webp",
         "name": "Yuumi_E",
         "alias": "Zoomies"
       }
@@ -31486,20 +31486,20 @@
       "Fighter",
       "Tank"
     ],
-    "image": "/data/img/Renekton.png",
+    "image": "/data/img/Renekton.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Renekton_Q.png",
+        "image": "/data/img/Renekton_Q.webp",
         "name": "Renekton_Q",
         "alias": "Deadly Flourish"
       },
       "W": {
-        "image": "/data/img/Renekton_W.png",
+        "image": "/data/img/Renekton_W.webp",
         "name": "Renekton_W",
         "alias": "Captive Audience"
       },
       "E": {
-        "image": "/data/img/Renekton_E.png",
+        "image": "/data/img/Renekton_E.webp",
         "name": "Renekton_E",
         "alias": "Slice and Dice"
       }
@@ -31660,20 +31660,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Jhin.png",
+    "image": "/data/img/Jhin.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Jhin_Q.png",
+        "image": "/data/img/Jhin_Q.webp",
         "name": "Jhin_Q",
         "alias": "Cull the Meek"
       },
       "W": {
-        "image": "/data/img/Jhin_W.png",
+        "image": "/data/img/Jhin_W.webp",
         "name": "Jhin_W",
         "alias": "Ruthless Predator"
       },
       "E": {
-        "image": "/data/img/Jhin_E.png",
+        "image": "/data/img/Jhin_E.webp",
         "name": "Jhin_E",
         "alias": "Slice and Dice"
       }
@@ -31874,20 +31874,20 @@
       "Tank",
       "Fighter"
     ],
-    "image": "/data/img/Zac.png",
+    "image": "/data/img/Zac.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Zac_Q.png",
+        "image": "/data/img/Zac_Q.webp",
         "name": "Zac_Q",
         "alias": "Stretching Strikes"
       },
       "W": {
-        "image": "/data/img/Zac_W.png",
+        "image": "/data/img/Zac_W.webp",
         "name": "Zac_W",
         "alias": "Unstable Matter"
       },
       "E": {
-        "image": "/data/img/Zac_E.png",
+        "image": "/data/img/Zac_E.webp",
         "name": "Zac_E",
         "alias": "Elastic Slingshot"
       }
@@ -32079,20 +32079,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Jinx.png",
+    "image": "/data/img/Jinx.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Jinx_Q.png",
+        "image": "/data/img/Jinx_Q.webp",
         "name": "Jinx_Q",
         "alias": "Battle Roar"
       },
       "W": {
-        "image": "/data/img/Jinx_W.png",
+        "image": "/data/img/Jinx_W.webp",
         "name": "Jinx_W",
         "alias": "Bola Strike"
       },
       "E": {
-        "image": "/data/img/Jinx_E.png",
+        "image": "/data/img/Jinx_E.webp",
         "name": "Jinx_E",
         "alias": "Flame Chompers!"
       }
@@ -32225,20 +32225,20 @@
       "Assassin",
       "Fighter"
     ],
-    "image": "/data/img/Rengar.png",
+    "image": "/data/img/Rengar.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Rengar_Q.png",
+        "image": "/data/img/Rengar_Q.webp",
         "name": "Rengar_Q",
         "alias": "Switcheroo!"
       },
       "W": {
-        "image": "/data/img/Rengar_W.png",
+        "image": "/data/img/Rengar_W.webp",
         "name": "Rengar_W",
         "alias": "Zap!"
       },
       "E": {
-        "image": "/data/img/Rengar_E.png",
+        "image": "/data/img/Rengar_E.webp",
         "name": "Rengar_E",
         "alias": "Flame Chompers!"
       }
@@ -32462,20 +32462,20 @@
     "tags": [
       "Assassin"
     ],
-    "image": "/data/img/Zed.png",
+    "image": "/data/img/Zed.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Zed_Q.png",
+        "image": "/data/img/Zed_Q.webp",
         "name": "Zed_Q",
         "alias": "Razor Shuriken"
       },
       "W": {
-        "image": "/data/img/Zed_W.png",
+        "image": "/data/img/Zed_W.webp",
         "name": "Zed_W",
         "alias": "Living Shadow"
       },
       "E": {
-        "image": "/data/img/Zed_E.png",
+        "image": "/data/img/Zed_E.webp",
         "name": "Zed_E",
         "alias": "Shadow Slash"
       }
@@ -32688,20 +32688,20 @@
       "Fighter",
       "Assassin"
     ],
-    "image": "/data/img/Riven.png",
+    "image": "/data/img/Riven.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Riven_Q.png",
+        "image": "/data/img/Riven_Q.webp",
         "name": "Riven_Q",
         "alias": "Supercharge"
       },
       "W": {
-        "image": "/data/img/Riven_W.png",
+        "image": "/data/img/Riven_W.webp",
         "name": "Riven_W",
         "alias": "Ki Burst"
       },
       "E": {
-        "image": "/data/img/Riven_E.png",
+        "image": "/data/img/Riven_E.webp",
         "name": "Riven_E",
         "alias": "Valor"
       }
@@ -32822,20 +32822,20 @@
       "Marksman",
       "Mage"
     ],
-    "image": "/data/img/Kai_sa.png",
+    "image": "/data/img/Kai_sa.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kaisa_Q.png",
+        "image": "/data/img/Kaisa_Q.webp",
         "name": "Kaisa_Q",
         "alias": "Icathian Rain"
       },
       "W": {
-        "image": "/data/img/Kaisa_W.png",
+        "image": "/data/img/Kaisa_W.webp",
         "name": "Kaisa_W",
         "alias": "Void Seeker"
       },
       "E": {
-        "image": "/data/img/Kaisa_E.png",
+        "image": "/data/img/Kaisa_E.webp",
         "name": "Kaisa_E",
         "alias": "Supercharge"
       }
@@ -33027,20 +33027,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Zeri.png",
+    "image": "/data/img/Zeri.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Zeri_Q.png",
+        "image": "/data/img/Zeri_Q.webp",
         "name": "Zeri_Q",
         "alias": "Burst Fire"
       },
       "W": {
-        "image": "/data/img/Zeri_W.png",
+        "image": "/data/img/Zeri_W.webp",
         "name": "Zeri_W",
         "alias": "Ultrashock Laser"
       },
       "E": {
-        "image": "/data/img/Zeri_E.png",
+        "image": "/data/img/Zeri_E.webp",
         "name": "Zeri_E",
         "alias": "Spark Surge"
       }
@@ -33237,20 +33237,20 @@
       "Fighter",
       "Mage"
     ],
-    "image": "/data/img/Rumble.png",
+    "image": "/data/img/Rumble.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Rumble_Q.png",
+        "image": "/data/img/Rumble_Q.webp",
         "name": "Rumble_Q",
         "alias": "Flamespitter"
       },
       "W": {
-        "image": "/data/img/Rumble_W.png",
+        "image": "/data/img/Rumble_W.webp",
         "name": "Rumble_W",
         "alias": "Scrap Shield"
       },
       "E": {
-        "image": "/data/img/Rumble_E.png",
+        "image": "/data/img/Rumble_E.webp",
         "name": "Rumble_E",
         "alias": "Electro Harpoon"
       }
@@ -33474,20 +33474,20 @@
     "tags": [
       "Marksman"
     ],
-    "image": "/data/img/Kalista.png",
+    "image": "/data/img/Kalista.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Kalista_Q.png",
+        "image": "/data/img/Kalista_Q.webp",
         "name": "Kalista_Q",
         "alias": "Pierce"
       },
       "W": {
-        "image": "/data/img/Kalista_W.png",
+        "image": "/data/img/Kalista_W.webp",
         "name": "Kalista_W",
         "alias": "Sentinel"
       },
       "E": {
-        "image": "/data/img/Kalista_E.png",
+        "image": "/data/img/Kalista_E.webp",
         "name": "Kalista_E",
         "alias": "Rend"
       }
@@ -33607,20 +33607,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Ziggs.png",
+    "image": "/data/img/Ziggs.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ziggs_Q.png",
+        "image": "/data/img/Ziggs_Q.webp",
         "name": "Ziggs_Q",
         "alias": "Bouncing Bomb"
       },
       "W": {
-        "image": "/data/img/Ziggs_W.png",
+        "image": "/data/img/Ziggs_W.webp",
         "name": "Ziggs_W",
         "alias": "Satchel Charge"
       },
       "E": {
-        "image": "/data/img/Ziggs_E.png",
+        "image": "/data/img/Ziggs_E.webp",
         "name": "Ziggs_E",
         "alias": "Hexplosive Minefield"
       }
@@ -33824,20 +33824,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Ryze.png",
+    "image": "/data/img/Ryze.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Ryze_Q.png",
+        "image": "/data/img/Ryze_Q.webp",
         "name": "Ryze_Q",
         "alias": "Overload"
       },
       "W": {
-        "image": "/data/img/Ryze_W.png",
+        "image": "/data/img/Ryze_W.webp",
         "name": "Ryze_W",
         "alias": "Rune Prison"
       },
       "E": {
-        "image": "/data/img/Ryze_E.png",
+        "image": "/data/img/Ryze_E.webp",
         "name": "Ryze_E",
         "alias": "Spell Flux"
       }
@@ -34058,20 +34058,20 @@
       "Support",
       "Mage"
     ],
-    "image": "/data/img/Zilean.png",
+    "image": "/data/img/Zilean.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Zilean_Q.png",
+        "image": "/data/img/Zilean_Q.webp",
         "name": "Zilean_Q",
         "alias": "Time Bomb"
       },
       "W": {
-        "image": "/data/img/Zilean_W.png",
+        "image": "/data/img/Zilean_W.webp",
         "name": "Zilean_W",
         "alias": "Rewind"
       },
       "E": {
-        "image": "/data/img/Zilean_E.png",
+        "image": "/data/img/Zilean_E.webp",
         "name": "Zilean_E",
         "alias": "Time Warp"
       }
@@ -34315,20 +34315,20 @@
     "tags": [
       "Mage"
     ],
-    "image": "/data/img/Zoe.png",
+    "image": "/data/img/Zoe.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Zoe_Q.png",
+        "image": "/data/img/Zoe_Q.webp",
         "name": "Zoe_Q",
         "alias": "Paddle Star!"
       },
       "W": {
-        "image": "/data/img/Zoe_W.png",
+        "image": "/data/img/Zoe_W.webp",
         "name": "Zoe_W",
         "alias": "Spell Thief"
       },
       "E": {
-        "image": "/data/img/Zoe_E.png",
+        "image": "/data/img/Zoe_E.webp",
         "name": "Zoe_E",
         "alias": "Sleepy Trouble Bubble"
       }
@@ -34533,20 +34533,20 @@
       "Mage",
       "Support"
     ],
-    "image": "/data/img/Zyra.png",
+    "image": "/data/img/Zyra.webp",
     "abilities": {
       "Q": {
-        "image": "/data/img/Zyra_Q.png",
+        "image": "/data/img/Zyra_Q.webp",
         "name": "Zyra_Q",
         "alias": "Deadly Spines"
       },
       "W": {
-        "image": "/data/img/Zyra_W.png",
+        "image": "/data/img/Zyra_W.webp",
         "name": "Zyra_W",
         "alias": "Rampant Growth"
       },
       "E": {
-        "image": "/data/img/Zyra_E.png",
+        "image": "/data/img/Zyra_E.webp",
         "name": "Zyra_E",
         "alias": "Grasping Roots"
       }

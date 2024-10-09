@@ -1,42 +1,42 @@
 [
   {
     "name": "Berserker's Greaves",
-    "image": "/data/img/Berserker_s_Greaves.png"
+    "image": "/data/img/Berserker_s_Greaves.webp"
   },
   {
     "name": "Boots",
-    "image": "/data/img/Boots.png"
+    "image": "/data/img/Boots.webp"
   },
   {
     "name": "Boots of Swiftness",
-    "image": "/data/img/Boots_of_Swiftness.png"
+    "image": "/data/img/Boots_of_Swiftness.webp"
   },
   {
     "name": "Ionian Boots of Lucidity",
-    "image": "/data/img/Ionian_Boots_of_Lucidity.png"
+    "image": "/data/img/Ionian_Boots_of_Lucidity.webp"
   },
   {
     "name": "Mercury's Treads",
-    "image": "/data/img/Mercury_s_Treads.png"
+    "image": "/data/img/Mercury_s_Treads.webp"
   },
   {
     "name": "Plated Steelcaps",
-    "image": "/data/img/Plated_Steelcaps.png"
+    "image": "/data/img/Plated_Steelcaps.webp"
   },
   {
     "name": "Sorcerer's Shoes",
-    "image": "/data/img/Sorcerer_s_Shoes.png"
+    "image": "/data/img/Sorcerer_s_Shoes.webp"
   },
   {
     "name": "Symbiotic Soles",
-    "image": "/data/img/Symbiotic_Soles.png"
+    "image": "/data/img/Symbiotic_Soles.webp"
   },
   {
     "name": "Synchronized Souls",
-    "image": "/data/img/Synchronized_Souls.png"
+    "image": "/data/img/Synchronized_Souls.webp"
   },
   {
     "name": "Zephyr",
-    "image": "/data/img/Zephyr.png"
+    "image": "/data/img/Zephyr.webp"
   }
 ]

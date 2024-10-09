@@ -1,7 +1,7 @@
 [
   {
     "name": "Cull",
-    "image": "/data/img/Cull.png",
+    "image": "/data/img/Cull.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Dark Seal",
-    "image": "/data/img/Dark_Seal.png",
+    "image": "/data/img/Dark_Seal.webp",
     "scales": [
       "Mage",
       "Ability Power",
@@ -22,7 +22,7 @@
   },
   {
     "name": "Doran's Blade",
-    "image": "/data/img/Doran_s_Blade.png",
+    "image": "/data/img/Doran_s_Blade.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Doran's Ring",
-    "image": "/data/img/Doran_s_Ring.png",
+    "image": "/data/img/Doran_s_Ring.webp",
     "scales": [
       "Mage",
       "On-Hit Effects",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Doran's Shield",
-    "image": "/data/img/Doran_s_Shield.png",
+    "image": "/data/img/Doran_s_Shield.webp",
     "scales": [
       "Fighter",
       "Marksman",
@@ -58,7 +58,7 @@
   },
   {
     "name": "Tear of the Goddess",
-    "image": "/data/img/Tear_of_the_Goddess.png",
+    "image": "/data/img/Tear_of_the_Goddess.webp",
     "scales": [
       "Marksman",
       "Mage",
@@ -67,7 +67,7 @@
   },
   {
     "name": "World Atlas",
-    "image": "/data/img/World_Atlas.png",
+    "image": "/data/img/World_Atlas.webp",
     "scales": [
       "Supporter",
       "Mana & Regeneration",

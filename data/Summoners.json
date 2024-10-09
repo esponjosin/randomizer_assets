@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Barrier",
+    "image": "/data/img/Barrier.png"
+  },
+  {
+    "name": "Cleanse",
+    "image": "/data/img/Cleanse.png"
+  },
+  {
+    "name": "Ignite",
+    "image": "/data/img/Ignite.png"
+  },
+  {
+    "name": "Exhaust",
+    "image": "/data/img/Exhaust.png"
+  },
+  {
+    "name": "Flash",
+    "image": "/data/img/Flash.png"
+  },
+  {
+    "name": "Ghost",
+    "image": "/data/img/Ghost.png"
+  },
+  {
+    "name": "Heal",
+    "image": "/data/img/Heal.png"
+  },
+  {
+    "name": "Smite",
+    "image": "/data/img/Smite.png"
+  },
+  {
+    "name": "Teleport",
+    "image": "/data/img/Teleport.png"
+  }
+]
