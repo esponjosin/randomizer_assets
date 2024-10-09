@@ -10,13 +10,13 @@
   "Health & Regeneration",
   "Mana & Regeneration",
   "Tank",
+  "Supporter",
   "Magic Resistance",
   "Ability Haste",
-  "Supporter",
   "Attack Speed",
   "Movement",
   "Armor Penetration",
-  "Critical Strike",
+  "Magic Penetration",
   "Armor",
-  "Magic Penetration"
+  "Critical Strike"
 ]

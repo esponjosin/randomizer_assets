@@ -19,12 +19,12 @@
       "image": "/data/img/Adaptive_Force.webp"
     },
     {
-      "name": "Armor",
-      "image": "/data/img/Armor.webp"
+      "name": "Movement Speed",
+      "image": "/data/img/Movement_Speed.webp"
     },
     {
-      "name": "Magic Resistance",
-      "image": "/data/img/Magic_Resistance.webp"
+      "name": "Health Scaling",
+      "image": "/data/img/Health_Scaling.webp"
     }
   ],
   "Defense": [
@@ -33,12 +33,12 @@
       "image": "/data/img/Health.webp"
     },
     {
-      "name": "Armor",
-      "image": "/data/img/Armor.webp"
+      "name": "Tenacity and Slow Resist",
+      "image": "/data/img/Tenacity_and_Slow_Resist.webp"
     },
     {
-      "name": "Magic Resistance",
-      "image": "/data/img/Magic_Resistance.webp"
+      "name": "Health Scaling",
+      "image": "/data/img/Health_Scaling.webp"
     }
   ]
 }

@@ -64,5 +64,14 @@
       "Mage",
       "Mana & Regeneration"
     ]
+  },
+  {
+    "name": "World Atlas",
+    "image": "/data/img/World_Atlas.png",
+    "scales": [
+      "Supporter",
+      "Mana & Regeneration",
+      "Health & Regeneration"
+    ]
   }
 ]

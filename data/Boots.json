@@ -20,15 +20,23 @@
     "image": "/data/img/Mercury_s_Treads.png"
   },
   {
-    "name": "Mobility Boots",
-    "image": "/data/img/Mobility_Boots.png"
-  },
-  {
     "name": "Plated Steelcaps",
     "image": "/data/img/Plated_Steelcaps.png"
   },
   {
     "name": "Sorcerer's Shoes",
     "image": "/data/img/Sorcerer_s_Shoes.png"
+  },
+  {
+    "name": "Symbiotic Soles",
+    "image": "/data/img/Symbiotic_Soles.png"
+  },
+  {
+    "name": "Synchronized Souls",
+    "image": "/data/img/Synchronized_Souls.png"
+  },
+  {
+    "name": "Zephyr",
+    "image": "/data/img/Zephyr.png"
   }
 ]
