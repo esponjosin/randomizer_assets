@@ -1,305 +1,305 @@
 [
   {
     "name": "Domination",
-    "image": "/data/img/Domination.webp",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7200_Domination.png",
     "keystones": [
       {
         "name": "Electrocute",
-        "image": "/data/img/Electrocute.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/Electrocute/Electrocute.png"
       },
       {
         "name": "Dark Harvest",
-        "image": "/data/img/Dark_Harvest.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/DarkHarvest/DarkHarvest.png"
       },
       {
         "name": "Hail of Blades",
-        "image": "/data/img/Hail_of_Blades.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/HailOfBlades/HailOfBlades.png"
       }
     ],
     "slot1": [
       {
         "name": "Cheap Shot",
-        "image": "/data/img/Cheap_Shot.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/CheapShot/CheapShot.png"
       },
       {
         "name": "Taste of Blood",
-        "image": "/data/img/Taste_of_Blood.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png"
       },
       {
         "name": "Sudden Impact",
-        "image": "/data/img/Sudden_Impact.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/SuddenImpact/SuddenImpact.png"
       }
     ],
     "slot2": [
       {
         "name": "Zombie Ward",
-        "image": "/data/img/Zombie_Ward.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/ZombieWard/ZombieWard.png"
       },
       {
         "name": "Ghost Poro",
-        "image": "/data/img/Ghost_Poro.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/GhostPoro/GhostPoro.png"
       },
       {
         "name": "Eyeball Collection",
-        "image": "/data/img/Eyeball_Collection.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/EyeballCollection/EyeballCollection.png"
       }
     ],
     "slot3": [
       {
         "name": "Treasure Hunter",
-        "image": "/data/img/Treasure_Hunter.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/TreasureHunter/TreasureHunter.png"
       },
       {
         "name": "Relentless Hunter",
-        "image": "/data/img/Relentless_Hunter.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/RelentlessHunter/RelentlessHunter.png"
       },
       {
         "name": "Ultimate Hunter",
-        "image": "/data/img/Ultimate_Hunter.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
       }
     ]
   },
   {
     "name": "Inspiration",
-    "image": "/data/img/Inspiration.webp",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7203_Whimsy.png",
     "keystones": [
       {
         "name": "Glacial Augment",
-        "image": "/data/img/Glacial_Augment.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/GlacialAugment/GlacialAugment.png"
       },
       {
         "name": "Unsealed Spellbook",
-        "image": "/data/img/Unsealed_Spellbook.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png"
       },
       {
         "name": "First Strike",
-        "image": "/data/img/First_Strike.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/FirstStrike/FirstStrike.png"
       }
     ],
     "slot1": [
       {
         "name": "Hextech Flashtraption",
-        "image": "/data/img/Hextech_Flashtraption.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/HextechFlashtraption/HextechFlashtraption.png"
       },
       {
         "name": "Magical Footwear",
-        "image": "/data/img/Magical_Footwear.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png"
       },
       {
         "name": "Cash Back",
-        "image": "/data/img/Cash_Back.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/CashBack/CashBack2.png"
       }
     ],
     "slot2": [
       {
         "name": "Triple Tonic",
-        "image": "/data/img/Triple_Tonic.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/PerfectTiming/AlchemistCabinet.png"
       },
       {
         "name": "Time Warp Tonic",
-        "image": "/data/img/Time_Warp_Tonic.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/TimeWarpTonic/TimeWarpTonic.png"
       },
       {
         "name": "Biscuit Delivery",
-        "image": "/data/img/Biscuit_Delivery.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png"
       }
     ],
     "slot3": [
       {
         "name": "Cosmic Insight",
-        "image": "/data/img/Cosmic_Insight.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png"
       },
       {
         "name": "Approach Velocity",
-        "image": "/data/img/Approach_Velocity.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/ApproachVelocity/ApproachVelocity.png"
       },
       {
         "name": "Jack Of All Trades",
-        "image": "/data/img/Jack_Of_All_Trades.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/JackOfAllTrades/JackofAllTrades2.png"
       }
     ]
   },
   {
     "name": "Precision",
-    "image": "/data/img/Precision.webp",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7201_Precision.png",
     "keystones": [
       {
         "name": "Press the Attack",
-        "image": "/data/img/Press_the_Attack.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/PressTheAttack/PressTheAttack.png"
       },
       {
         "name": "Lethal Tempo",
-        "image": "/data/img/Lethal_Tempo.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
       },
       {
         "name": "Fleet Footwork",
-        "image": "/data/img/Fleet_Footwork.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/FleetFootwork/FleetFootwork.png"
       },
       {
         "name": "Conqueror",
-        "image": "/data/img/Conqueror.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/Conqueror/Conqueror.png"
       }
     ],
     "slot1": [
       {
         "name": "Absorb Life",
-        "image": "/data/img/Absorb_Life.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/AbsorbLife/AbsorbLife.png"
       },
       {
         "name": "Triumph",
-        "image": "/data/img/Triumph.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/Triumph.png"
       },
       {
         "name": "Presence of Mind",
-        "image": "/data/img/Presence_of_Mind.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
       }
     ],
     "slot2": [
       {
         "name": "Legend: Alacrity",
-        "image": "/data/img/Legend_Alacrity.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
       },
       {
         "name": "Legend: Haste",
-        "image": "/data/img/Legend_Haste.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/LegendHaste/LegendHaste.png"
       },
       {
         "name": "Legend: Bloodline",
-        "image": "/data/img/Legend_Bloodline.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png"
       }
     ],
     "slot3": [
       {
         "name": "Coup de Grace",
-        "image": "/data/img/Coup_de_Grace.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
       },
       {
         "name": "Cut Down",
-        "image": "/data/img/Cut_Down.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/CutDown/CutDown.png"
       },
       {
         "name": "Last Stand",
-        "image": "/data/img/Last_Stand.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/LastStand/LastStand.png"
       }
     ]
   },
   {
     "name": "Resolve",
-    "image": "/data/img/Resolve.webp",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7204_Resolve.png",
     "keystones": [
       {
         "name": "Grasp of the Undying",
-        "image": "/data/img/Grasp_of_the_Undying.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png"
       },
       {
         "name": "Aftershock",
-        "image": "/data/img/Aftershock.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/VeteranAftershock/VeteranAftershock.png"
       },
       {
         "name": "Guardian",
-        "image": "/data/img/Guardian.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/Guardian/Guardian.png"
       }
     ],
     "slot1": [
       {
         "name": "Demolish",
-        "image": "/data/img/Demolish.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/Demolish/Demolish.png"
       },
       {
         "name": "Font of Life",
-        "image": "/data/img/Font_of_Life.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/FontOfLife/FontOfLife.png"
       },
       {
         "name": "Shield Bash",
-        "image": "/data/img/Shield_Bash.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/MirrorShell/MirrorShell.png"
       }
     ],
     "slot2": [
       {
         "name": "Conditioning",
-        "image": "/data/img/Conditioning.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
       },
       {
         "name": "Second Wind",
-        "image": "/data/img/Second_Wind.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/SecondWind/SecondWind.png"
       },
       {
         "name": "Bone Plating",
-        "image": "/data/img/Bone_Plating.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/BonePlating/BonePlating.png"
       }
     ],
     "slot3": [
       {
         "name": "Overgrowth",
-        "image": "/data/img/Overgrowth.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/Overgrowth/Overgrowth.png"
       },
       {
         "name": "Revitalize",
-        "image": "/data/img/Revitalize.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/Revitalize/Revitalize.png"
       },
       {
         "name": "Unflinching",
-        "image": "/data/img/Unflinching.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
       }
     ]
   },
   {
     "name": "Sorcery",
-    "image": "/data/img/Sorcery.webp",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7202_Sorcery.png",
     "keystones": [
       {
         "name": "Summon Aery",
-        "image": "/data/img/Summon_Aery.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/SummonAery/SummonAery.png"
       },
       {
         "name": "Arcane Comet",
-        "image": "/data/img/Arcane_Comet.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.png"
       },
       {
         "name": "Phase Rush",
-        "image": "/data/img/Phase_Rush.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/PhaseRush/PhaseRush.png"
       }
     ],
     "slot1": [
       {
         "name": "Nullifying Orb",
-        "image": "/data/img/Nullifying_Orb.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/NullifyingOrb/Pokeshield.png"
       },
       {
         "name": "Manaflow Band",
-        "image": "/data/img/Manaflow_Band.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png"
       },
       {
         "name": "Nimbus Cloak",
-        "image": "/data/img/Nimbus_Cloak.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/NimbusCloak/6361.png"
       }
     ],
     "slot2": [
       {
         "name": "Transcendence",
-        "image": "/data/img/Transcendence.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/Transcendence/Transcendence.png"
       },
       {
         "name": "Celerity",
-        "image": "/data/img/Celerity.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/Celerity/CelerityTemp.png"
       },
       {
         "name": "Absolute Focus",
-        "image": "/data/img/Absolute_Focus.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png"
       }
     ],
     "slot3": [
       {
         "name": "Scorch",
-        "image": "/data/img/Scorch.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/Scorch/Scorch.png"
       },
       {
         "name": "Waterwalking",
-        "image": "/data/img/Waterwalking.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/Waterwalking/Waterwalking.png"
       },
       {
         "name": "Gathering Storm",
-        "image": "/data/img/Gathering_Storm.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png"
       }
     ]
   }

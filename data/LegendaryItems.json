@@ -1,1018 +1,1012 @@
 [
   {
-    "name": "Abyssal Mask",
-    "image": "/data/img/Abyssal_Mask.png",
+    "name": "Shurelya's Battlesong",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/2065.png",
     "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Magic Resistance",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Ardent Censer",
-    "image": "/data/img/Ardent_Censer.png",
-    "scales": [
-      "Supporter",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Axiom Arc",
-    "image": "/data/img/Axiom_Arc.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Banshee's Veil",
-    "image": "/data/img/Banshee_s_Veil.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Magic Resistance"
-    ]
-  },
-  {
-    "name": "Black Cleaver",
-    "image": "/data/img/Black_Cleaver.png",
-    "scales": [
-      "Fighter",
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Health & Regeneration",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Blackfire Torch",
-    "image": "/data/img/Blackfire_Torch.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Blade of the Ruined King",
-    "image": "/data/img/Blade_of_the_Ruined_King.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Movement",
-      "Life Steal & Vamp"
-    ]
-  },
-  {
-    "name": "Bloodthirster",
-    "image": "/data/img/Bloodthirster.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Life Steal & Vamp"
-    ]
-  },
-  {
-    "name": "Chempunk Chainsword",
-    "image": "/data/img/Chempunk_Chainsword.png",
-    "scales": [
-      "Fighter",
-      "Assassin",
-      "Attack Damage",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Cosmic Drive",
-    "image": "/data/img/Cosmic_Drive.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Health & Regeneration",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Cryptbloom",
-    "image": "/data/img/Cryptbloom.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Magic Penetration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Dawncore",
-    "image": "/data/img/Dawncore.png",
-    "scales": [
-      "Supporter",
-      "Ability Power",
-      "Mana & Regeneration"
-    ]
-  },
-  {
-    "name": "Dead Man's Plate",
-    "image": "/data/img/Dead_Man_s_Plate.png",
-    "scales": [
-      "Tank",
-      "On-Hit Effects",
-      "Health & Regeneration",
-      "Armor",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Death's Dance",
-    "image": "/data/img/Death_s_Dance.png",
-    "scales": [
-      "Fighter",
-      "Attack Damage",
-      "Armor",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Echoes of Helia",
-    "image": "/data/img/Echoes_of_Helia.png",
-    "scales": [
-      "Supporter",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Eclipse",
-    "image": "/data/img/Eclipse.png",
-    "scales": [
-      "Fighter",
-      "Assassin",
-      "Attack Damage",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Edge of Night",
-    "image": "/data/img/Edge_of_Night.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Essence Reaver",
-    "image": "/data/img/Essence_Reaver.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Critical Strike",
-      "On-Hit Effects",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Experimental Hexplate",
-    "image": "/data/img/Experimental_Hexplate.png",
-    "scales": [
-      "Fighter",
-      "Attack Damage",
-      "Attack Speed",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Force of Nature",
-    "image": "/data/img/Force_of_Nature.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Magic Resistance",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Frozen Heart",
-    "image": "/data/img/Frozen_Heart.png",
-    "scales": [
-      "Tank",
-      "Mana & Regeneration",
-      "Armor",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Guardian Angel",
-    "image": "/data/img/Guardian_Angel.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Assassin",
-      "Attack Damage",
-      "Armor"
-    ]
-  },
-  {
-    "name": "Guinsoo's Rageblade",
-    "image": "/data/img/Guinsoo_s_Rageblade.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Ability Power"
-    ]
-  },
-  {
-    "name": "Heartsteel",
-    "image": "/data/img/Heartsteel.png",
-    "scales": [
-      "Tank",
-      "On-Hit Effects",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Hextech Rocketbelt",
-    "image": "/data/img/Hextech_Rocketbelt.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Health & Regeneration",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Hollow Radiance",
-    "image": "/data/img/Hollow_Radiance.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Magic Resistance",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Horizon Focus",
-    "image": "/data/img/Horizon_Focus.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Hubris",
-    "image": "/data/img/Hubris.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Hullbreaker",
-    "image": "/data/img/Hullbreaker.png",
-    "scales": [
-      "Fighter",
-      "Attack Damage",
-      "Health & Regeneration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Iceborn Gauntlet",
-    "image": "/data/img/Iceborn_Gauntlet.png",
-    "scales": [
-      "Tank",
-      "On-Hit Effects",
-      "Health & Regeneration",
-      "Armor",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Immortal Shieldbow",
-    "image": "/data/img/Immortal_Shieldbow.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Critical Strike",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Imperial Mandate",
-    "image": "/data/img/Imperial_Mandate.png",
-    "scales": [
-      "Supporter",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Infinity Edge",
-    "image": "/data/img/Infinity_Edge.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Critical Strike"
-    ]
-  },
-  {
-    "name": "Jak'Sho, The Protean",
-    "image": "/data/img/Jak_Sho,_The_Protean.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Armor",
-      "Magic Resistance"
-    ]
-  },
-  {
-    "name": "Kaenic Rookern",
-    "image": "/data/img/Kaenic_Rookern.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Magic Resistance"
-    ]
-  },
-  {
-    "name": "Knight's Vow",
-    "image": "/data/img/Knight_s_Vow.png",
-    "scales": [
-      "Tank",
-      "Supporter",
-      "Health & Regeneration",
-      "Armor",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Kraken Slayer",
-    "image": "/data/img/Kraken_Slayer.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed",
-      "Armor Penetration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Liandry's Torment",
-    "image": "/data/img/Liandry_s_Torment.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Lich Bane",
-    "image": "/data/img/Lich_Bane.png",
-    "scales": [
-      "Mage",
-      "On-Hit Effects",
-      "Ability Power",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Locket of the Iron Solari",
-    "image": "/data/img/Locket_of_the_Iron_Solari.png",
-    "scales": [
-      "Tank",
-      "Supporter",
-      "Health & Regeneration",
-      "Armor",
-      "Magic Resistance",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Lord Dominik's Regards",
-    "image": "/data/img/Lord_Dominik_s_Regards.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Critical Strike",
-      "Armor Penetration"
-    ]
-  },
-  {
-    "name": "Luden's Companion",
-    "image": "/data/img/Luden_s_Companion.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Malignance",
-    "image": "/data/img/Malignance.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Maw of Malmortius",
-    "image": "/data/img/Maw_of_Malmortius.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Assassin",
-      "Attack Damage",
-      "Magic Resistance",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Mejai's Soulstealer",
-    "image": "/data/img/Mejai_s_Soulstealer.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Health & Regeneration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Mercurial Scimitar",
-    "image": "/data/img/Mercurial_Scimitar.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Magic Resistance",
-      "Movement",
-      "Life Steal & Vamp"
-    ]
-  },
-  {
-    "name": "Mikael's Blessing",
-    "image": "/data/img/Mikael_s_Blessing.png",
-    "scales": [
-      "Supporter",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Moonstone Renewer",
-    "image": "/data/img/Moonstone_Renewer.png",
-    "scales": [
-      "Supporter",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Morellonomicon",
-    "image": "/data/img/Morellonomicon.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Mortal Reminder",
-    "image": "/data/img/Mortal_Reminder.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Critical Strike",
-      "Armor Penetration"
-    ]
-  },
-  {
-    "name": "Muramana",
-    "image": "/data/img/Muramana.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Assassin",
-      "Attack Damage",
-      "On-Hit Effects",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Nashor's Tooth",
-    "image": "/data/img/Nashor_s_Tooth.png",
-    "scales": [
-      "Mage",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Ability Power",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Navori Flickerblade",
-    "image": "/data/img/Navori_Flickerblade.png",
-    "scales": [
-      "Marksman",
-      "Critical Strike",
-      "Attack Speed",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Opportunity",
-    "image": "/data/img/Opportunity.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Movement"
+      "SpellDamage",
+      "ManaRegen",
+      "Active",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
     ]
   },
   {
     "name": "Overlord's Bloodmail",
-    "image": "/data/img/Overlord_s_Bloodmail.png",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/2501.png",
     "scales": [
-      "Fighter",
-      "Attack Damage",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Phantom Dancer",
-    "image": "/data/img/Phantom_Dancer.png",
-    "scales": [
-      "Marksman",
-      "Critical Strike",
-      "Attack Speed",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Profane Hydra",
-    "image": "/data/img/Profane_Hydra.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Rabadon's Deathcap",
-    "image": "/data/img/Rabadon_s_Deathcap.png",
-    "scales": [
-      "Mage",
-      "Ability Power"
-    ]
-  },
-  {
-    "name": "Randuin's Omen",
-    "image": "/data/img/Randuin_s_Omen.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Armor"
-    ]
-  },
-  {
-    "name": "Rapid Firecannon",
-    "image": "/data/img/Rapid_Firecannon.png",
-    "scales": [
-      "Marksman",
-      "Critical Strike",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Ravenous Hydra",
-    "image": "/data/img/Ravenous_Hydra.png",
-    "scales": [
-      "Fighter",
-      "Assassin",
-      "Attack Damage",
-      "Ability Haste",
-      "Life Steal & Vamp"
-    ]
-  },
-  {
-    "name": "Redemption",
-    "image": "/data/img/Redemption.png",
-    "scales": [
-      "Supporter",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Riftmaker",
-    "image": "/data/img/Riftmaker.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Magic Penetration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Rod of Ages",
-    "image": "/data/img/Rod_of_Ages.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Runaan's Hurricane",
-    "image": "/data/img/Runaan_s_Hurricane.png",
-    "scales": [
-      "Marksman",
-      "Critical Strike",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Rylai's Crystal Scepter",
-    "image": "/data/img/Rylai_s_Crystal_Scepter.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Seraph's Embrace",
-    "image": "/data/img/Seraph_s_Embrace.png",
-    "scales": [
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Serpent's Fang",
-    "image": "/data/img/Serpent_s_Fang.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration"
-    ]
-  },
-  {
-    "name": "Serylda's Grudge",
-    "image": "/data/img/Serylda_s_Grudge.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Shadowflame",
-    "image": "/data/img/Shadowflame.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Magic Penetration"
-    ]
-  },
-  {
-    "name": "Shurelya's Battlesong",
-    "image": "/data/img/Shurelya_s_Battlesong.png",
-    "scales": [
-      "Tank",
-      "Supporter",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Spear of Shojin",
-    "image": "/data/img/Spear_of_Shojin.png",
-    "scales": [
-      "Fighter",
-      "Assassin",
-      "Attack Damage",
-      "Health & Regeneration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Spirit Visage",
-    "image": "/data/img/Spirit_Visage.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Magic Resistance",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Staff of Flowing Water",
-    "image": "/data/img/Staff_of_Flowing_Water.png",
-    "scales": [
-      "Supporter",
-      "Ability Power",
-      "Mana & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Statikk Shiv",
-    "image": "/data/img/Statikk_Shiv.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Sterak's Gage",
-    "image": "/data/img/Sterak_s_Gage.png",
-    "scales": [
-      "Fighter",
-      "Tank",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Stormsurge",
-    "image": "/data/img/Stormsurge.png",
-    "scales": [
-      "Mage",
-      "Ability Power",
-      "Magic Penetration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Stridebreaker",
-    "image": "/data/img/Stridebreaker.png",
-    "scales": [
-      "Fighter",
-      "Attack Damage",
-      "Attack Speed",
-      "Health & Regeneration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Sundered Sky",
-    "image": "/data/img/Sundered_Sky.png",
-    "scales": [
-      "Fighter",
-      "Attack Damage",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Sunfire Aegis",
-    "image": "/data/img/Sunfire_Aegis.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Armor",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Terminus",
-    "image": "/data/img/Terminus.png",
-    "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed"
-    ]
-  },
-  {
-    "name": "The Collector",
-    "image": "/data/img/The_Collector.png",
-    "scales": [
-      "Marksman",
-      "Assassin",
-      "Attack Damage",
-      "Critical Strike",
-      "Armor Penetration"
-    ]
-  },
-  {
-    "name": "Thornmail",
-    "image": "/data/img/Thornmail.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Armor"
-    ]
-  },
-  {
-    "name": "Titanic Hydra",
-    "image": "/data/img/Titanic_Hydra.png",
-    "scales": [
-      "Fighter",
-      "Tank",
-      "Attack Damage",
-      "On-Hit Effects",
-      "Health & Regeneration"
-    ]
-  },
-  {
-    "name": "Trailblazer",
-    "image": "/data/img/Trailblazer.png",
-    "scales": [
-      "Supporter",
-      "Health & Regeneration",
-      "Armor",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Trinity Force",
-    "image": "/data/img/Trinity_Force.png",
-    "scales": [
-      "Fighter",
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed",
-      "Health & Regeneration",
-      "Ability Haste",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Umbral Glaive",
-    "image": "/data/img/Umbral_Glaive.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "On-Hit Effects",
-      "Armor Penetration",
-      "Ability Haste"
+      "Health",
+      "Damage"
     ]
   },
   {
     "name": "Unending Despair",
-    "image": "/data/img/Unending_Despair.png",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/2502.png",
     "scales": [
-      "Tank",
-      "Health & Regeneration",
+      "Health",
       "Armor",
-      "Ability Haste"
+      "CooldownReduction",
+      "AbilityHaste"
     ]
   },
   {
-    "name": "Vigilant Wardstone",
-    "image": "/data/img/Vigilant_Wardstone.png",
+    "name": "Blackfire Torch",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/2503.png",
     "scales": [
-      "Supporter",
-      "Health & Regeneration",
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Kaenic Rookern",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/2504.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen"
+    ]
+  },
+  {
+    "name": "Trailblazer",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3002.png",
+    "scales": [
+      "Health",
       "Armor",
-      "Magic Resistance",
-      "Ability Haste"
+      "NonbootsMovement"
     ]
   },
   {
-    "name": "Void Staff",
-    "image": "/data/img/Void_Staff.png",
+    "name": "Guardian Angel",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3026.png",
     "scales": [
-      "Mage",
-      "Ability Power",
-      "Magic Penetration"
+      "Armor",
+      "Damage"
     ]
   },
   {
-    "name": "Voltaic Cyclosword",
-    "image": "/data/img/Voltaic_Cyclosword.png",
+    "name": "Infinity Edge",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3031.png",
     "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Warmog's Armor",
-    "image": "/data/img/Warmog_s_Armor.png",
-    "scales": [
-      "Tank",
-      "Health & Regeneration",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Winter's Approach",
-    "image": "/data/img/Winter_s_Approach.png",
-    "scales": [
-      "Tank",
-      "Supporter",
-      "Mana & Regeneration",
-      "Health & Regeneration",
-      "Ability Haste"
-    ]
-  },
-  {
-    "name": "Wit's End",
-    "image": "/data/img/Wit_s_End.png",
-    "scales": [
-      "Fighter",
-      "Attack Speed",
-      "On-Hit Effects",
-      "Magic Resistance",
-      "Movement"
-    ]
-  },
-  {
-    "name": "Youmuu's Ghostblade",
-    "image": "/data/img/Youmuu_s_Ghostblade.png",
-    "scales": [
-      "Assassin",
-      "Attack Damage",
-      "Armor Penetration",
-      "Movement"
+      "CriticalStrike",
+      "Damage"
     ]
   },
   {
     "name": "Yun Tal Wildarrows",
-    "image": "/data/img/Yun_Tal_Wildarrows.png",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3032.png",
     "scales": [
-      "Marksman",
-      "Attack Damage",
-      "Attack Speed",
-      "Armor Penetration"
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed"
+    ]
+  },
+  {
+    "name": "Mortal Reminder",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3033.png",
+    "scales": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Lord Dominik's Regards",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3036.png",
+    "scales": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Seraph's Embrace",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3040.png",
+    "scales": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Muramana",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3042.png",
+    "scales": [
+      "Damage",
+      "Mana",
+      "CooldownReduction",
+      "OnHit",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Phantom Dancer",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3046.png",
+    "scales": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
     ]
   },
   {
     "name": "Zeke's Convergence",
-    "image": "/data/img/Zeke_s_Convergence.png",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3050.png",
     "scales": [
-      "Tank",
-      "Supporter",
-      "On-Hit Effects",
-      "Health & Regeneration",
+      "Health",
+      "SpellBlock",
       "Armor",
-      "Magic Resistance",
-      "Ability Haste"
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Sterak's Gage",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3053.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "Tenacity"
+    ]
+  },
+  {
+    "name": "Spirit Visage",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3065.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Sunfire Aegis",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3068.png",
+    "scales": [
+      "Health",
+      "Armor",
+      "Aura",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Black Cleaver",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3071.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "OnHit",
+      "NonbootsMovement",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Bloodthirster",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3072.png",
+    "scales": [
+      "Damage",
+      "LifeSteal"
+    ]
+  },
+  {
+    "name": "Experimental Hexplate",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3073.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Ravenous Hydra",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3074.png",
+    "scales": [
+      "Damage",
+      "LifeSteal",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Thornmail",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3075.png",
+    "scales": [
+      "Health",
+      "Armor"
+    ]
+  },
+  {
+    "name": "Trinity Force",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3078.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "CooldownReduction",
+      "OnHit",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Warmog's Armor",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3083.png",
+    "scales": [
+      "Health",
+      "HealthRegen",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Heartsteel",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3084.png",
+    "scales": [
+      "Health",
+      "HealthRegen"
+    ]
+  },
+  {
+    "name": "Runaan's Hurricane",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3085.png",
+    "scales": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Statikk Shiv",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3087.png",
+    "scales": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Rabadon's Deathcap",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3089.png",
+    "scales": [
+      "SpellDamage"
+    ]
+  },
+  {
+    "name": "Wit's End",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3091.png",
+    "scales": [
+      "SpellBlock",
+      "AttackSpeed",
+      "OnHit",
+      "Tenacity"
+    ]
+  },
+  {
+    "name": "Rapid Firecannon",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3094.png",
+    "scales": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Lich Bane",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3100.png",
+    "scales": [
+      "SpellDamage",
+      "OnHit",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Banshee's Veil",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3102.png",
+    "scales": [
+      "SpellBlock",
+      "SpellDamage"
+    ]
+  },
+  {
+    "name": "Redemption",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3107.png",
+    "scales": [
+      "Health",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Knight's Vow",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3109.png",
+    "scales": [
+      "Health",
+      "HealthRegen",
+      "Armor",
+      "Aura",
+      "Active",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Frozen Heart",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3110.png",
+    "scales": [
+      "Armor",
+      "Mana",
+      "Aura",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Nashor's Tooth",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3115.png",
+    "scales": [
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Rylai's Crystal Scepter",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3116.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "Slow"
+    ]
+  },
+  {
+    "name": "Malignance",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3118.png",
+    "scales": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Winter's Approach",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3119.png",
+    "scales": [
+      "Health",
+      "Mana",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Guinsoo's Rageblade",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3124.png",
+    "scales": [
+      "Damage",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit"
+    ]
+  },
+  {
+    "name": "Void Staff",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3135.png",
+    "scales": [
+      "MagicPenetration",
+      "SpellDamage"
+    ]
+  },
+  {
+    "name": "Cryptbloom",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3137.png",
+    "scales": [
+      "SpellDamage",
+      "MagicPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Mercurial Scimitar",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3139.png",
+    "scales": [
+      "SpellBlock",
+      "Damage",
+      "LifeSteal",
+      "Active",
+      "NonbootsMovement",
+      "Tenacity"
+    ]
+  },
+  {
+    "name": "Youmuu's Ghostblade",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3142.png",
+    "scales": [
+      "Damage",
+      "Active",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Randuin's Omen",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3143.png",
+    "scales": [
+      "Health",
+      "Armor",
+      "Active",
+      "Slow"
+    ]
+  },
+  {
+    "name": "Hextech Rocketbelt",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3152.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "Active",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Blade of The Ruined King",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3153.png",
+    "scales": [
+      "Damage",
+      "AttackSpeed",
+      "LifeSteal",
+      "Slow",
+      "OnHit"
+    ]
+  },
+  {
+    "name": "Maw of Malmortius",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3156.png",
+    "scales": [
+      "SpellBlock",
+      "Damage",
+      "LifeSteal",
+      "SpellVamp",
+      "AbilityHaste"
     ]
   },
   {
     "name": "Zhonya's Hourglass",
-    "image": "/data/img/Zhonya_s_Hourglass.png",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3157.png",
     "scales": [
-      "Mage",
-      "Ability Power",
-      "Armor"
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ]
+  },
+  {
+    "name": "Spear of Shojin",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3161.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Morellonomicon",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3165.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Zephyr",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3172.png",
+    "scales": [
+      "AttackSpeed",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Umbral Glaive",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3179.png",
+    "scales": [
+      "Damage",
+      "Vision",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Hullbreaker",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3181.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Locket of the Iron Solari",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3190.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Aura",
+      "Active",
+      "MagicResist",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Mikael's Blessing",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3222.png",
+    "scales": [
+      "Health",
+      "ManaRegen",
+      "Active",
+      "CooldownReduction",
+      "Tenacity",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Terminus",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3302.png",
+    "scales": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "MagicPenetration",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Ardent Censer",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3504.png",
+    "scales": [
+      "AttackSpeed",
+      "SpellDamage",
+      "ManaRegen",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Essence Reaver",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3508.png",
+    "scales": [
+      "Damage",
+      "CriticalStrike",
+      "ManaRegen",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Dead Man's Plate",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3742.png",
+    "scales": [
+      "Health",
+      "Armor",
+      "Slow",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Titanic Hydra",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3748.png",
+    "scales": [
+      "Health",
+      "HealthRegen",
+      "Damage",
+      "OnHit"
+    ]
+  },
+  {
+    "name": "Edge of Night",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3814.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Imperial Mandate",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4005.png",
+    "scales": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Force of Nature",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4401.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Horizon Focus",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4628.png",
+    "scales": [
+      "SpellDamage",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Cosmic Drive",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4629.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Riftmaker",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4633.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "SpellVamp"
+    ]
+  },
+  {
+    "name": "Night Harvester",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4636.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Demonic Embrace",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4637.png",
+    "scales": [
+      "Health",
+      "SpellDamage"
+    ]
+  },
+  {
+    "name": "Vigilant Wardstone",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4643.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Vision",
+      "Active",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Shadowflame",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4645.png",
+    "scales": [
+      "SpellDamage",
+      "MagicPenetration"
+    ]
+  },
+  {
+    "name": "Stormsurge",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4646.png",
+    "scales": [
+      "SpellDamage",
+      "GoldPer",
+      "NonbootsMovement",
+      "MagicPenetration"
+    ]
+  },
+  {
+    "name": "Death's Dance",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6333.png",
+    "scales": [
+      "Armor",
+      "Damage",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Chempunk Chainsword",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6609.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Sundered Sky",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6610.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Staff of Flowing Water",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6616.png",
+    "scales": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Moonstone Renewer",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6617.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Echoes of Helia",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6620.png",
+    "scales": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Dawncore",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6621.png",
+    "scales": [
+      "SpellDamage",
+      "ManaRegen"
+    ]
+  },
+  {
+    "name": "Stridebreaker",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6631.png",
+    "scales": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "Slow",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Liandry's Torment",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6653.png",
+    "scales": [
+      "Health",
+      "SpellDamage"
+    ]
+  },
+  {
+    "name": "Luden's Companion",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6655.png",
+    "scales": [
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Rod of Ages",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6657.png",
+    "scales": [
+      "Health",
+      "HealthRegen",
+      "SpellDamage",
+      "Mana",
+      "ManaRegen"
+    ]
+  },
+  {
+    "name": "Iceborn Gauntlet",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6662.png",
+    "scales": [
+      "Health",
+      "Armor",
+      "CooldownReduction",
+      "Slow",
+      "OnHit",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Hollow Radiance",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6664.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Aura",
+      "MagicResist",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Jak'Sho, The Protean",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6665.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "MagicResist"
+    ]
+  },
+  {
+    "name": "Kraken Slayer",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6672.png",
+    "scales": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "Immortal Shieldbow",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6673.png",
+    "scales": [
+      "Damage",
+      "CriticalStrike"
+    ]
+  },
+  {
+    "name": "Navori Flickerblade",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6675.png",
+    "scales": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ]
+  },
+  {
+    "name": "The Collector",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6676.png",
+    "scales": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Eclipse",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6692.png",
+    "scales": [
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Prowler's Claw",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6693.png",
+    "scales": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Serylda's Grudge",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6694.png",
+    "scales": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Serpent's Fang",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6695.png",
+    "scales": [
+      "Damage",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Axiom Arc",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6696.png",
+    "scales": [
+      "Damage",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Hubris",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6697.png",
+    "scales": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Profane Hydra",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6698.png",
+    "scales": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Voltaic Cyclosword",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6699.png",
+    "scales": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Opportunity",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6701.png",
+    "scales": [
+      "Damage",
+      "Active",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ]
+  },
+  {
+    "name": "Anathema's Chains",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/8001.png",
+    "scales": [
+      "Health",
+      "Active",
+      "CooldownReduction",
+      "AbilityHaste"
+    ]
+  },
+  {
+    "name": "Abyssal Mask",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/8020.png",
+    "scales": [
+      "Health",
+      "SpellBlock",
+      "CooldownReduction",
+      "MagicPenetration",
+      "MagicResist",
+      "AbilityHaste"
     ]
   }
 ]

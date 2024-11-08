@@ -1,42 +1,34 @@
 [
   {
-    "name": "Berserker's Greaves",
-    "image": "/data/img/Berserker_s_Greaves.png"
+    "name": "Boots",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/1001.png"
   },
   {
-    "name": "Boots",
-    "image": "/data/img/Boots.png"
+    "name": "Berserker's Greaves",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3006.png"
   },
   {
     "name": "Boots of Swiftness",
-    "image": "/data/img/Boots_of_Swiftness.png"
-  },
-  {
-    "name": "Ionian Boots of Lucidity",
-    "image": "/data/img/Ionian_Boots_of_Lucidity.png"
-  },
-  {
-    "name": "Mercury's Treads",
-    "image": "/data/img/Mercury_s_Treads.png"
-  },
-  {
-    "name": "Plated Steelcaps",
-    "image": "/data/img/Plated_Steelcaps.png"
-  },
-  {
-    "name": "Sorcerer's Shoes",
-    "image": "/data/img/Sorcerer_s_Shoes.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3009.png"
   },
   {
     "name": "Symbiotic Soles",
-    "image": "/data/img/Symbiotic_Soles.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3010.png"
   },
   {
-    "name": "Synchronized Souls",
-    "image": "/data/img/Synchronized_Souls.png"
+    "name": "Sorcerer's Shoes",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3020.png"
   },
   {
-    "name": "Zephyr",
-    "image": "/data/img/Zephyr.png"
+    "name": "Plated Steelcaps",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3047.png"
+  },
+  {
+    "name": "Mercury's Treads",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3111.png"
+  },
+  {
+    "name": "Ionian Boots of Lucidity",
+    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3158.png"
   }
 ]
