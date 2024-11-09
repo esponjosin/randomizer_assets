@@ -101,26 +101,6 @@
     ]
   },
   {
-    "name": "Seraph's Embrace",
-    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3040.png",
-    "scales": [
-      "SpellDamage",
-      "Mana",
-      "AbilityHaste"
-    ]
-  },
-  {
-    "name": "Muramana",
-    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3042.png",
-    "scales": [
-      "Damage",
-      "Mana",
-      "CooldownReduction",
-      "OnHit",
-      "ArmorPenetration"
-    ]
-  },
-  {
     "name": "Phantom Dancer",
     "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/3046.png",
     "scales": [
@@ -670,25 +650,6 @@
     ]
   },
   {
-    "name": "Night Harvester",
-    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4636.png",
-    "scales": [
-      "Health",
-      "SpellDamage",
-      "CooldownReduction",
-      "NonbootsMovement",
-      "AbilityHaste"
-    ]
-  },
-  {
-    "name": "Demonic Embrace",
-    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4637.png",
-    "scales": [
-      "Health",
-      "SpellDamage"
-    ]
-  },
-  {
     "name": "Vigilant Wardstone",
     "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/4643.png",
     "scales": [
@@ -908,16 +869,6 @@
     ]
   },
   {
-    "name": "Prowler's Claw",
-    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6693.png",
-    "scales": [
-      "Damage",
-      "CooldownReduction",
-      "ArmorPenetration",
-      "AbilityHaste"
-    ]
-  },
-  {
     "name": "Serylda's Grudge",
     "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/6694.png",
     "scales": [
@@ -985,16 +936,6 @@
       "Active",
       "NonbootsMovement",
       "ArmorPenetration"
-    ]
-  },
-  {
-    "name": "Anathema's Chains",
-    "image": "https://ddragon.leagueoflegends.com/cdn/14.22.1/img/item/8001.png",
-    "scales": [
-      "Health",
-      "Active",
-      "CooldownReduction",
-      "AbilityHaste"
     ]
   },
   {
