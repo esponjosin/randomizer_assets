@@ -32,16 +32,16 @@
     ],
     "slot2": [
       {
-        "name": "Zombie Ward",
-        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/ZombieWard/ZombieWard.png"
+        "name": "Sixth Sense",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/SixthSense/SixthSense.png"
       },
       {
-        "name": "Ghost Poro",
-        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/GhostPoro/GhostPoro.png"
+        "name": "Grisly Mementos",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/GrislyMementos/GrislyMementos.png"
       },
       {
-        "name": "Eyeball Collection",
-        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/EyeballCollection/EyeballCollection.png"
+        "name": "Deep Ward",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/DeepWard/DeepWard.png"
       }
     ],
     "slot3": [
@@ -262,8 +262,8 @@
     ],
     "slot1": [
       {
-        "name": "Nullifying Orb",
-        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/NullifyingOrb/Pokeshield.png"
+        "name": "Axiom Arcanist",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Sorcery/NullifyingOrb/Axiom_Arcanist.png"
       },
       {
         "name": "Manaflow Band",
