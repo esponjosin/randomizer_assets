@@ -9,8 +9,8 @@
       "image": "/data/img/Attack_Speed.webp"
     },
     {
-      "name": "Cooldown Reduction",
-      "image": "/data/img/Cooldown_Reduction.webp"
+      "name": "Ability Haste",
+      "image": "/data/img/Ability_Haste.webp"
     }
   ],
   "Flex": [

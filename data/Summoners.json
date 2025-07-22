@@ -1,38 +1,38 @@
 [
   {
     "name": "Barrier",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerBarrier.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerBarrier.png"
   },
   {
     "name": "Cleanse",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerBoost.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerBoost.png"
   },
   {
     "name": "Ignite",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerDot.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerDot.png"
   },
   {
     "name": "Exhaust",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerExhaust.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerExhaust.png"
   },
   {
     "name": "Flash",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerFlash.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerFlash.png"
   },
   {
     "name": "Ghost",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerHaste.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerHaste.png"
   },
   {
     "name": "Heal",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerHeal.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerHeal.png"
   },
   {
     "name": "Smite",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerSmite.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerSmite.png"
   },
   {
     "name": "Teleport",
-    "image": "https://ddragon.leagueoflegends.com/cdn/15.5.1/img/spell/SummonerTeleport.png"
+    "image": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/spell/SummonerTeleport.png"
   }
 ]
